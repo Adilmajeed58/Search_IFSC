@@ -26,6 +26,7 @@ body {
   padding: 30px;
   box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
   text-align: center;
+  position: relative; /* Ensure suggestions stay within card */
 }
 
 h1 {
@@ -96,9 +97,11 @@ select option {
   border-radius: 8px;
   max-height: 200px;
   overflow-y: auto;
-  z-index: 10;
+  z-index: 100; /* Ensure above other elements */
   display: none;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  touch-action: auto; /* Improve touch scrolling */
+  overscroll-behavior: contain; /* Prevent overscrolling */
 }
 
 .suggestions.show {
@@ -111,6 +114,12 @@ select option {
   color: #333333;
   cursor: pointer;
   transition: background 0.2s ease;
+  user-select: none; /* Prevent text selection */
+}
+.suggestion-item:hover,
+.suggestion-item:active {
+  background: #E8F8F5;
+  color: #1ABC9C;
 }
 
 .suggestion-item:hover {
@@ -245,7 +254,7 @@ button[type="submit"]:hover {
   }
 
   .suggestions {
-    max-height: 150px;
+    max-height: 180px;
   }
 
   .suggestion-item {

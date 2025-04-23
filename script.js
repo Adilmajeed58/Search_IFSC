@@ -56,8 +56,21 @@ document.addEventListener('DOMContentLoaded', () => {
     branchSelect.disabled = false;
   }
 
+  // Debounce function to limit input event frequency
+  function debounce(func, wait) {
+    let timeout;
+    return function executedFunction(...args) {
+      const later = () => {
+        clearTimeout(timeout);
+        func(...args);
+      };
+      clearTimeout(timeout);
+      timeout = setTimeout(later, wait);
+    };
+  }
+
   // Show autocomplete suggestions
-  branchInput.addEventListener('input', () => {
+  const showSuggestions = debounce(() => {
     const inputText = branchInput.value.trim();
     suggestionsDiv.innerHTML = '';
     suggestionsDiv.classList.remove('show');
@@ -74,15 +87,19 @@ document.addEventListener('DOMContentLoaded', () => {
       const suggestion = document.createElement('div');
       suggestion.classList.add('suggestion-item');
       suggestion.textContent = match.branch;
-      suggestion.addEventListener('click', () => {
-        branchInput.value = match.branch;
-        suggestionsDiv.innerHTML = '';
-        suggestionsDiv.classList.remove('show');
+      ['click', 'touchstart'].forEach(event => {
+        suggestion.addEventListener(event, () => {
+          branchInput.value = match.branch;
+          suggestionsDiv.innerHTML = '';
+          suggestionsDiv.classList.remove('show');
+        });
       });
       suggestionsDiv.appendChild(suggestion);
     });
     suggestionsDiv.classList.add('show');
-  });
+  }, 100);
+
+  branchInput.addEventListener('input', showSuggestions);
 
   // Hide suggestions when clicking outside
   document.addEventListener('click', (e) => {

@@ -1,0 +1,7100 @@
+[
+    {
+       "S.No.": "1",
+       "Sol Id": "0005",
+       "Branch Name": "RESIDENCY  ROAD SRINAGAR",
+       "Alpha Code ": "CHINAR",
+       "IFSC Code ": "JAKA0CHINAR"
+   },
+   {
+       "S.No.": "2",
+       "Sol Id": "0021",
+       "Branch Name": "SHALAMAR ROAD JAMMU",
+       "Alpha Code ": "LUXURY",
+       "IFSC Code ": "JAKA0LUXURY"
+   },
+   {
+       "S.No.": "3",
+       "Sol Id": "0213",
+       "Branch Name": "T P BARAMULLA",
+       "Alpha Code ": "TEHSIL",
+       "IFSC Code ": "JAKA0TEHSIL"
+   },
+   {
+       "S.No.": "4",
+       "Sol Id": "0014",
+       "Branch Name": "T P ANANTNAG",
+       "Alpha Code ": "EMPIRE",
+       "IFSC Code ": "JAKA0EMPIRE"
+   },
+   {
+       "S.No.": "5",
+       "Sol Id": "0028",
+       "Branch Name": "UDHAMPUR (MAIN)",
+       "Alpha Code ": "UDMPUR",
+       "IFSC Code ": "JAKA0UDMPUR"
+   },
+   {
+       "S.No.": "6",
+       "Sol Id": "0004",
+       "Branch Name": "MAHARAJ GUNJ SRINAGAR",
+       "Alpha Code ": "MAHRAJ",
+       "IFSC Code ": "JAKA0MAHRAJ"
+   },
+   {
+       "S.No.": "7",
+       "Sol Id": "0347",
+       "Branch Name": "T P SOPORE ",
+       "Alpha Code ": "TRUSTE",
+       "IFSC Code ": "JAKA0TRUSTE"
+   },
+   {
+       "S.No.": "8",
+       "Sol Id": "0026",
+       "Branch Name": "KATHUA (MAIN)",
+       "Alpha Code ": "KATHUA",
+       "IFSC Code ": "JAKA0KATHUA"
+   },
+   {
+       "S.No.": "9",
+       "Sol Id": "0002",
+       "Branch Name": "AMIRA KADAL SRINAGAR",
+       "Alpha Code ": "SQUARE",
+       "IFSC Code ": "JAKA0SQUARE"
+   },
+   {
+       "S.No.": "10",
+       "Sol Id": "0030",
+       "Branch Name": "BHADERWAH",
+       "Alpha Code ": "BHADAR",
+       "IFSC Code ": "JAKA0BHADAR"
+   },
+   {
+       "S.No.": "11",
+       "Sol Id": "0031",
+       "Branch Name": "KISHTWAR",
+       "Alpha Code ": "KSTWAR",
+       "IFSC Code ": "JAKA0KSTWAR"
+   },
+   {
+       "S.No.": "12",
+       "Sol Id": "0027",
+       "Branch Name": "SAMBA (MAIN)",
+       "Alpha Code ": "SAMBHA",
+       "IFSC Code ": "JAKA0SAMBHA"
+   },
+   {
+       "S.No.": "13",
+       "Sol Id": "0018",
+       "Branch Name": "SHOPIAN (MAIN)",
+       "Alpha Code ": "SHOPAN",
+       "IFSC Code ": "JAKA0SHOPAN"
+   },
+   {
+       "S.No.": "14",
+       "Sol Id": "0003",
+       "Branch Name": "HABBA KADAL SRINAGAR",
+       "Alpha Code ": "HKADAL",
+       "IFSC Code ": "JAKA0HKADAL"
+   },
+   {
+       "S.No.": "15",
+       "Sol Id": "0434",
+       "Branch Name": "NEHRU MARKET JAMMU",
+       "Alpha Code ": "NEHROO",
+       "IFSC Code ": "JAKA0NEHROO"
+   },
+   {
+       "S.No.": "16",
+       "Sol Id": "0020",
+       "Branch Name": "RAJOURI (MAIN)",
+       "Alpha Code ": "RADISH",
+       "IFSC Code ": "JAKA0RADISH"
+   },
+   {
+       "S.No.": "17",
+       "Sol Id": "0007",
+       "Branch Name": "UNIVERSITY CAMPUS HAZRATBAL(NANDPORA) ",
+       "Alpha Code ": "NASEEM",
+       "IFSC Code ": "JAKA0NASEEM"
+   },
+   {
+       "S.No.": "18",
+       "Sol Id": "0019",
+       "Branch Name": "POONCH ",
+       "Alpha Code ": "BORDER",
+       "IFSC Code ": "JAKA0BORDER"
+   },
+   {
+       "S.No.": "19",
+       "Sol Id": "0024",
+       "Branch Name": "AKHNOOR",
+       "Alpha Code ": "AKHNOR",
+       "IFSC Code ": "JAKA0AKHNOR"
+   },
+   {
+       "S.No.": "20",
+       "Sol Id": "0131",
+       "Branch Name": "HANDWARA",
+       "Alpha Code ": "HNDWAR",
+       "IFSC Code ": "JAKA0HNDWAR"
+   },
+   {
+       "S.No.": "21",
+       "Sol Id": "0029",
+       "Branch Name": "REASI",
+       "Alpha Code ": "REASSI",
+       "IFSC Code ": "JAKA0REASSI"
+   },
+   {
+       "S.No.": "22",
+       "Sol Id": "0025",
+       "Branch Name": "R S PURA",
+       "Alpha Code ": "RSPORA",
+       "IFSC Code ": "JAKA0RSPORA"
+   },
+   {
+       "S.No.": "23",
+       "Sol Id": "0016",
+       "Branch Name": "PAMPORE",
+       "Alpha Code ": "SAFRON",
+       "IFSC Code ": "JAKA0SAFRON"
+   },
+   {
+       "S.No.": "24",
+       "Sol Id": "0023",
+       "Branch Name": "CANAL ROAD JAMMU",
+       "Alpha Code ": "CAMPUS",
+       "IFSC Code ": "JAKA0CAMPUS"
+   },
+   {
+       "S.No.": "25",
+       "Sol Id": "0010",
+       "Branch Name": "KULGAM (MAIN)",
+       "Alpha Code ": "KULGAM",
+       "IFSC Code ": "JAKA0KULGAM"
+   },
+   {
+       "S.No.": "26",
+       "Sol Id": "0001",
+       "Branch Name": "AZADPUR  DELHI",
+       "Alpha Code ": "AZDPUR",
+       "IFSC Code ": "JAKA0AZDPUR"
+   },
+   {
+       "S.No.": "27",
+       "Sol Id": "0008",
+       "Branch Name": "CHADURA",
+       "Alpha Code ": "CHADUR",
+       "IFSC Code ": "JAKA0CHADUR"
+   },
+   {
+       "S.No.": "28",
+       "Sol Id": "0012",
+       "Branch Name": "KUPWARA (MAIN)",
+       "Alpha Code ": "FOREST",
+       "IFSC Code ": "JAKA0FOREST"
+   },
+   {
+       "S.No.": "29",
+       "Sol Id": "0017",
+       "Branch Name": "QAZIGUND",
+       "Alpha Code ": "QAZIGD",
+       "IFSC Code ": "JAKA0QAZIGD"
+   },
+   {
+       "S.No.": "30",
+       "Sol Id": "0013",
+       "Branch Name": "PATTAN",
+       "Alpha Code ": "PATTAN",
+       "IFSC Code ": "JAKA0PATTAN"
+   },
+   {
+       "S.No.": "31",
+       "Sol Id": "0006",
+       "Branch Name": "SAFA KADAL SRINAGAR",
+       "Alpha Code ": "HONOUR",
+       "IFSC Code ": "JAKA0HONOUR"
+   },
+   {
+       "S.No.": "32",
+       "Sol Id": "0034",
+       "Branch Name": "KALAKOTE",
+       "Alpha Code ": "KALKAT",
+       "IFSC Code ": "JAKA0KALKAT"
+   },
+   {
+       "S.No.": "33",
+       "Sol Id": "0033",
+       "Branch Name": "GAGWAL ",
+       "Alpha Code ": "GAGWAL",
+       "IFSC Code ": "JAKA0GAGWAL"
+   },
+   {
+       "S.No.": "34",
+       "Sol Id": "0032",
+       "Branch Name": "VIJAYPUR",
+       "Alpha Code ": "VIJJAY",
+       "IFSC Code ": "JAKA0VIJJAY"
+   },
+   {
+       "S.No.": "35",
+       "Sol Id": "0036",
+       "Branch Name": "BEERWAH",
+       "Alpha Code ": "BEERWA",
+       "IFSC Code ": "JAKA0BEERWA"
+   },
+   {
+       "S.No.": "36",
+       "Sol Id": "0253",
+       "Branch Name": "PATHANKOTE",
+       "Alpha Code ": "PATHAN",
+       "IFSC Code ": "JAKA0PATHAN"
+   },
+   {
+       "S.No.": "37",
+       "Sol Id": "0037",
+       "Branch Name": "KHREW",
+       "Alpha Code ": "CEMENT",
+       "IFSC Code ": "JAKA0CEMENT"
+   },
+   {
+       "S.No.": "38",
+       "Sol Id": "0038",
+       "Branch Name": "NOWHATTA SRINAGAR",
+       "Alpha Code ": "NOHATA",
+       "IFSC Code ": "JAKA0NOHATA"
+   },
+   {
+       "S.No.": "39",
+       "Sol Id": "0039",
+       "Branch Name": "MATTAN ",
+       "Alpha Code ": "CAREER",
+       "IFSC Code ": "JAKA0CAREER"
+   },
+   {
+       "S.No.": "40",
+       "Sol Id": "0040",
+       "Branch Name": "CHENANI",
+       "Alpha Code ": "CHNANI",
+       "IFSC Code ": "JAKA0CHNANI"
+   },
+   {
+       "S.No.": "41",
+       "Sol Id": "0041",
+       "Branch Name": "PAROLE",
+       "Alpha Code ": "PAROLE",
+       "IFSC Code ": "JAKA0PAROLE"
+   },
+   {
+       "S.No.": "42",
+       "Sol Id": "0043",
+       "Branch Name": "THANA MANDI",
+       "Alpha Code ": "THANAM",
+       "IFSC Code ": "JAKA0THANAM"
+   },
+   {
+       "S.No.": "43",
+       "Sol Id": "0042",
+       "Branch Name": "SURANKOTE",
+       "Alpha Code ": "SURRAN",
+       "IFSC Code ": "JAKA0SURRAN"
+   },
+   {
+       "S.No.": "44",
+       "Sol Id": "0044",
+       "Branch Name": "DOORU SHAHABAD",
+       "Alpha Code ": "DOOROO",
+       "IFSC Code ": "JAKA0DOOROO"
+   },
+   {
+       "S.No.": "45",
+       "Sol Id": "0045",
+       "Branch Name": "CHANDNAGAR JAMMU",
+       "Alpha Code ": "TARGET",
+       "IFSC Code ": "JAKA0TARGET"
+   },
+   {
+       "S.No.": "46",
+       "Sol Id": "0047",
+       "Branch Name": "BARI BRAHMNA  ",
+       "Alpha Code ": "CHOOSE",
+       "IFSC Code ": "JAKA0CHOOSE"
+   },
+   {
+       "S.No.": "47",
+       "Sol Id": "0046",
+       "Branch Name": "SALHER",
+       "Alpha Code ": "SALHER",
+       "IFSC Code ": "JAKA0SALHER"
+   },
+   {
+       "S.No.": "48",
+       "Sol Id": "0048",
+       "Branch Name": "DALGATE SRINAGAR",
+       "Alpha Code ": "DALGAT",
+       "IFSC Code ": "JAKA0DALGAT"
+   },
+   {
+       "S.No.": "49",
+       "Sol Id": "0049",
+       "Branch Name": "CHRAR I SHARIEF",
+       "Alpha Code ": "ALNOOR",
+       "IFSC Code ": "JAKA0ALNOOR"
+   },
+   {
+       "S.No.": "50",
+       "Sol Id": "0050",
+       "Branch Name": "CHANDNI CHOWK DELHI",
+       "Alpha Code ": "SILVER",
+       "IFSC Code ": "JAKA0SILVER"
+   },
+   {
+       "S.No.": "51",
+       "Sol Id": "0051",
+       "Branch Name": "LINK ROAD JAMMU",
+       "Alpha Code ": "LINKRO",
+       "IFSC Code ": "JAKA0LINKRO"
+   },
+   {
+       "S.No.": "52",
+       "Sol Id": "0054",
+       "Branch Name": "PULWAMA",
+       "Alpha Code ": "GOLDEN",
+       "IFSC Code ": "JAKA0GOLDEN"
+   },
+   {
+       "S.No.": "53",
+       "Sol Id": "0055",
+       "Branch Name": "CANNAUGHT PLACE DELHI",
+       "Alpha Code ": "CIRCUS",
+       "IFSC Code ": "JAKA0CIRCUS"
+   },
+   {
+       "S.No.": "54",
+       "Sol Id": "0057",
+       "Branch Name": "FATEH KADAL SRINAGAR",
+       "Alpha Code ": "FATTEH",
+       "IFSC Code ": "JAKA0FATTEH"
+   },
+   {
+       "S.No.": "55",
+       "Sol Id": "0056",
+       "Branch Name": "SHASTRI MARKET AMRITSAR",
+       "Alpha Code ": "GURUJI",
+       "IFSC Code ": "JAKA0GURUJI"
+   },
+   {
+       "S.No.": "56",
+       "Sol Id": "0059",
+       "Branch Name": "MIRAN SAHIB ",
+       "Alpha Code ": "MIRAAN",
+       "IFSC Code ": "JAKA0MIRAAN"
+   },
+   {
+       "S.No.": "57",
+       "Sol Id": "0058",
+       "Branch Name": "DODA",
+       "Alpha Code ": "DECODE",
+       "IFSC Code ": "JAKA0DECODE"
+   },
+   {
+       "S.No.": "58",
+       "Sol Id": "0060",
+       "Branch Name": "NAIDYAR",
+       "Alpha Code ": "NIDYAR",
+       "IFSC Code ": "JAKA0NIDYAR"
+   },
+   {
+       "S.No.": "59",
+       "Sol Id": "0061",
+       "Branch Name": "BANDIPORA ",
+       "Alpha Code ": "WULLAR",
+       "IFSC Code ": "JAKA0WULLAR"
+   },
+   {
+       "S.No.": "60",
+       "Sol Id": "0062",
+       "Branch Name": "CHAN ARRORIAN",
+       "Alpha Code ": "AORIAN",
+       "IFSC Code ": "JAKA0AORIAN"
+   },
+   {
+       "S.No.": "61",
+       "Sol Id": "0400",
+       "Branch Name": "MARHEEN ",
+       "Alpha Code ": "MARHEN",
+       "IFSC Code ": "JAKA0MARHEN"
+   },
+   {
+       "S.No.": "62",
+       "Sol Id": "0064",
+       "Branch Name": "BASOHLI",
+       "Alpha Code ": "BASOLI",
+       "IFSC Code ": "JAKA0BASOLI"
+   },
+   {
+       "S.No.": "63",
+       "Sol Id": "0066",
+       "Branch Name": "RAMNAGAR",
+       "Alpha Code ": "RAMNAG",
+       "IFSC Code ": "JAKA0RAMNAG"
+   },
+   {
+       "S.No.": "64",
+       "Sol Id": "0065",
+       "Branch Name": "TRAL",
+       "Alpha Code ": "FLORAL",
+       "IFSC Code ": "JAKA0FLORAL"
+   },
+   {
+       "S.No.": "65",
+       "Sol Id": "0067",
+       "Branch Name": "HARI SINGH  HIGH STREET SRINAGAR",
+       "Alpha Code ": "STREET",
+       "IFSC Code ": "JAKA0STREET"
+   },
+   {
+       "S.No.": "66",
+       "Sol Id": "0068",
+       "Branch Name": "MAIN BAZAR SOPORE ",
+       "Alpha Code ": "MARKET",
+       "IFSC Code ": "JAKA0MARKET"
+   },
+   {
+       "S.No.": "67",
+       "Sol Id": "0070",
+       "Branch Name": "KB ADDA BARAMULLA",
+       "Alpha Code ": "KBADDA",
+       "IFSC Code ": "JAKA0KBADDA"
+   },
+   {
+       "S.No.": "68",
+       "Sol Id": "0071",
+       "Branch Name": "KANGAN",
+       "Alpha Code ": "KANGAN",
+       "IFSC Code ": "JAKA0KANGAN"
+   },
+   {
+       "S.No.": "69",
+       "Sol Id": "0069",
+       "Branch Name": "LEH ",
+       "Alpha Code ": "PRIEST",
+       "IFSC Code ": "JAKA0PRIEST"
+   },
+   {
+       "S.No.": "70",
+       "Sol Id": "0072",
+       "Branch Name": "ZAINA KADAL SRINAGAR",
+       "Alpha Code ": "SACRED",
+       "IFSC Code ": "JAKA0SACRED"
+   },
+   {
+       "S.No.": "71",
+       "Sol Id": "0073",
+       "Branch Name": "UPPER GUMMAT JAMMU",
+       "Alpha Code ": "GUMMAT",
+       "IFSC Code ": "JAKA0GUMMAT"
+   },
+   {
+       "S.No.": "72",
+       "Sol Id": "0139",
+       "Branch Name": "TANGMARG",
+       "Alpha Code ": "SPRING",
+       "IFSC Code ": "JAKA0SPRING"
+   },
+   {
+       "S.No.": "73",
+       "Sol Id": "0161",
+       "Branch Name": "NEW MARKET ANANTNAG ",
+       "Alpha Code ": "BUBBLE",
+       "IFSC Code ": "JAKA0BUBBLE"
+   },
+   {
+       "S.No.": "74",
+       "Sol Id": "0076",
+       "Branch Name": "RESIDENCY ROAD JAMMU",
+       "Alpha Code ": "KEEPER",
+       "IFSC Code ": "JAKA0KEEPER"
+   },
+   {
+       "S.No.": "75",
+       "Sol Id": "0077",
+       "Branch Name": "GANDHINAGR JAMMU",
+       "Alpha Code ": "GANDHI",
+       "IFSC Code ": "JAKA0GANDHI"
+   },
+   {
+       "S.No.": "76",
+       "Sol Id": "0063",
+       "Branch Name": "MAJALTA",
+       "Alpha Code ": "MJALTA",
+       "IFSC Code ": "JAKA0MJALTA"
+   },
+   {
+       "S.No.": "77",
+       "Sol Id": "0078",
+       "Branch Name": "BUDGAM",
+       "Alpha Code ": "MAJLIS",
+       "IFSC Code ": "JAKA0MAJLIS"
+   },
+   {
+       "S.No.": "78",
+       "Sol Id": "0079",
+       "Branch Name": "BATOTE",
+       "Alpha Code ": "BATOTE",
+       "IFSC Code ": "JAKA0BATOTE"
+   },
+   {
+       "S.No.": "79",
+       "Sol Id": "0080",
+       "Branch Name": "BANIHAL",
+       "Alpha Code ": "TUNNEL",
+       "IFSC Code ": "JAKA0TUNNEL"
+   },
+   {
+       "S.No.": "80",
+       "Sol Id": "0081",
+       "Branch Name": "GANDERBAL",
+       "Alpha Code ": "GANDER",
+       "IFSC Code ": "JAKA0GANDER"
+   },
+   {
+       "S.No.": "81",
+       "Sol Id": "0082",
+       "Branch Name": "LANGATE",
+       "Alpha Code ": "LANGAT",
+       "IFSC Code ": "JAKA0LANGAT"
+   },
+   {
+       "S.No.": "82",
+       "Sol Id": "0084",
+       "Branch Name": "NEW SECTT ROAD SRINAGAR",
+       "Alpha Code ": "PROMPT",
+       "IFSC Code ": "JAKA0PROMPT"
+   },
+   {
+       "S.No.": "83",
+       "Sol Id": "0085",
+       "Branch Name": "NOWSHERA",
+       "Alpha Code ": "NOSHER",
+       "IFSC Code ": "JAKA0NOSHER"
+   },
+   {
+       "S.No.": "84",
+       "Sol Id": "0086",
+       "Branch Name": "RAJOURI KADAL SRINAGAR",
+       "Alpha Code ": "BULBUL",
+       "IFSC Code ": "JAKA0BULBUL"
+   },
+   {
+       "S.No.": "85",
+       "Sol Id": "0087",
+       "Branch Name": "RAMBAN",
+       "Alpha Code ": "RAMBAN",
+       "IFSC Code ": "JAKA0RAMBAN"
+   },
+   {
+       "S.No.": "86",
+       "Sol Id": "0088",
+       "Branch Name": "URI (MAIN)",
+       "Alpha Code ": "JEHLUM",
+       "IFSC Code ": "JAKA0JEHLUM"
+   },
+   {
+       "S.No.": "87",
+       "Sol Id": "0089",
+       "Branch Name": "SUMBAL",
+       "Alpha Code ": "SUMBAL",
+       "IFSC Code ": "JAKA0SUMBAL"
+   },
+   {
+       "S.No.": "88",
+       "Sol Id": "0090",
+       "Branch Name": "MAGAM BUDGAM",
+       "Alpha Code ": "MAGGAM",
+       "IFSC Code ": "JAKA0MAGGAM"
+   },
+   {
+       "S.No.": "89",
+       "Sol Id": "0091",
+       "Branch Name": "BIJBEHARA",
+       "Alpha Code ": "BBHARA",
+       "IFSC Code ": "JAKA0BBHARA"
+   },
+   {
+       "S.No.": "90",
+       "Sol Id": "0092",
+       "Branch Name": "DAWER GUREZ",
+       "Alpha Code ": "DHAVER",
+       "IFSC Code ": "JAKA0DHAVER"
+   },
+   {
+       "S.No.": "91",
+       "Sol Id": "0093",
+       "Branch Name": "SUNDER BANI",
+       "Alpha Code ": "SUNDER",
+       "IFSC Code ": "JAKA0SUNDER"
+   },
+   {
+       "S.No.": "92",
+       "Sol Id": "0094",
+       "Branch Name": "MENDHER",
+       "Alpha Code ": "MENDER",
+       "IFSC Code ": "JAKA0MENDER"
+   },
+   {
+       "S.No.": "93",
+       "Sol Id": "0095",
+       "Branch Name": "KOTRANKA BUDHAL",
+       "Alpha Code ": "BUDHAL",
+       "IFSC Code ": "JAKA0BUDHAL"
+   },
+   {
+       "S.No.": "94",
+       "Sol Id": "0096",
+       "Branch Name": "KARGIL (MAIN)",
+       "Alpha Code ": "KARGIL",
+       "IFSC Code ": "JAKA0KARGIL"
+   },
+   {
+       "S.No.": "95",
+       "Sol Id": "0097",
+       "Branch Name": "TOWN HALL JAMMU",
+       "Alpha Code ": "TNHALL",
+       "IFSC Code ": "JAKA0TNHALL"
+   },
+   {
+       "S.No.": "96",
+       "Sol Id": "0098",
+       "Branch Name": "MAJITH MANDI AMRITSAR",
+       "Alpha Code ": "TEMPLE",
+       "IFSC Code ": "JAKA0TEMPLE"
+   },
+   {
+       "S.No.": "97",
+       "Sol Id": "0209",
+       "Branch Name": "MAGAM  HANDWARA",
+       "Alpha Code ": "SMOOTH",
+       "IFSC Code ": "JAKA0SMOOTH"
+   },
+   {
+       "S.No.": "98",
+       "Sol Id": "0099",
+       "Branch Name": "GANDOH(BALESA)",
+       "Alpha Code ": "BALESA",
+       "IFSC Code ": "JAKA0BALESA"
+   },
+   {
+       "S.No.": "99",
+       "Sol Id": "0100",
+       "Branch Name": "ALAMGIRI BAZAR SRINAGAR",
+       "Alpha Code ": "ALMGRI",
+       "IFSC Code ": "JAKA0ALMGRI"
+   },
+   {
+       "S.No.": "100",
+       "Sol Id": "0101",
+       "Branch Name": "KHANYAR SRINAGAR",
+       "Alpha Code ": "SHIRAZ",
+       "IFSC Code ": "JAKA0SHIRAZ"
+   },
+   {
+       "S.No.": "101",
+       "Sol Id": "0102",
+       "Branch Name": "LAKHDATTA BAZAR JAMMU",
+       "Alpha Code ": "LBAZAR",
+       "IFSC Code ": "JAKA0LBAZAR"
+   },
+   {
+       "S.No.": "102",
+       "Sol Id": "0103",
+       "Branch Name": "SADDAR BAZAR DELHI",
+       "Alpha Code ": "SADDAR",
+       "IFSC Code ": "JAKA0SADDAR"
+   },
+   {
+       "S.No.": "103",
+       "Sol Id": "0104",
+       "Branch Name": "NAI BASTI JAMMU",
+       "Alpha Code ": "BASTEE",
+       "IFSC Code ": "JAKA0BASTEE"
+   },
+   {
+       "S.No.": "104",
+       "Sol Id": "0105",
+       "Branch Name": "MAHORE",
+       "Alpha Code ": "MAHORE",
+       "IFSC Code ": "JAKA0MAHORE"
+   },
+   {
+       "S.No.": "105",
+       "Sol Id": "0109",
+       "Branch Name": "JALLANDAR",
+       "Alpha Code ": "JULUND",
+       "IFSC Code ": "JAKA0JULUND"
+   },
+   {
+       "S.No.": "106",
+       "Sol Id": "0107",
+       "Branch Name": "BILLAWAR",
+       "Alpha Code ": "BILWAR",
+       "IFSC Code ": "JAKA0BILWAR"
+   },
+   {
+       "S.No.": "107",
+       "Sol Id": "0108",
+       "Branch Name": "HIRA NAGAR",
+       "Alpha Code ": "HNAGAR",
+       "IFSC Code ": "JAKA0HNAGAR"
+   },
+   {
+       "S.No.": "108",
+       "Sol Id": "0110",
+       "Branch Name": "MOVING SECRETARIAT",
+       "Alpha Code ": "MOVING",
+       "IFSC Code ": "JAKA0MOVING"
+   },
+   {
+       "S.No.": "109",
+       "Sol Id": "0106",
+       "Branch Name": "CHAURA BAZAR LUDHIANA",
+       "Alpha Code ": "LUDHIA",
+       "IFSC Code ": "JAKA0LUDHIA"
+   },
+   {
+       "S.No.": "110",
+       "Sol Id": "0112",
+       "Branch Name": "DANGIWACHA",
+       "Alpha Code ": "DHANGI",
+       "IFSC Code ": "JAKA0DHANGI"
+   },
+   {
+       "S.No.": "111",
+       "Sol Id": "0114",
+       "Branch Name": "TANGDAR",
+       "Alpha Code ": "TNGDAR",
+       "IFSC Code ": "JAKA0TNGDAR"
+   },
+   {
+       "S.No.": "112",
+       "Sol Id": "0111",
+       "Branch Name": "KOKERNAG",
+       "Alpha Code ": "KOOKER",
+       "IFSC Code ": "JAKA0KOOKER"
+   },
+   {
+       "S.No.": "113",
+       "Sol Id": "0113",
+       "Branch Name": "ASHAJIPORA ANANTNAG",
+       "Alpha Code ": "ASHAJI",
+       "IFSC Code ": "JAKA0ASHAJI"
+   },
+   {
+       "S.No.": "114",
+       "Sol Id": "0115",
+       "Branch Name": "SHALIMAR ",
+       "Alpha Code ": "SALMAR",
+       "IFSC Code ": "JAKA0SALMAR"
+   },
+   {
+       "S.No.": "115",
+       "Sol Id": "0117",
+       "Branch Name": "KRALAPORA",
+       "Alpha Code ": "MARBLE",
+       "IFSC Code ": "JAKA0MARBLE"
+   },
+   {
+       "S.No.": "116",
+       "Sol Id": "0116",
+       "Branch Name": "GANGYAL",
+       "Alpha Code ": "GNGYAL",
+       "IFSC Code ": "JAKA0GNGYAL"
+   },
+   {
+       "S.No.": "117",
+       "Sol Id": "0118",
+       "Branch Name": "NEW COLONY SOPORE",
+       "Alpha Code ": "COLONY",
+       "IFSC Code ": "JAKA0COLONY"
+   },
+   {
+       "S.No.": "118",
+       "Sol Id": "0119",
+       "Branch Name": "DODA PULL",
+       "Alpha Code ": "BRIDGE",
+       "IFSC Code ": "JAKA0BRIDGE"
+   },
+   {
+       "S.No.": "119",
+       "Sol Id": "0120",
+       "Branch Name": "SHIMLA",
+       "Alpha Code ": "SHIMLA",
+       "IFSC Code ": "JAKA0SHIMLA"
+   },
+   {
+       "S.No.": "120",
+       "Sol Id": "0184",
+       "Branch Name": "CHANDIGARH",
+       "Alpha Code ": "SECTOR",
+       "IFSC Code ": "JAKA0SECTOR"
+   },
+   {
+       "S.No.": "121",
+       "Sol Id": "0122",
+       "Branch Name": "PAHALGAM",
+       "Alpha Code ": "PHLGAM",
+       "IFSC Code ": "JAKA0PHLGAM"
+   },
+   {
+       "S.No.": "122",
+       "Sol Id": "0123",
+       "Branch Name": "KAROL BAGH DELHI",
+       "Alpha Code ": "KAROLE",
+       "IFSC Code ": "JAKA0KAROLE"
+   },
+   {
+       "S.No.": "123",
+       "Sol Id": "0124",
+       "Branch Name": "BANI",
+       "Alpha Code ": "BANNIE",
+       "IFSC Code ": "JAKA0BANNIE"
+   },
+   {
+       "S.No.": "124",
+       "Sol Id": "0125",
+       "Branch Name": "TULMULLAH",
+       "Alpha Code ": "SHRINE",
+       "IFSC Code ": "JAKA0SHRINE"
+   },
+   {
+       "S.No.": "125",
+       "Sol Id": "0126",
+       "Branch Name": "KOLKATA MAIN",
+       "Alpha Code ": "CALCAT",
+       "IFSC Code ": "JAKA0CALCAT"
+   },
+   {
+       "S.No.": "126",
+       "Sol Id": "0011",
+       "Branch Name": "KALAROOS",
+       "Alpha Code ": "KLAROS",
+       "IFSC Code ": "JAKA0KLAROS"
+   },
+   {
+       "S.No.": "127",
+       "Sol Id": "0074",
+       "Branch Name": "TARZUA ",
+       "Alpha Code ": "TARZUA",
+       "IFSC Code ": "JAKA0TARZUA"
+   },
+   {
+       "S.No.": "128",
+       "Sol Id": "0127",
+       "Branch Name": "ALOOSA",
+       "Alpha Code ": "ALOOSA",
+       "IFSC Code ": "JAKA0ALOOSA"
+   },
+   {
+       "S.No.": "129",
+       "Sol Id": "0128",
+       "Branch Name": "DAMHAL HANJIPORA",
+       "Alpha Code ": "DAMHAL",
+       "IFSC Code ": "JAKA0DAMHAL"
+   },
+   {
+       "S.No.": "130",
+       "Sol Id": "0129",
+       "Branch Name": "HAJIN",
+       "Alpha Code ": "HAJJIN",
+       "IFSC Code ": "JAKA0HAJJIN"
+   },
+   {
+       "S.No.": "131",
+       "Sol Id": "0130",
+       "Branch Name": "ICHGAM",
+       "Alpha Code ": "ICHGAM",
+       "IFSC Code ": "JAKA0ICHGAM"
+   },
+   {
+       "S.No.": "132",
+       "Sol Id": "0133",
+       "Branch Name": "LADHOO",
+       "Alpha Code ": "LADHOO",
+       "IFSC Code ": "JAKA0LADHOO"
+   },
+   {
+       "S.No.": "133",
+       "Sol Id": "0134",
+       "Branch Name": "PANTHA CHOWK SRINAGAR",
+       "Alpha Code ": "PANTHA",
+       "IFSC Code ": "JAKA0PANTHA"
+   },
+   {
+       "S.No.": "134",
+       "Sol Id": "0135",
+       "Branch Name": "QASBA HYHAMA",
+       "Alpha Code ": "HYHAMA",
+       "IFSC Code ": "JAKA0HYHAMA"
+   },
+   {
+       "S.No.": "135",
+       "Sol Id": "0136",
+       "Branch Name": "SALLAR",
+       "Alpha Code ": "BLOOMY",
+       "IFSC Code ": "JAKA0BLOOMY"
+   },
+   {
+       "S.No.": "136",
+       "Sol Id": "0137",
+       "Branch Name": "SHANGUS ",
+       "Alpha Code ": "SANGUS",
+       "IFSC Code ": "JAKA0SANGUS"
+   },
+   {
+       "S.No.": "137",
+       "Sol Id": "0138",
+       "Branch Name": "SOGAM ",
+       "Alpha Code ": "SOGAAM",
+       "IFSC Code ": "JAKA0SOGAAM"
+   },
+   {
+       "S.No.": "138",
+       "Sol Id": "0140",
+       "Branch Name": "DELINA",
+       "Alpha Code ": "DALINA",
+       "IFSC Code ": "JAKA0DALINA"
+   },
+   {
+       "S.No.": "139",
+       "Sol Id": "0141",
+       "Branch Name": "BARNOTI",
+       "Alpha Code ": "BRNOTI",
+       "IFSC Code ": "JAKA0BRNOTI"
+   },
+   {
+       "S.No.": "140",
+       "Sol Id": "0142",
+       "Branch Name": "GOOL",
+       "Alpha Code ": "GOOLAB",
+       "IFSC Code ": "JAKA0GOOLAB"
+   },
+   {
+       "S.No.": "141",
+       "Sol Id": "0143",
+       "Branch Name": "PANCHAL UKHRAL",
+       "Alpha Code ": "UKHRAL",
+       "IFSC Code ": "JAKA0UKHRAL"
+   },
+   {
+       "S.No.": "142",
+       "Sol Id": "0144",
+       "Branch Name": "GOVINDSAR",
+       "Alpha Code ": "GOVIND",
+       "IFSC Code ": "JAKA0GOVIND"
+   },
+   {
+       "S.No.": "143",
+       "Sol Id": "0145",
+       "Branch Name": "CHIDWAL",
+       "Alpha Code ": "CIDWAL",
+       "IFSC Code ": "JAKA0CIDWAL"
+   },
+   {
+       "S.No.": "144",
+       "Sol Id": "0132",
+       "Branch Name": "KREERI",
+       "Alpha Code ": "KREERI",
+       "IFSC Code ": "JAKA0KREERI"
+   },
+   {
+       "S.No.": "145",
+       "Sol Id": "0146",
+       "Branch Name": "FORT  MUMBAI",
+       "Alpha Code ": "BOMBAY",
+       "IFSC Code ": "JAKA0BOMBAY"
+   },
+   {
+       "S.No.": "146",
+       "Sol Id": "0147",
+       "Branch Name": "C G ROAD AHMADABAD",
+       "Alpha Code ": "AHAMAD",
+       "IFSC Code ": "JAKA0AHAMAD"
+   },
+   {
+       "S.No.": "147",
+       "Sol Id": "0148",
+       "Branch Name": "KARAN NAGAR SRINAGAR",
+       "Alpha Code ": "KARRAN",
+       "IFSC Code ": "JAKA0KARRAN"
+   },
+   {
+       "S.No.": "148",
+       "Sol Id": "0149",
+       "Branch Name": "BAKSHI NAGAR JAMMU",
+       "Alpha Code ": "BAKSHI",
+       "IFSC Code ": "JAKA0BAKSHI"
+   },
+   {
+       "S.No.": "149",
+       "Sol Id": "0150",
+       "Branch Name": "NYOMA",
+       "Alpha Code ": "NYOOMA",
+       "IFSC Code ": "JAKA0NYOOMA"
+   },
+   {
+       "S.No.": "150",
+       "Sol Id": "0151",
+       "Branch Name": "PADAM ZANASKAR",
+       "Alpha Code ": "PADDAM",
+       "IFSC Code ": "JAKA0PADDAM"
+   },
+   {
+       "S.No.": "151",
+       "Sol Id": "0152",
+       "Branch Name": "DISKIT NOBRA",
+       "Alpha Code ": "DISKIT",
+       "IFSC Code ": "JAKA0DISKIT"
+   },
+   {
+       "S.No.": "152",
+       "Sol Id": "0153",
+       "Branch Name": "MARWAH",
+       "Alpha Code ": "MARWAH",
+       "IFSC Code ": "JAKA0MARWAH"
+   },
+   {
+       "S.No.": "153",
+       "Sol Id": "0154",
+       "Branch Name": "PADDAR",
+       "Alpha Code ": "PADDAR",
+       "IFSC Code ": "JAKA0PADDAR"
+   },
+   {
+       "S.No.": "154",
+       "Sol Id": "0155",
+       "Branch Name": "GALHUTA",
+       "Alpha Code ": "GALUTA",
+       "IFSC Code ": "JAKA0GALUTA"
+   },
+   {
+       "S.No.": "155",
+       "Sol Id": "0156",
+       "Branch Name": "GURSAHI",
+       "Alpha Code ": "GURSHA",
+       "IFSC Code ": "JAKA0GURSHA"
+   },
+   {
+       "S.No.": "156",
+       "Sol Id": "0157",
+       "Branch Name": "NANIL",
+       "Alpha Code ": "NALANG",
+       "IFSC Code ": "JAKA0NALANG"
+   },
+   {
+       "S.No.": "157",
+       "Sol Id": "0158",
+       "Branch Name": "SAGAM                    ",
+       "Alpha Code ": "DESIRE",
+       "IFSC Code ": "JAKA0DESIRE"
+   },
+   {
+       "S.No.": "158",
+       "Sol Id": "0462",
+       "Branch Name": "CHATTERGUL",
+       "Alpha Code ": "DESERT",
+       "IFSC Code ": "JAKA0DESERT"
+   },
+   {
+       "S.No.": "159",
+       "Sol Id": "0160",
+       "Branch Name": "LARNOO ",
+       "Alpha Code ": "LARNOO",
+       "IFSC Code ": "JAKA0LARNOO"
+   },
+   {
+       "S.No.": "160",
+       "Sol Id": "0383",
+       "Branch Name": "AKINGAM",
+       "Alpha Code ": "AKNGAM",
+       "IFSC Code ": "JAKA0AKNGAM"
+   },
+   {
+       "S.No.": "161",
+       "Sol Id": "0162",
+       "Branch Name": "RATNIPORA",
+       "Alpha Code ": "RATNIE",
+       "IFSC Code ": "JAKA0RATNIE"
+   },
+   {
+       "S.No.": "162",
+       "Sol Id": "0163",
+       "Branch Name": "DRABA GUNDHI",
+       "Alpha Code ": "GUNDHI",
+       "IFSC Code ": "JAKA0GUNDHI"
+   },
+   {
+       "S.No.": "163",
+       "Sol Id": "0164",
+       "Branch Name": "KULLU",
+       "Alpha Code ": "KULLOO",
+       "IFSC Code ": "JAKA0KULLOO"
+   },
+   {
+       "S.No.": "164",
+       "Sol Id": "0165",
+       "Branch Name": "MANDI",
+       "Alpha Code ": "MANDIE",
+       "IFSC Code ": "JAKA0MANDIE"
+   },
+   {
+       "S.No.": "165",
+       "Sol Id": "0166",
+       "Branch Name": "KOOTAH",
+       "Alpha Code ": "KOOTTA",
+       "IFSC Code ": "JAKA0KOOTTA"
+   },
+   {
+       "S.No.": "166",
+       "Sol Id": "0167",
+       "Branch Name": "ARNAS",
+       "Alpha Code ": "ARNASS",
+       "IFSC Code ": "JAKA0ARNASS"
+   },
+   {
+       "S.No.": "167",
+       "Sol Id": "0168",
+       "Branch Name": "SHADIMARG",
+       "Alpha Code ": "SHADIM",
+       "IFSC Code ": "JAKA0SHADIM"
+   },
+   {
+       "S.No.": "168",
+       "Sol Id": "0169",
+       "Branch Name": "SAFAPORA",
+       "Alpha Code ": "SAFAPO",
+       "IFSC Code ": "JAKA0SAFAPO"
+   },
+   {
+       "S.No.": "169",
+       "Sol Id": "0170",
+       "Branch Name": "TIKRI ",
+       "Alpha Code ": "TIKRIE",
+       "IFSC Code ": "JAKA0TIKRIE"
+   },
+   {
+       "S.No.": "170",
+       "Sol Id": "0171",
+       "Branch Name": "LARKIPORA",
+       "Alpha Code ": "LARKIP",
+       "IFSC Code ": "JAKA0LARKIP"
+   },
+   {
+       "S.No.": "171",
+       "Sol Id": "0172",
+       "Branch Name": "SRIGUPHWARA",
+       "Alpha Code ": "SRIGUP",
+       "IFSC Code ": "JAKA0SRIGUP"
+   },
+   {
+       "S.No.": "172",
+       "Sol Id": "0173",
+       "Branch Name": "ANCHAR",
+       "Alpha Code ": "ANCHAR",
+       "IFSC Code ": "JAKA0ANCHAR"
+   },
+   {
+       "S.No.": "173",
+       "Sol Id": "0174",
+       "Branch Name": "NUNNER",
+       "Alpha Code ": "NUNNAR",
+       "IFSC Code ": "JAKA0NUNNAR"
+   },
+   {
+       "S.No.": "174",
+       "Sol Id": "0175",
+       "Branch Name": "AWOORA",
+       "Alpha Code ": "AWOORA",
+       "IFSC Code ": "JAKA0AWOORA"
+   },
+   {
+       "S.No.": "175",
+       "Sol Id": "0436",
+       "Branch Name": "SEER HAMDAN",
+       "Alpha Code ": "SKANIL",
+       "IFSC Code ": "JAKA0SKANIL"
+   },
+   {
+       "S.No.": "176",
+       "Sol Id": "0177",
+       "Branch Name": "NAID KHAI",
+       "Alpha Code ": "NDKHAI",
+       "IFSC Code ": "JAKA0NDKHAI"
+   },
+   {
+       "S.No.": "177",
+       "Sol Id": "0178",
+       "Branch Name": "DESA",
+       "Alpha Code ": "DEESSA",
+       "IFSC Code ": "JAKA0DEESSA"
+   },
+   {
+       "S.No.": "178",
+       "Sol Id": "0179",
+       "Branch Name": "AJAS",
+       "Alpha Code ": "AJJASS",
+       "IFSC Code ": "JAKA0AJJASS"
+   },
+   {
+       "S.No.": "179",
+       "Sol Id": "0180",
+       "Branch Name": "JAWAHAR NAGAR RAJOURI",
+       "Alpha Code ": "JAWHAR",
+       "IFSC Code ": "JAKA0JAWHAR"
+   },
+   {
+       "S.No.": "180",
+       "Sol Id": "0256",
+       "Branch Name": "PARIMPORA SRINAGAR",
+       "Alpha Code ": "QAMMAR",
+       "IFSC Code ": "JAKA0QAMMAR"
+   },
+   {
+       "S.No.": "181",
+       "Sol Id": "0121",
+       "Branch Name": "ROHTAK",
+       "Alpha Code ": "ROHTAK",
+       "IFSC Code ": "JAKA0ROHTAK"
+   },
+   {
+       "S.No.": "182",
+       "Sol Id": "0183",
+       "Branch Name": "INFANTRY ROAD BANGALORE",
+       "Alpha Code ": "BNGLOR",
+       "IFSC Code ": "JAKA0BNGLOR"
+   },
+   {
+       "S.No.": "183",
+       "Sol Id": "0182",
+       "Branch Name": "MOUNT ROAD CHENNAI",
+       "Alpha Code ": "MADRAS",
+       "IFSC Code ": "JAKA0MADRAS"
+   },
+   {
+       "S.No.": "184",
+       "Sol Id": "0185",
+       "Branch Name": "UPPER SATHOO SRINAGAR",
+       "Alpha Code ": "SATHOO",
+       "IFSC Code ": "JAKA0SATHOO"
+   },
+   {
+       "S.No.": "185",
+       "Sol Id": "0200",
+       "Branch Name": "CHANNAPORA SRINAGAR",
+       "Alpha Code ": "CHANPO",
+       "IFSC Code ": "JAKA0CHANPO"
+   },
+   {
+       "S.No.": "186",
+       "Sol Id": "0201",
+       "Branch Name": "PAKHERPORA",
+       "Alpha Code ": "PAKHER",
+       "IFSC Code ": "JAKA0PAKHER"
+   },
+   {
+       "S.No.": "187",
+       "Sol Id": "0202",
+       "Branch Name": "GANPATYAR SRINAGAR",
+       "Alpha Code ": "GANPAT",
+       "IFSC Code ": "JAKA0GANPAT"
+   },
+   {
+       "S.No.": "188",
+       "Sol Id": "0203",
+       "Branch Name": "SANKOO",
+       "Alpha Code ": "SANKOO",
+       "IFSC Code ": "JAKA0SANKOO"
+   },
+   {
+       "S.No.": "189",
+       "Sol Id": "0159",
+       "Branch Name": "CHEENI CHOWK ANANTNAG",
+       "Alpha Code ": "CHEENI",
+       "IFSC Code ": "JAKA0CHEENI"
+   },
+   {
+       "S.No.": "190",
+       "Sol Id": "0205",
+       "Branch Name": "SEELO",
+       "Alpha Code ": "SEELOO",
+       "IFSC Code ": "JAKA0SEELOO"
+   },
+   {
+       "S.No.": "191",
+       "Sol Id": "0206",
+       "Branch Name": "RAJINDRA PLACE DELHI",
+       "Alpha Code ": "PALACE",
+       "IFSC Code ": "JAKA0PALACE"
+   },
+   {
+       "S.No.": "192",
+       "Sol Id": "0207",
+       "Branch Name": "SUDH MAHADEV",
+       "Alpha Code ": "MAHDEV",
+       "IFSC Code ": "JAKA0MAHDEV"
+   },
+   {
+       "S.No.": "193",
+       "Sol Id": "0208",
+       "Branch Name": "SERI",
+       "Alpha Code ": "SEERIE",
+       "IFSC Code ": "JAKA0SEERIE"
+   },
+   {
+       "S.No.": "194",
+       "Sol Id": "0210",
+       "Branch Name": "KISHENPUR",
+       "Alpha Code ": "KISHEN",
+       "IFSC Code ": "JAKA0KISHEN"
+   },
+   {
+       "S.No.": "195",
+       "Sol Id": "0211",
+       "Branch Name": "CHOWK CHABUTRA JAMMU",
+       "Alpha Code ": "CHBTRA",
+       "IFSC Code ": "JAKA0CHBTRA"
+   },
+   {
+       "S.No.": "196",
+       "Sol Id": "0212",
+       "Branch Name": "NANAK NAGAR JAMMU",
+       "Alpha Code ": "NANNAK",
+       "IFSC Code ": "JAKA0NANNAK"
+   },
+   {
+       "S.No.": "197",
+       "Sol Id": "0198",
+       "Branch Name": "CHANDANWARI",
+       "Alpha Code ": "CANADA",
+       "IFSC Code ": "JAKA0CANADA"
+   },
+   {
+       "S.No.": "198",
+       "Sol Id": "0214",
+       "Branch Name": "MOGHLA (JENGRAL)",
+       "Alpha Code ": "JNGRAL",
+       "IFSC Code ": "JAKA0JNGRAL"
+   },
+   {
+       "S.No.": "199",
+       "Sol Id": "0215",
+       "Branch Name": "BISHNA",
+       "Alpha Code ": "BISHNA",
+       "IFSC Code ": "JAKA0BISHNA"
+   },
+   {
+       "S.No.": "200",
+       "Sol Id": "0216",
+       "Branch Name": "BALGARDEN SRINAGAR",
+       "Alpha Code ": "GARDEN",
+       "IFSC Code ": "JAKA0GARDEN"
+   },
+   {
+       "S.No.": "201",
+       "Sol Id": "0217",
+       "Branch Name": "NALLAMAR ROAD SRINAGAR",
+       "Alpha Code ": "NAALLA",
+       "IFSC Code ": "JAKA0NAALLA"
+   },
+   {
+       "S.No.": "202",
+       "Sol Id": "0218",
+       "Branch Name": "LAKHANPUR",
+       "Alpha Code ": "OCTROI",
+       "IFSC Code ": "JAKA0OCTROI"
+   },
+   {
+       "S.No.": "203",
+       "Sol Id": "0219",
+       "Branch Name": "WANPOH ",
+       "Alpha Code ": "WANPOH",
+       "IFSC Code ": "JAKA0WANPOH"
+   },
+   {
+       "S.No.": "204",
+       "Sol Id": "0220",
+       "Branch Name": "LATTI",
+       "Alpha Code ": "LATTEE",
+       "IFSC Code ": "JAKA0LATTEE"
+   },
+   {
+       "S.No.": "205",
+       "Sol Id": "0221",
+       "Branch Name": "ACHABAL SOPORE",
+       "Alpha Code ": "ACHBAL",
+       "IFSC Code ": "JAKA0ACHBAL"
+   },
+   {
+       "S.No.": "206",
+       "Sol Id": "0222",
+       "Branch Name": "JAMIA QADEEM SOPORE",
+       "Alpha Code ": "QADEEM",
+       "IFSC Code ": "JAKA0QADEEM"
+   },
+   {
+       "S.No.": "207",
+       "Sol Id": "0223",
+       "Branch Name": "CHATROO",
+       "Alpha Code ": "CHATRO",
+       "IFSC Code ": "JAKA0CHATRO"
+   },
+   {
+       "S.No.": "208",
+       "Sol Id": "0224",
+       "Branch Name": "BHALLA",
+       "Alpha Code ": "BHALLA",
+       "IFSC Code ": "JAKA0BHALLA"
+   },
+   {
+       "S.No.": "209",
+       "Sol Id": "0225",
+       "Branch Name": "SARTINGAL",
+       "Alpha Code ": "TENGAL",
+       "IFSC Code ": "JAKA0TENGAL"
+   },
+   {
+       "S.No.": "210",
+       "Sol Id": "0226",
+       "Branch Name": "NEWA",
+       "Alpha Code ": "NEEWAH",
+       "IFSC Code ": "JAKA0NEEWAH"
+   },
+   {
+       "S.No.": "211",
+       "Sol Id": "0227",
+       "Branch Name": "SINGHPORA PATTAN",
+       "Alpha Code ": "SINGPO",
+       "IFSC Code ": "JAKA0SINGPO"
+   },
+   {
+       "S.No.": "212",
+       "Sol Id": "0228",
+       "Branch Name": "REHAMBAL",
+       "Alpha Code ": "RHMBAL",
+       "IFSC Code ": "JAKA0RHMBAL"
+   },
+   {
+       "S.No.": "213",
+       "Sol Id": "0229",
+       "Branch Name": "BREIN NISHAT",
+       "Alpha Code ": "NISHAT",
+       "IFSC Code ": "JAKA0NISHAT"
+   },
+   {
+       "S.No.": "214",
+       "Sol Id": "0230",
+       "Branch Name": "IC BARI BRAHAMNA",
+       "Alpha Code ": "ESTATE",
+       "IFSC Code ": "JAKA0ESTATE"
+   },
+   {
+       "S.No.": "215",
+       "Sol Id": "0231",
+       "Branch Name": "ZALDAGAR SRINAGAR",
+       "Alpha Code ": "ZALDAG",
+       "IFSC Code ": "JAKA0ZALDAG"
+   },
+   {
+       "S.No.": "216",
+       "Sol Id": "0252",
+       "Branch Name": "AIR CARGO SRINAGAR",
+       "Alpha Code ": "AIRCAR",
+       "IFSC Code ": "JAKA0AIRCAR"
+   },
+   {
+       "S.No.": "217",
+       "Sol Id": "0235",
+       "Branch Name": "KATRA",
+       "Alpha Code ": "KATTRA",
+       "IFSC Code ": "JAKA0KATTRA"
+   },
+   {
+       "S.No.": "218",
+       "Sol Id": "0389",
+       "Branch Name": "MACHIL",
+       "Alpha Code ": "MACHIL",
+       "IFSC Code ": "JAKA0MACHIL"
+   },
+   {
+       "S.No.": "219",
+       "Sol Id": "0238",
+       "Branch Name": "KERAN",
+       "Alpha Code ": "KAYRAN",
+       "IFSC Code ": "JAKA0KAYRAN"
+   },
+   {
+       "S.No.": "220",
+       "Sol Id": "0239",
+       "Branch Name": "RANGRETH SRINAGAR",
+       "Alpha Code ": "RANGRE",
+       "IFSC Code ": "JAKA0RANGRE"
+   },
+   {
+       "S.No.": "221",
+       "Sol Id": "0240",
+       "Branch Name": "CHANDERKOT",
+       "Alpha Code ": "CHNDAR",
+       "IFSC Code ": "JAKA0CHNDAR"
+   },
+   {
+       "S.No.": "222",
+       "Sol Id": "0241",
+       "Branch Name": "DURBUK",
+       "Alpha Code ": "DURBUK",
+       "IFSC Code ": "JAKA0DURBUK"
+   },
+   {
+       "S.No.": "223",
+       "Sol Id": "0439",
+       "Branch Name": "THIKSEY ",
+       "Alpha Code ": "HEMMIS",
+       "IFSC Code ": "JAKA0HEMMIS"
+   },
+   {
+       "S.No.": "224",
+       "Sol Id": "0243",
+       "Branch Name": "ZABLIPORA",
+       "Alpha Code ": "ZABLIP",
+       "IFSC Code ": "JAKA0ZABLIP"
+   },
+   {
+       "S.No.": "225",
+       "Sol Id": "0244",
+       "Branch Name": "KHONMOH",
+       "Alpha Code ": "KONMOH",
+       "IFSC Code ": "JAKA0KONMOH"
+   },
+   {
+       "S.No.": "226",
+       "Sol Id": "0245",
+       "Branch Name": "DUDU BASANTGARH",
+       "Alpha Code ": "BASANT",
+       "IFSC Code ": "JAKA0BASANT"
+   },
+   {
+       "S.No.": "227",
+       "Sol Id": "0246",
+       "Branch Name": "PATEL NAGAR JAMMU",
+       "Alpha Code ": "PATTEL",
+       "IFSC Code ": "JAKA0PATTEL"
+   },
+   {
+       "S.No.": "228",
+       "Sol Id": "0247",
+       "Branch Name": "FRUIT COMPLEX JAMMU",
+       "Alpha Code ": "CHERRY",
+       "IFSC Code ": "JAKA0CHERRY"
+   },
+   {
+       "S.No.": "229",
+       "Sol Id": "0249",
+       "Branch Name": "NAWA KADAL SRINAGAR",
+       "Alpha Code ": "CANDLE",
+       "IFSC Code ": "JAKA0CANDLE"
+   },
+   {
+       "S.No.": "230",
+       "Sol Id": "0248",
+       "Branch Name": "BP BATMALOO",
+       "Alpha Code ": "PATHER",
+       "IFSC Code ": "JAKA0PATHER"
+   },
+   {
+       "S.No.": "231",
+       "Sol Id": "0250",
+       "Branch Name": "KHERRI (RAMSOO)",
+       "Alpha Code ": "KHERRI",
+       "IFSC Code ": "JAKA0KHERRI"
+   },
+   {
+       "S.No.": "232",
+       "Sol Id": "0251",
+       "Branch Name": "POGAL PARISTAN(NEEL)",
+       "Alpha Code ": "PONGAL",
+       "IFSC Code ": "JAKA0PONGAL"
+   },
+   {
+       "S.No.": "233",
+       "Sol Id": "0317",
+       "Branch Name": "J N ROAD HYDERABAD",
+       "Alpha Code ": "HAIDER",
+       "IFSC Code ": "JAKA0HAIDER"
+   },
+   {
+       "S.No.": "234",
+       "Sol Id": "0388",
+       "Branch Name": "DULHASTI",
+       "Alpha Code ": "DHASTI",
+       "IFSC Code ": "JAKA0DHASTI"
+   },
+   {
+       "S.No.": "235",
+       "Sol Id": "0254",
+       "Branch Name": "JYOTIPURAM",
+       "Alpha Code ": "JYOTIE",
+       "IFSC Code ": "JAKA0JYOTIE"
+   },
+   {
+       "S.No.": "236",
+       "Sol Id": "0255",
+       "Branch Name": "NARAINA DELHI",
+       "Alpha Code ": "NARAIN",
+       "IFSC Code ": "JAKA0NARAIN"
+   },
+   {
+       "S.No.": "237",
+       "Sol Id": "0181",
+       "Branch Name": "FRUIT COMPLEX SRINAGAR",
+       "Alpha Code ": "FRUITS",
+       "IFSC Code ": "JAKA0FRUITS"
+   },
+   {
+       "S.No.": "238",
+       "Sol Id": "0262",
+       "Branch Name": "KANPUR",
+       "Alpha Code ": "KANPUR",
+       "IFSC Code ": "JAKA0KANPUR"
+   },
+   {
+       "S.No.": "239",
+       "Sol Id": "0261",
+       "Branch Name": "KHOON",
+       "Alpha Code ": "KHOONI",
+       "IFSC Code ": "JAKA0KHOONI"
+   },
+   {
+       "S.No.": "240",
+       "Sol Id": "0263",
+       "Branch Name": "JAGANOO",
+       "Alpha Code ": "JAGANO",
+       "IFSC Code ": "JAKA0JAGANO"
+   },
+   {
+       "S.No.": "241",
+       "Sol Id": "0257",
+       "Branch Name": "LASJAN SRINAGAR",
+       "Alpha Code ": "LASJAN",
+       "IFSC Code ": "JAKA0LASJAN"
+   },
+   {
+       "S.No.": "242",
+       "Sol Id": "0258",
+       "Branch Name": "ZAINAKOTE SRINAGAR",
+       "Alpha Code ": "ZANKOT",
+       "IFSC Code ": "JAKA0ZANKOT"
+   },
+   {
+       "S.No.": "243",
+       "Sol Id": "0259",
+       "Branch Name": "GUJJAR MARKET RAJOURI",
+       "Alpha Code ": "GUJJAR",
+       "IFSC Code ": "JAKA0GUJJAR"
+   },
+   {
+       "S.No.": "244",
+       "Sol Id": "0260",
+       "Branch Name": "SHERABAD          ",
+       "Alpha Code ": "SHERRA",
+       "IFSC Code ": "JAKA0SHERRA"
+   },
+   {
+       "S.No.": "245",
+       "Sol Id": "0264",
+       "Branch Name": "BHAGWA",
+       "Alpha Code ": "BHAGWA",
+       "IFSC Code ": "JAKA0BHAGWA"
+   },
+   {
+       "S.No.": "246",
+       "Sol Id": "0265",
+       "Branch Name": "SKURBACHAN",
+       "Alpha Code ": "BACHAN",
+       "IFSC Code ": "JAKA0BACHAN"
+   },
+   {
+       "S.No.": "247",
+       "Sol Id": "0267",
+       "Branch Name": "ZOONIMAR SRINAGAR",
+       "Alpha Code ": "ZOONIE",
+       "IFSC Code ": "JAKA0ZOONIE"
+   },
+   {
+       "S.No.": "248",
+       "Sol Id": "0083",
+       "Branch Name": "PANIPAT",
+       "Alpha Code ": "PANPAT",
+       "IFSC Code ": "JAKA0PANPAT"
+   },
+   {
+       "S.No.": "249",
+       "Sol Id": "0269",
+       "Branch Name": "DRASS",
+       "Alpha Code ": "DARASS",
+       "IFSC Code ": "JAKA0DARASS"
+   },
+   {
+       "S.No.": "250",
+       "Sol Id": "0270",
+       "Branch Name": "TAI-SURU",
+       "Alpha Code ": "TSUROO",
+       "IFSC Code ": "JAKA0TSUROO"
+   },
+   {
+       "S.No.": "251",
+       "Sol Id": "0233",
+       "Branch Name": "HIMYA",
+       "Alpha Code ": "HESPER",
+       "IFSC Code ": "JAKA0HESPER"
+   },
+   {
+       "S.No.": "252",
+       "Sol Id": "0272",
+       "Branch Name": "KARNAL",
+       "Alpha Code ": "KARNAL",
+       "IFSC Code ": "JAKA0KARNAL"
+   },
+   {
+       "S.No.": "253",
+       "Sol Id": "0274",
+       "Branch Name": "CHAWRI BAZAR DELHI",
+       "Alpha Code ": "CHAWRI",
+       "IFSC Code ": "JAKA0CHAWRI"
+   },
+   {
+       "S.No.": "254",
+       "Sol Id": "0273",
+       "Branch Name": "AGRA",
+       "Alpha Code ": "MOGHUL",
+       "IFSC Code ": "JAKA0MOGHUL"
+   },
+   {
+       "S.No.": "255",
+       "Sol Id": "0275",
+       "Branch Name": "KHAN SAHIB",
+       "Alpha Code ": "KSAHIB",
+       "IFSC Code ": "JAKA0KSAHIB"
+   },
+   {
+       "S.No.": "256",
+       "Sol Id": "0276",
+       "Branch Name": "KHALTSI",
+       "Alpha Code ": "KHALSI",
+       "IFSC Code ": "JAKA0KHALSI"
+   },
+   {
+       "S.No.": "257",
+       "Sol Id": "0277",
+       "Branch Name": "NARBAL",
+       "Alpha Code ": "NARBAL",
+       "IFSC Code ": "JAKA0NARBAL"
+   },
+   {
+       "S.No.": "258",
+       "Sol Id": "0278",
+       "Branch Name": "BARZULLA SRINAGAR",
+       "Alpha Code ": "BAGAAT",
+       "IFSC Code ": "JAKA0BAGAAT"
+   },
+   {
+       "S.No.": "259",
+       "Sol Id": "0279",
+       "Branch Name": "REHARI JAMMU",
+       "Alpha Code ": "REHARI",
+       "IFSC Code ": "JAKA0REHARI"
+   },
+   {
+       "S.No.": "260",
+       "Sol Id": "0280",
+       "Branch Name": "THATRI",
+       "Alpha Code ": "THATRI",
+       "IFSC Code ": "JAKA0THATRI"
+   },
+   {
+       "S.No.": "261",
+       "Sol Id": "0281",
+       "Branch Name": "DHARMARI",
+       "Alpha Code ": "DHARMA",
+       "IFSC Code ": "JAKA0DHARMA"
+   },
+   {
+       "S.No.": "262",
+       "Sol Id": "0282",
+       "Branch Name": "LANDHER PANCHARI",
+       "Alpha Code ": "LANDER",
+       "IFSC Code ": "JAKA0LANDER"
+   },
+   {
+       "S.No.": "263",
+       "Sol Id": "0283",
+       "Branch Name": "BHADOO",
+       "Alpha Code ": "BHADOO",
+       "IFSC Code ": "JAKA0BHADOO"
+   },
+   {
+       "S.No.": "264",
+       "Sol Id": "0284",
+       "Branch Name": "SAMOOR",
+       "Alpha Code ": "SAMOOR",
+       "IFSC Code ": "JAKA0SAMOOR"
+   },
+   {
+       "S.No.": "265",
+       "Sol Id": "0285",
+       "Branch Name": "ANDHERI MUMBAI",
+       "Alpha Code ": "ANDERI",
+       "IFSC Code ": "JAKA0ANDERI"
+   },
+   {
+       "S.No.": "266",
+       "Sol Id": "0292",
+       "Branch Name": "AMBALLA CANTT",
+       "Alpha Code ": "AMBALA",
+       "IFSC Code ": "JAKA0AMBALA"
+   },
+   {
+       "S.No.": "267",
+       "Sol Id": "0288",
+       "Branch Name": "VAISHNO DEVI",
+       "Alpha Code ": "VASHNO",
+       "IFSC Code ": "JAKA0VASHNO"
+   },
+   {
+       "S.No.": "268",
+       "Sol Id": "0286",
+       "Branch Name": "BATALA",
+       "Alpha Code ": "BATALA",
+       "IFSC Code ": "JAKA0BATALA"
+   },
+   {
+       "S.No.": "269",
+       "Sol Id": "0287",
+       "Branch Name": "NAVIN SHADRA DELHI",
+       "Alpha Code ": "SHADRA",
+       "IFSC Code ": "JAKA0SHADRA"
+   },
+   {
+       "S.No.": "270",
+       "Sol Id": "0289",
+       "Branch Name": "CHUNDUNA",
+       "Alpha Code ": "CHDUNA",
+       "IFSC Code ": "JAKA0CHDUNA"
+   },
+   {
+       "S.No.": "271",
+       "Sol Id": "0293",
+       "Branch Name": "PUNE",
+       "Alpha Code ": "POONAH",
+       "IFSC Code ": "JAKA0POONAH"
+   },
+   {
+       "S.No.": "272",
+       "Sol Id": "0294",
+       "Branch Name": "SURAT",
+       "Alpha Code ": "SOORAT",
+       "IFSC Code ": "JAKA0SOORAT"
+   },
+   {
+       "S.No.": "273",
+       "Sol Id": "0297",
+       "Branch Name": "SOHAL",
+       "Alpha Code ": "SOHAAL",
+       "IFSC Code ": "JAKA0SOHAAL"
+   },
+   {
+       "S.No.": "274",
+       "Sol Id": "0295",
+       "Branch Name": "INDORE",
+       "Alpha Code ": "INDORE",
+       "IFSC Code ": "JAKA0INDORE"
+   },
+   {
+       "S.No.": "275",
+       "Sol Id": "0296",
+       "Branch Name": "DANEW KANDIMARG",
+       "Alpha Code ": "DWMARG",
+       "IFSC Code ": "JAKA0DWMARG"
+   },
+   {
+       "S.No.": "276",
+       "Sol Id": "0298",
+       "Branch Name": "NAGPUR",
+       "Alpha Code ": "NAGPUR",
+       "IFSC Code ": "JAKA0NAGPUR"
+   },
+   {
+       "S.No.": "277",
+       "Sol Id": "0299",
+       "Branch Name": "JAIPUR",
+       "Alpha Code ": "JAIPUR",
+       "IFSC Code ": "JAKA0JAIPUR"
+   },
+   {
+       "S.No.": "278",
+       "Sol Id": "0333",
+       "Branch Name": "KHARA MAIDANA",
+       "Alpha Code ": "MAIDAN",
+       "IFSC Code ": "JAKA0MAIDAN"
+   },
+   {
+       "S.No.": "279",
+       "Sol Id": "0300",
+       "Branch Name": "TOTAN DI KHUI JAMMU",
+       "Alpha Code ": "TOOTAN",
+       "IFSC Code ": "JAKA0TOOTAN"
+   },
+   {
+       "S.No.": "280",
+       "Sol Id": "0301",
+       "Branch Name": "MEERUT",
+       "Alpha Code ": "MEERUT",
+       "IFSC Code ": "JAKA0MEERUT"
+   },
+   {
+       "S.No.": "281",
+       "Sol Id": "0302",
+       "Branch Name": "HARIA CHAK",
+       "Alpha Code ": "HRCHAK",
+       "IFSC Code ": "JAKA0HRCHAK"
+   },
+   {
+       "S.No.": "282",
+       "Sol Id": "0303",
+       "Branch Name": "HIRA NAGAR MORH",
+       "Alpha Code ": "SIMPLE",
+       "IFSC Code ": "JAKA0SIMPLE"
+   },
+   {
+       "S.No.": "283",
+       "Sol Id": "0304",
+       "Branch Name": "DALHORI",
+       "Alpha Code ": "DALORI",
+       "IFSC Code ": "JAKA0DALORI"
+   },
+   {
+       "S.No.": "284",
+       "Sol Id": "0557",
+       "Branch Name": "RAKIBAN",
+       "Alpha Code ": "RAIKAB",
+       "IFSC Code ": "JAKA0RAIKAB"
+   },
+   {
+       "S.No.": "285",
+       "Sol Id": "0306",
+       "Branch Name": "MACHHEDI ",
+       "Alpha Code ": "MACHAN",
+       "IFSC Code ": "JAKA0MACHAN"
+   },
+   {
+       "S.No.": "286",
+       "Sol Id": "0307",
+       "Branch Name": "WANPORA",
+       "Alpha Code ": "DECENT",
+       "IFSC Code ": "JAKA0DECENT"
+   },
+   {
+       "S.No.": "287",
+       "Sol Id": "0308",
+       "Branch Name": "IMMAM SAHIB",
+       "Alpha Code ": "IMMAMS",
+       "IFSC Code ": "JAKA0IMMAMS"
+   },
+   {
+       "S.No.": "288",
+       "Sol Id": "0053",
+       "Branch Name": "CHANDIMARH",
+       "Alpha Code ": "CHANDI",
+       "IFSC Code ": "JAKA0CHANDI"
+   },
+   {
+       "S.No.": "289",
+       "Sol Id": "0310",
+       "Branch Name": "KASTIGARH",
+       "Alpha Code ": "KASTIG",
+       "IFSC Code ": "JAKA0KASTIG"
+   },
+   {
+       "S.No.": "290",
+       "Sol Id": "0311",
+       "Branch Name": "SANGALDAN",
+       "Alpha Code ": "SANGAL",
+       "IFSC Code ": "JAKA0SANGAL"
+   },
+   {
+       "S.No.": "291",
+       "Sol Id": "0312",
+       "Branch Name": "DRABSHALLA",
+       "Alpha Code ": "DRABLA",
+       "IFSC Code ": "JAKA0DRABLA"
+   },
+   {
+       "S.No.": "292",
+       "Sol Id": "0313",
+       "Branch Name": "LASSANA",
+       "Alpha Code ": "LASANA",
+       "IFSC Code ": "JAKA0LASANA"
+   },
+   {
+       "S.No.": "293",
+       "Sol Id": "0314",
+       "Branch Name": "DACHAN",
+       "Alpha Code ": "DACHAN",
+       "IFSC Code ": "JAKA0DACHAN"
+   },
+   {
+       "S.No.": "294",
+       "Sol Id": "0315",
+       "Branch Name": "B B CANTT SRINAGAR",
+       "Alpha Code ": "BADAMI",
+       "IFSC Code ": "JAKA0BADAMI"
+   },
+   {
+       "S.No.": "295",
+       "Sol Id": "1501",
+       "Branch Name": "LAL BAZAR SRINAGAR",
+       "Alpha Code ": "EXPORT",
+       "IFSC Code ": "JAKA0EXPORT"
+   },
+   {
+       "S.No.": "296",
+       "Sol Id": "0035",
+       "Branch Name": "PATHERGHATI  HYDERABAD",
+       "Alpha Code ": "BHAWNI",
+       "IFSC Code ": "JAKA0BHAWNI"
+   },
+   {
+       "S.No.": "297",
+       "Sol Id": "0318",
+       "Branch Name": "CHAKMALAL",
+       "Alpha Code ": "CHAKMA",
+       "IFSC Code ": "JAKA0CHAKMA"
+   },
+   {
+       "S.No.": "298",
+       "Sol Id": "0319",
+       "Branch Name": "NOIDA",
+       "Alpha Code ": "GHAZIA",
+       "IFSC Code ": "JAKA0GHAZIA"
+   },
+   {
+       "S.No.": "299",
+       "Sol Id": "0361",
+       "Branch Name": "RAWALPORA SRINAGAR",
+       "Alpha Code ": "RAWWAL",
+       "IFSC Code ": "JAKA0RAWWAL"
+   },
+   {
+       "S.No.": "300",
+       "Sol Id": "0321",
+       "Branch Name": "TALAB TILLO JAMMU",
+       "Alpha Code ": "TTALOO",
+       "IFSC Code ": "JAKA0TTALOO"
+   },
+   {
+       "S.No.": "301",
+       "Sol Id": "0322",
+       "Branch Name": "JAWAHAR NAGAR SRINAGAR",
+       "Alpha Code ": "JNAGAR",
+       "IFSC Code ": "JAKA0JNAGAR"
+   },
+   {
+       "S.No.": "302",
+       "Sol Id": "0323",
+       "Branch Name": "LAJPAT NAGAR DELHI ",
+       "Alpha Code ": "LAJPAT",
+       "IFSC Code ": "JAKA0LAJPAT"
+   },
+   {
+       "S.No.": "303",
+       "Sol Id": "0324",
+       "Branch Name": "PATNA ",
+       "Alpha Code ": "SHARIF",
+       "IFSC Code ": "JAKA0SHARIF"
+   },
+   {
+       "S.No.": "304",
+       "Sol Id": "0325",
+       "Branch Name": "MALIK BAZAR KOLKATTA",
+       "Alpha Code ": "BAZZAR",
+       "IFSC Code ": "JAKA0BAZZAR"
+   },
+   {
+       "S.No.": "305",
+       "Sol Id": "0326",
+       "Branch Name": "MYSORE",
+       "Alpha Code ": "MYSORE",
+       "IFSC Code ": "JAKA0MYSORE"
+   },
+   {
+       "S.No.": "306",
+       "Sol Id": "0339",
+       "Branch Name": "URI CIVIL ",
+       "Alpha Code ": "UCIVIL",
+       "IFSC Code ": "JAKA0UCIVIL"
+   },
+   {
+       "S.No.": "307",
+       "Sol Id": "0327",
+       "Branch Name": "MANDI GOBINDGARH",
+       "Alpha Code ": "GOBIND",
+       "IFSC Code ": "JAKA0GOBIND"
+   },
+   {
+       "S.No.": "308",
+       "Sol Id": "0328",
+       "Branch Name": "LUCKNOW",
+       "Alpha Code ": "LUKNOW",
+       "IFSC Code ": "JAKA0LUKNOW"
+   },
+   {
+       "S.No.": "309",
+       "Sol Id": "0329",
+       "Branch Name": "BARODA",
+       "Alpha Code ": "BARODA",
+       "IFSC Code ": "JAKA0BARODA"
+   },
+   {
+       "S.No.": "310",
+       "Sol Id": "0331",
+       "Branch Name": "SHAKTI NAGAR UDHAMPUR ",
+       "Alpha Code ": "SHAKTI",
+       "IFSC Code ": "JAKA0SHAKTI"
+   },
+   {
+       "S.No.": "311",
+       "Sol Id": "0330",
+       "Branch Name": "BHOPAL",
+       "Alpha Code ": "BHOPAL",
+       "IFSC Code ": "JAKA0BHOPAL"
+   },
+   {
+       "S.No.": "312",
+       "Sol Id": "0332",
+       "Branch Name": "ALLAHBAD",
+       "Alpha Code ": "ALABAD",
+       "IFSC Code ": "JAKA0ALABAD"
+   },
+   {
+       "S.No.": "313",
+       "Sol Id": "0334",
+       "Branch Name": "AWANTIPORA",
+       "Alpha Code ": "AWANTI",
+       "IFSC Code ": "JAKA0AWANTI"
+   },
+   {
+       "S.No.": "314",
+       "Sol Id": "0335",
+       "Branch Name": "KHAG",
+       "Alpha Code ": "KHAAGH",
+       "IFSC Code ": "JAKA0KHAAGH"
+   },
+   {
+       "S.No.": "315",
+       "Sol Id": "0336",
+       "Branch Name": "FEROZPUR",
+       "Alpha Code ": "FEROZE",
+       "IFSC Code ": "JAKA0FEROZE"
+   },
+   {
+       "S.No.": "316",
+       "Sol Id": "0374",
+       "Branch Name": "PANTHAL",
+       "Alpha Code ": "PNTHAL",
+       "IFSC Code ": "JAKA0PNTHAL"
+   },
+   {
+       "S.No.": "317",
+       "Sol Id": "0337",
+       "Branch Name": "HISSAR",
+       "Alpha Code ": "HISSAR",
+       "IFSC Code ": "JAKA0HISSAR"
+   },
+   {
+       "S.No.": "318",
+       "Sol Id": "0338",
+       "Branch Name": "BHATINDA",
+       "Alpha Code ": "BHATIN",
+       "IFSC Code ": "JAKA0BHATIN"
+   },
+   {
+       "S.No.": "319",
+       "Sol Id": "0340",
+       "Branch Name": "PHAGWARA",
+       "Alpha Code ": "PAGWAR",
+       "IFSC Code ": "JAKA0PAGWAR"
+   },
+   {
+       "S.No.": "320",
+       "Sol Id": "0341",
+       "Branch Name": "BHADOHI",
+       "Alpha Code ": "BADOHI",
+       "IFSC Code ": "JAKA0BADOHI"
+   },
+   {
+       "S.No.": "321",
+       "Sol Id": "0204",
+       "Branch Name": "SOURA SRINAGAR",
+       "Alpha Code ": "SOOURA",
+       "IFSC Code ": "JAKA0SOOURA"
+   },
+   {
+       "S.No.": "322",
+       "Sol Id": "0471",
+       "Branch Name": "GURGAON MAIN",
+       "Alpha Code ": "GURGON",
+       "IFSC Code ": "JAKA0GURGON"
+   },
+   {
+       "S.No.": "323",
+       "Sol Id": "0344",
+       "Branch Name": "PANAJI GOA",
+       "Alpha Code ": "PANAJI",
+       "IFSC Code ": "JAKA0PANAJI"
+   },
+   {
+       "S.No.": "324",
+       "Sol Id": "0345",
+       "Branch Name": "NEW UNIVERSITY CAMPUS JAMMU",
+       "Alpha Code ": "CANAAL",
+       "IFSC Code ": "JAKA0CANAAL"
+   },
+   {
+       "S.No.": "325",
+       "Sol Id": "0392",
+       "Branch Name": "SOLINA",
+       "Alpha Code ": "SOLINA",
+       "IFSC Code ": "JAKA0SOLINA"
+   },
+   {
+       "S.No.": "326",
+       "Sol Id": "0309",
+       "Branch Name": "AGRO HI TECH SOPORE",
+       "Alpha Code ": "HITECH",
+       "IFSC Code ": "JAKA0HITECH"
+   },
+   {
+       "S.No.": "327",
+       "Sol Id": "0348",
+       "Branch Name": "KACHDOORA",
+       "Alpha Code ": "KACHDR",
+       "IFSC Code ": "JAKA0KACHDR"
+   },
+   {
+       "S.No.": "328",
+       "Sol Id": "0349",
+       "Branch Name": "GOVT MEDICAL COLLEGE SRINAGAR",
+       "Alpha Code ": "DOCTOR",
+       "IFSC Code ": "JAKA0DOCTOR"
+   },
+   {
+       "S.No.": "329",
+       "Sol Id": "0350",
+       "Branch Name": "LETHPORA",
+       "Alpha Code ": "LETPUR",
+       "IFSC Code ": "JAKA0LETPUR"
+   },
+   {
+       "S.No.": "330",
+       "Sol Id": "0352",
+       "Branch Name": "RAJPORA ",
+       "Alpha Code ": "RAJPUR",
+       "IFSC Code ": "JAKA0RAJPUR"
+   },
+   {
+       "S.No.": "331",
+       "Sol Id": "0353",
+       "Branch Name": "MANSA",
+       "Alpha Code ": "MANSSA",
+       "IFSC Code ": "JAKA0MANSSA"
+   },
+   {
+       "S.No.": "332",
+       "Sol Id": "0354",
+       "Branch Name": "DHARAMSHALA",
+       "Alpha Code ": "DSHALA",
+       "IFSC Code ": "JAKA0DSHALA"
+   },
+   {
+       "S.No.": "333",
+       "Sol Id": "0351",
+       "Branch Name": "KAKAPORA",
+       "Alpha Code ": "KAKPUR",
+       "IFSC Code ": "JAKA0KAKPUR"
+   },
+   {
+       "S.No.": "334",
+       "Sol Id": "0356",
+       "Branch Name": "BAGH ALI MARDAN SRINAGAR",
+       "Alpha Code ": "MARDAN",
+       "IFSC Code ": "JAKA0MARDAN"
+   },
+   {
+       "S.No.": "335",
+       "Sol Id": "0357",
+       "Branch Name": "SKALZANGLING",
+       "Alpha Code ": "SKALZA",
+       "IFSC Code ": "JAKA0SKALZA"
+   },
+   {
+       "S.No.": "336",
+       "Sol Id": "0358",
+       "Branch Name": "AURANGABAD",
+       "Alpha Code ": "AURANG",
+       "IFSC Code ": "JAKA0AURANG"
+   },
+   {
+       "S.No.": "337",
+       "Sol Id": "0359",
+       "Branch Name": "PINJOORA",
+       "Alpha Code ": "PINJOR",
+       "IFSC Code ": "JAKA0PINJOR"
+   },
+   {
+       "S.No.": "338",
+       "Sol Id": "0362",
+       "Branch Name": "MOGA",
+       "Alpha Code ": "MOGAPB",
+       "IFSC Code ": "JAKA0MOGAPB"
+   },
+   {
+       "S.No.": "339",
+       "Sol Id": "0360",
+       "Branch Name": "NOWGAM ",
+       "Alpha Code ": "NOWGAM",
+       "IFSC Code ": "JAKA0NOWGAM"
+   },
+   {
+       "S.No.": "340",
+       "Sol Id": "0386",
+       "Branch Name": "HUMHAMA ",
+       "Alpha Code ": "HUMHAM",
+       "IFSC Code ": "JAKA0HUMHAM"
+   },
+   {
+       "S.No.": "341",
+       "Sol Id": "0363",
+       "Branch Name": "ISLAMIA COLLEGE SRINAGAR",
+       "Alpha Code ": "COLLEG",
+       "IFSC Code ": "JAKA0COLLEG"
+   },
+   {
+       "S.No.": "342",
+       "Sol Id": "0364",
+       "Branch Name": "MIRA ROAD MUMBAI",
+       "Alpha Code ": "MIRARD",
+       "IFSC Code ": "JAKA0MIRARD"
+   },
+   {
+       "S.No.": "343",
+       "Sol Id": "0365",
+       "Branch Name": "LAL MANDI SRINAGAR",
+       "Alpha Code ": "SBOARD",
+       "IFSC Code ": "JAKA0SBOARD"
+   },
+   {
+       "S.No.": "344",
+       "Sol Id": "0367",
+       "Branch Name": "TANKIPORA SRINAGAR",
+       "Alpha Code ": "TANKEE",
+       "IFSC Code ": "JAKA0TANKEE"
+   },
+   {
+       "S.No.": "345",
+       "Sol Id": "0372",
+       "Branch Name": "BEMINA SRINAGAR",
+       "Alpha Code ": "BEMINA",
+       "IFSC Code ": "JAKA0BEMINA"
+   },
+   {
+       "S.No.": "346",
+       "Sol Id": "0368",
+       "Branch Name": "MOHD ALI ROAD MUMBAI",
+       "Alpha Code ": "MAROAD",
+       "IFSC Code ": "JAKA0MAROAD"
+   },
+   {
+       "S.No.": "347",
+       "Sol Id": "0375",
+       "Branch Name": "TRIKUTA NAGAR JAMMU",
+       "Alpha Code ": "TRIKOT",
+       "IFSC Code ": "JAKA0TRIKOT"
+   },
+   {
+       "S.No.": "348",
+       "Sol Id": "0376",
+       "Branch Name": "KHANNA",
+       "Alpha Code ": "KHANNA",
+       "IFSC Code ": "JAKA0KHANNA"
+   },
+   {
+       "S.No.": "349",
+       "Sol Id": "0369",
+       "Branch Name": "VASANT VIHAR DELHI",
+       "Alpha Code ": "VASANT",
+       "IFSC Code ": "JAKA0VASANT"
+   },
+   {
+       "S.No.": "350",
+       "Sol Id": "0370",
+       "Branch Name": "MOHALI",
+       "Alpha Code ": "MOHALI",
+       "IFSC Code ": "JAKA0MOHALI"
+   },
+   {
+       "S.No.": "351",
+       "Sol Id": "0371",
+       "Branch Name": "BUS ADDA ANANTNAG",
+       "Alpha Code ": "BUSANG",
+       "IFSC Code ": "JAKA0BUSANG"
+   },
+   {
+       "S.No.": "352",
+       "Sol Id": "0373",
+       "Branch Name": "GOVERNMENT MEDICAL COLLEGE  JAMMU",
+       "Alpha Code ": "MEDJAM",
+       "IFSC Code ": "JAKA0MEDJAM"
+   },
+   {
+       "S.No.": "353",
+       "Sol Id": "0377",
+       "Branch Name": "VASHI  MUMBAI",
+       "Alpha Code ": "VASHEE",
+       "IFSC Code ": "JAKA0VASHEE"
+   },
+   {
+       "S.No.": "354",
+       "Sol Id": "0268",
+       "Branch Name": "ALIGARH",
+       "Alpha Code ": "ALIGAR",
+       "IFSC Code ": "JAKA0ALIGAR"
+   },
+   {
+       "S.No.": "355",
+       "Sol Id": "0378",
+       "Branch Name": "ZAKURA",
+       "Alpha Code ": "ZAKURA",
+       "IFSC Code ": "JAKA0ZAKURA"
+   },
+   {
+       "S.No.": "356",
+       "Sol Id": "0380",
+       "Branch Name": "GREATER NOIDA",
+       "Alpha Code ": "GNOIDA",
+       "IFSC Code ": "JAKA0GNOIDA"
+   },
+   {
+       "S.No.": "357",
+       "Sol Id": "0381",
+       "Branch Name": "MURADABAD",
+       "Alpha Code ": "MURABD",
+       "IFSC Code ": "JAKA0MURABD"
+   },
+   {
+       "S.No.": "358",
+       "Sol Id": "0382",
+       "Branch Name": "PATEL NAGAR  KATHUA",
+       "Alpha Code ": "REVENU",
+       "IFSC Code ": "JAKA0REVENU"
+   },
+   {
+       "S.No.": "359",
+       "Sol Id": "0237",
+       "Branch Name": "VARANASI",
+       "Alpha Code ": "VARNAS",
+       "IFSC Code ": "JAKA0VARNAS"
+   },
+   {
+       "S.No.": "360",
+       "Sol Id": "0408",
+       "Branch Name": "ANSAL PLAZA DELHI",
+       "Alpha Code ": "ANSALL",
+       "IFSC Code ": "JAKA0ANSALL"
+   },
+   {
+       "S.No.": "361",
+       "Sol Id": "0385",
+       "Branch Name": "HYDERPORA SRINAGAR",
+       "Alpha Code ": "HUDPUR",
+       "IFSC Code ": "JAKA0HUDPUR"
+   },
+   {
+       "S.No.": "362",
+       "Sol Id": "0384",
+       "Branch Name": "OTC BANGALORE",
+       "Alpha Code ": "OTCBNG",
+       "IFSC Code ": "JAKA0OTCBNG"
+   },
+   {
+       "S.No.": "363",
+       "Sol Id": "0387",
+       "Branch Name": "OKHLA DELHI",
+       "Alpha Code ": "OKHLAA",
+       "IFSC Code ": "JAKA0OKHLAA"
+   },
+   {
+       "S.No.": "364",
+       "Sol Id": "0391",
+       "Branch Name": "REC SRINAGAR",
+       "Alpha Code ": "RECSGR",
+       "IFSC Code ": "JAKA0RECSGR"
+   },
+   {
+       "S.No.": "365",
+       "Sol Id": "0777",
+       "Branch Name": "SSI LAL CHOWK SRINAGR",
+       "Alpha Code ": "SSISGR",
+       "IFSC Code ": "JAKA0SSISGR"
+   },
+   {
+       "S.No.": "366",
+       "Sol Id": "2222",
+       "Branch Name": "PARRYS CHENNAI",
+       "Alpha Code ": "PARRYS",
+       "IFSC Code ": "JAKA0PARRYS"
+   },
+   {
+       "S.No.": "367",
+       "Sol Id": "0426",
+       "Branch Name": "SARITA VIHAR DELHI",
+       "Alpha Code ": "SARITA",
+       "IFSC Code ": "JAKA0SARITA"
+   },
+   {
+       "S.No.": "368",
+       "Sol Id": "0394",
+       "Branch Name": "GUND ",
+       "Alpha Code ": "GOUNDH",
+       "IFSC Code ": "JAKA0GOUNDH"
+   },
+   {
+       "S.No.": "369",
+       "Sol Id": "0393",
+       "Branch Name": "ROHINI DELHI",
+       "Alpha Code ": "ROHINI",
+       "IFSC Code ": "JAKA0ROHINI"
+   },
+   {
+       "S.No.": "370",
+       "Sol Id": "0395",
+       "Branch Name": "GUJJAR NAGAR JAMMU",
+       "Alpha Code ": "GNGJAM",
+       "IFSC Code ": "JAKA0GNGJAM"
+   },
+   {
+       "S.No.": "371",
+       "Sol Id": "0015",
+       "Branch Name": "T P KULGAM",
+       "Alpha Code ": "TPKGAM",
+       "IFSC Code ": "JAKA0TPKGAM"
+   },
+   {
+       "S.No.": "372",
+       "Sol Id": "0242",
+       "Branch Name": "SKUAST SRINAGAR",
+       "Alpha Code ": "SKUAST",
+       "IFSC Code ": "JAKA0SKUAST"
+   },
+   {
+       "S.No.": "373",
+       "Sol Id": "0396",
+       "Branch Name": "BONE & JOINT HOSPITAL SRINAGAR",
+       "Alpha Code ": "BJHOSP",
+       "IFSC Code ": "JAKA0BJHOSP"
+   },
+   {
+       "S.No.": "374",
+       "Sol Id": "0404",
+       "Branch Name": "OLD SECRETARIAT SRINAGAR",
+       "Alpha Code ": "RTOSGR",
+       "IFSC Code ": "JAKA0RTOSGR"
+   },
+   {
+       "S.No.": "375",
+       "Sol Id": "1111",
+       "Branch Name": "APEX BRANCH CHQ",
+       "Alpha Code ": "APEXBR",
+       "IFSC Code ": "JAKA0APEXBR"
+   },
+   {
+       "S.No.": "376",
+       "Sol Id": "0399",
+       "Branch Name": "ZAINPURA",
+       "Alpha Code ": "ZANPUR",
+       "IFSC Code ": "JAKA0ZANPUR"
+   },
+   {
+       "S.No.": "377",
+       "Sol Id": "3333",
+       "Branch Name": "KOCHI",
+       "Alpha Code ": "KUCHIE",
+       "IFSC Code ": "JAKA0KUCHIE"
+   },
+   {
+       "S.No.": "378",
+       "Sol Id": "4444",
+       "Branch Name": "THIRUVANANTHAPURAM",
+       "Alpha Code ": "TPURAM",
+       "IFSC Code ": "JAKA0TPURAM"
+   },
+   {
+       "S.No.": "379",
+       "Sol Id": "0402",
+       "Branch Name": "KACHI CHAWNI JAMMU",
+       "Alpha Code ": "KCHJAM",
+       "IFSC Code ": "JAKA0KCHJAM"
+   },
+   {
+       "S.No.": "380",
+       "Sol Id": "1112",
+       "Branch Name": "POLO VIEW SRINAGAR",
+       "Alpha Code ": "POLOVW",
+       "IFSC Code ": "JAKA0POLOVW"
+   },
+   {
+       "S.No.": "381",
+       "Sol Id": "0379",
+       "Branch Name": "BUL BUL NOWGAM",
+       "Alpha Code ": "BBNGAM",
+       "IFSC Code ": "JAKA0BBNGAM"
+   },
+   {
+       "S.No.": "382",
+       "Sol Id": "0445",
+       "Branch Name": "VERSOVA MUMBAI",
+       "Alpha Code ": "VARSUA",
+       "IFSC Code ": "JAKA0VARSUA"
+   },
+   {
+       "S.No.": "383",
+       "Sol Id": "0406",
+       "Branch Name": "HIGH COURT COMPLEX JAMMU",
+       "Alpha Code ": "HCCJAM",
+       "IFSC Code ": "JAKA0HCCJAM"
+   },
+   {
+       "S.No.": "384",
+       "Sol Id": "0446",
+       "Branch Name": "BANDRA MUMBAI",
+       "Alpha Code ": "BANDRA",
+       "IFSC Code ": "JAKA0BANDRA"
+   },
+   {
+       "S.No.": "385",
+       "Sol Id": "0437",
+       "Branch Name": "YARIPORA",
+       "Alpha Code ": "YARPUR",
+       "IFSC Code ": "JAKA0YARPUR"
+   },
+   {
+       "S.No.": "386",
+       "Sol Id": "0450",
+       "Branch Name": "FARIDABAD",
+       "Alpha Code ": "FRABAD",
+       "IFSC Code ": "JAKA0FRABAD"
+   },
+   {
+       "S.No.": "387",
+       "Sol Id": "0343",
+       "Branch Name": "CHANNI HIMMAT JAMMU",
+       "Alpha Code ": "POLICE",
+       "IFSC Code ": "JAKA0POLICE"
+   },
+   {
+       "S.No.": "388",
+       "Sol Id": "0397",
+       "Branch Name": "AZADGUNJ BARAMULLA",
+       "Alpha Code ": "AZGUNJ",
+       "IFSC Code ": "JAKA0AZGUNJ"
+   },
+   {
+       "S.No.": "389",
+       "Sol Id": "0470",
+       "Branch Name": "LAL CHOWK ANANTNAG",
+       "Alpha Code ": "LALANG",
+       "IFSC Code ": "JAKA0LALANG"
+   },
+   {
+       "S.No.": "390",
+       "Sol Id": "0472",
+       "Branch Name": "SADIQABAD",
+       "Alpha Code ": "SAADIQ",
+       "IFSC Code ": "JAKA0SAADIQ"
+   },
+   {
+       "S.No.": "391",
+       "Sol Id": "0480",
+       "Branch Name": "HIGH COURT COMPLEX SRINAGAR",
+       "Alpha Code ": "HCCSGR",
+       "IFSC Code ": "JAKA0HCCSGR"
+   },
+   {
+       "S.No.": "392",
+       "Sol Id": "1244",
+       "Branch Name": "H R SHOPIAN",
+       "Alpha Code ": "HRSHOP",
+       "IFSC Code ": "JAKA0HRSHOP"
+   },
+   {
+       "S.No.": "393",
+       "Sol Id": "0483",
+       "Branch Name": "OMPORA",
+       "Alpha Code ": "OMPORA",
+       "IFSC Code ": "JAKA0OMPORA"
+   },
+   {
+       "S.No.": "394",
+       "Sol Id": "0433",
+       "Branch Name": "OLD JANIPUR TALIMOR JAMMU",
+       "Alpha Code ": "TOLMAR",
+       "IFSC Code ": "JAKA0TOLMAR"
+   },
+   {
+       "S.No.": "395",
+       "Sol Id": "0403",
+       "Branch Name": "ASHMUQAM",
+       "Alpha Code ": "SAKHIE",
+       "IFSC Code ": "JAKA0SAKHIE"
+   },
+   {
+       "S.No.": "396",
+       "Sol Id": "0459",
+       "Branch Name": "GREATER KAILASH DELHI",
+       "Alpha Code ": "GKLASH",
+       "IFSC Code ": "JAKA0GKLASH"
+   },
+   {
+       "S.No.": "397",
+       "Sol Id": "0422",
+       "Branch Name": "KHANDA",
+       "Alpha Code ": "KHANDA",
+       "IFSC Code ": "JAKA0KHANDA"
+   },
+   {
+       "S.No.": "398",
+       "Sol Id": "0460",
+       "Branch Name": "T NAGAR CHENNAI",
+       "Alpha Code ": "TCHNAI",
+       "IFSC Code ": "JAKA0TCHNAI"
+   },
+   {
+       "S.No.": "399",
+       "Sol Id": "0463",
+       "Branch Name": "MAYUR VIHAR DELHI",
+       "Alpha Code ": "MVIHAR",
+       "IFSC Code ": "JAKA0MVIHAR"
+   },
+   {
+       "S.No.": "400",
+       "Sol Id": "0464",
+       "Branch Name": "VIKAS MARG DELHI",
+       "Alpha Code ": "VIKAAS",
+       "IFSC Code ": "JAKA0VIKAAS"
+   },
+   {
+       "S.No.": "401",
+       "Sol Id": "0482",
+       "Branch Name": "LD HOSPITAL SRINAGAR",
+       "Alpha Code ": "LALDED",
+       "IFSC Code ": "JAKA0LALDED"
+   },
+   {
+       "S.No.": "402",
+       "Sol Id": "0465",
+       "Branch Name": "RAIPUR",
+       "Alpha Code ": "RAIPUR",
+       "IFSC Code ": "JAKA0RAIPUR"
+   },
+   {
+       "S.No.": "403",
+       "Sol Id": "0466",
+       "Branch Name": "DEHRADUN",
+       "Alpha Code ": "DEDOON",
+       "IFSC Code ": "JAKA0DEDOON"
+   },
+   {
+       "S.No.": "404",
+       "Sol Id": "0479",
+       "Branch Name": "AMINABAD LUCKNOW",
+       "Alpha Code ": "AMINLK",
+       "IFSC Code ": "JAKA0AMINLK"
+   },
+   {
+       "S.No.": "405",
+       "Sol Id": "0469",
+       "Branch Name": "COIMBATORE",
+       "Alpha Code ": "COMTOR",
+       "IFSC Code ": "JAKA0COMTOR"
+   },
+   {
+       "S.No.": "406",
+       "Sol Id": "0468",
+       "Branch Name": "MANGALORE",
+       "Alpha Code ": "MANGAL",
+       "IFSC Code ": "JAKA0MANGAL"
+   },
+   {
+       "S.No.": "407",
+       "Sol Id": "0476",
+       "Branch Name": "MURRAN ADDA",
+       "Alpha Code ": "MURRAN",
+       "IFSC Code ": "JAKA0MURRAN"
+   },
+   {
+       "S.No.": "408",
+       "Sol Id": "0320",
+       "Branch Name": "SIDHRA JAMMU",
+       "Alpha Code ": "SIDHRA",
+       "IFSC Code ": "JAKA0SIDHRA"
+   },
+   {
+       "S.No.": "409",
+       "Sol Id": "0481",
+       "Branch Name": "DRABGAM ",
+       "Alpha Code ": "DUBGAM",
+       "IFSC Code ": "JAKA0DUBGAM"
+   },
+   {
+       "S.No.": "410",
+       "Sol Id": "0435",
+       "Branch Name": "KREMSHORE",
+       "Alpha Code ": "KSHORE",
+       "IFSC Code ": "JAKA0KSHORE"
+   },
+   {
+       "S.No.": "411",
+       "Sol Id": "0467",
+       "Branch Name": "PITAMPURA DELHI",
+       "Alpha Code ": "PRITAM",
+       "IFSC Code ": "JAKA0PRITAM"
+   },
+   {
+       "S.No.": "412",
+       "Sol Id": "0075",
+       "Branch Name": "CHANDOSA",
+       "Alpha Code ": "CNDOSA",
+       "IFSC Code ": "JAKA0CNDOSA"
+   },
+   {
+       "S.No.": "413",
+       "Sol Id": "0544",
+       "Branch Name": "POUNIE",
+       "Alpha Code ": "POUNIE",
+       "IFSC Code ": "JAKA0POUNIE"
+   },
+   {
+       "S.No.": "414",
+       "Sol Id": "0232",
+       "Branch Name": "VERINAG",
+       "Alpha Code ": "VERNAG",
+       "IFSC Code ": "JAKA0VERNAG"
+   },
+   {
+       "S.No.": "415",
+       "Sol Id": "0316",
+       "Branch Name": "BANTALAB JAMMU",
+       "Alpha Code ": "BANTAL",
+       "IFSC Code ": "JAKA0BANTAL"
+   },
+   {
+       "S.No.": "416",
+       "Sol Id": "0497",
+       "Branch Name": "SAHARANPUR",
+       "Alpha Code ": "SHARAN",
+       "IFSC Code ": "JAKA0SHARAN"
+   },
+   {
+       "S.No.": "417",
+       "Sol Id": "0447",
+       "Branch Name": "SATELLITE AHMEDABAD",
+       "Alpha Code ": "SATLIT",
+       "IFSC Code ": "JAKA0SATLIT"
+   },
+   {
+       "S.No.": "418",
+       "Sol Id": "0484",
+       "Branch Name": "LAAR",
+       "Alpha Code ": "WATLAR",
+       "IFSC Code ": "JAKA0WATLAR"
+   },
+   {
+       "S.No.": "419",
+       "Sol Id": "0440",
+       "Branch Name": "INTERNATIONAL BANKING DIV SRINAGAR",
+       "Alpha Code ": "INTDIV",
+       "IFSC Code ": "JAKA0INTDIV"
+   },
+   {
+       "S.No.": "420",
+       "Sol Id": "0442",
+       "Branch Name": "DEVSAR",
+       "Alpha Code ": "DEVSAR",
+       "IFSC Code ": "JAKA0DEVSAR"
+   },
+   {
+       "S.No.": "421",
+       "Sol Id": "0342",
+       "Branch Name": "SKIMSS SRINAGAR",
+       "Alpha Code ": "SKIMSS",
+       "IFSC Code ": "JAKA0SKIMSS"
+   },
+   {
+       "S.No.": "422",
+       "Sol Id": "0486",
+       "Branch Name": "WAGOORA",
+       "Alpha Code ": "WAGORA",
+       "IFSC Code ": "JAKA0WAGORA"
+   },
+   {
+       "S.No.": "423",
+       "Sol Id": "0485",
+       "Branch Name": "LAJORA",
+       "Alpha Code ": "LAJORA",
+       "IFSC Code ": "JAKA0LAJORA"
+   },
+   {
+       "S.No.": "424",
+       "Sol Id": "0346",
+       "Branch Name": "BOTSHAH MOHALLA SRINAGAR",
+       "Alpha Code ": "BOTSHA",
+       "IFSC Code ": "JAKA0BOTSHA"
+   },
+   {
+       "S.No.": "425",
+       "Sol Id": "1256",
+       "Branch Name": "ACHABAL  ANANTNAG",
+       "Alpha Code ": "ACHNAG",
+       "IFSC Code ": "JAKA0ACHNAG"
+   },
+   {
+       "S.No.": "426",
+       "Sol Id": "0488",
+       "Branch Name": "TREHGAM ",
+       "Alpha Code ": "TRHGAM",
+       "IFSC Code ": "JAKA0TRHGAM"
+   },
+   {
+       "S.No.": "427",
+       "Sol Id": "0487",
+       "Branch Name": "MARHAMA",
+       "Alpha Code ": "MARHMA",
+       "IFSC Code ": "JAKA0MARHMA"
+   },
+   {
+       "S.No.": "428",
+       "Sol Id": "0556",
+       "Branch Name": "DARHAL ",
+       "Alpha Code ": "DARHAL",
+       "IFSC Code ": "JAKA0DARHAL"
+   },
+   {
+       "S.No.": "429",
+       "Sol Id": "0492",
+       "Branch Name": "HERMAN",
+       "Alpha Code ": "HERMAN",
+       "IFSC Code ": "JAKA0HERMAN"
+   },
+   {
+       "S.No.": "430",
+       "Sol Id": "0489",
+       "Branch Name": "NIHAMA",
+       "Alpha Code ": "NIHAMA",
+       "IFSC Code ": "JAKA0NIHAMA"
+   },
+   {
+       "S.No.": "431",
+       "Sol Id": "0494",
+       "Branch Name": "KELLER",
+       "Alpha Code ": "KELLER",
+       "IFSC Code ": "JAKA0KELLER"
+   },
+   {
+       "S.No.": "432",
+       "Sol Id": "0493",
+       "Branch Name": "AMPHALLA JAMMU",
+       "Alpha Code ": "AMPHLA",
+       "IFSC Code ": "JAKA0AMPHLA"
+   },
+   {
+       "S.No.": "433",
+       "Sol Id": "0461",
+       "Branch Name": "ARRAH",
+       "Alpha Code ": "ARAHAN",
+       "IFSC Code ": "JAKA0ARAHAN"
+   },
+   {
+       "S.No.": "434",
+       "Sol Id": "0478",
+       "Branch Name": "JEHANGIR CHOWK (NABERA COMPLEX)",
+       "Alpha Code ": "NABERA",
+       "IFSC Code ": "JAKA0NABERA"
+   },
+   {
+       "S.No.": "435",
+       "Sol Id": "0518",
+       "Branch Name": "NASIK",
+       "Alpha Code ": "NAASIK",
+       "IFSC Code ": "JAKA0NAASIK"
+   },
+   {
+       "S.No.": "436",
+       "Sol Id": "1203",
+       "Branch Name": "SMGS HOSPITAL JAMMU",
+       "Alpha Code ": "EMCJAM",
+       "IFSC Code ": "JAKA0EMCJAM"
+   },
+   {
+       "S.No.": "437",
+       "Sol Id": "1230",
+       "Branch Name": "OLD BUS STAND PARLIWAND",
+       "Alpha Code ": "OLDBUS",
+       "IFSC Code ": "JAKA0OLDBUS"
+   },
+   {
+       "S.No.": "438",
+       "Sol Id": "1242",
+       "Branch Name": "J&K BOSE REHARI",
+       "Alpha Code ": "ELUXUR",
+       "IFSC Code ": "JAKA0ELUXUR"
+   },
+   {
+       "S.No.": "439",
+       "Sol Id": "1262",
+       "Branch Name": "NSM PATTA BOHRI JAMMU ",
+       "Alpha Code ": "ENSMCE",
+       "IFSC Code ": "JAKA0ENSMCE"
+   },
+   {
+       "S.No.": "440",
+       "Sol Id": "0541",
+       "Branch Name": "GUJROO ",
+       "Alpha Code ": "EGROTA",
+       "IFSC Code ": "JAKA0EGROTA"
+   },
+   {
+       "S.No.": "441",
+       "Sol Id": "0553",
+       "Branch Name": "RAMKOT",
+       "Alpha Code ": "RAMKOT",
+       "IFSC Code ": "JAKA0RAMKOT"
+   },
+   {
+       "S.No.": "442",
+       "Sol Id": "1209",
+       "Branch Name": "ARNIA",
+       "Alpha Code ": "EARNIA",
+       "IFSC Code ": "JAKA0EARNIA"
+   },
+   {
+       "S.No.": "443",
+       "Sol Id": "1210",
+       "Branch Name": "OLD SECRETARIAT  JAMMU",
+       "Alpha Code ": "EOSJAM",
+       "IFSC Code ": "JAKA0EOSJAM"
+   },
+   {
+       "S.No.": "444",
+       "Sol Id": "1213",
+       "Branch Name": "Acharya Shri Chandra College of Medical Sciences and Hospital",
+       "Alpha Code ": "EBATRA",
+       "IFSC Code ": "JAKA0EBATRA"
+   },
+   {
+       "S.No.": "445",
+       "Sol Id": "1214",
+       "Branch Name": "TP SHASTRI NAGAR JAMMU",
+       "Alpha Code ": "EGANDI",
+       "IFSC Code ": "JAKA0EGANDI"
+   },
+   {
+       "S.No.": "446",
+       "Sol Id": "1236",
+       "Branch Name": "KAMBAL DANGA",
+       "Alpha Code ": "EDANGA",
+       "IFSC Code ": "JAKA0EDANGA"
+   },
+   {
+       "S.No.": "447",
+       "Sol Id": "0519",
+       "Branch Name": "GHAZIABAD ",
+       "Alpha Code ": "GZABAD",
+       "IFSC Code ": "JAKA0GZABAD"
+   },
+   {
+       "S.No.": "448",
+       "Sol Id": "0520",
+       "Branch Name": "RANCHI",
+       "Alpha Code ": "RANCHI",
+       "IFSC Code ": "JAKA0RANCHI"
+   },
+   {
+       "S.No.": "449",
+       "Sol Id": "0521",
+       "Branch Name": "DWARKA DELHI",
+       "Alpha Code ": "DWARKA",
+       "IFSC Code ": "JAKA0DWARKA"
+   },
+   {
+       "S.No.": "450",
+       "Sol Id": "0522",
+       "Branch Name": "SHALIMAR BAGH DELHI",
+       "Alpha Code ": "SMBAGH",
+       "IFSC Code ": "JAKA0SMBAGH"
+   },
+   {
+       "S.No.": "451",
+       "Sol Id": "0523",
+       "Branch Name": "BAZAR BATMALOO",
+       "Alpha Code ": "BATMOL",
+       "IFSC Code ": "JAKA0BATMOL"
+   },
+   {
+       "S.No.": "452",
+       "Sol Id": "0547",
+       "Branch Name": "BOARD OF SCHOOL EDUCATION SRINAGAR",
+       "Alpha Code ": "EXAMBR",
+       "IFSC Code ": "JAKA0EXAMBR"
+   },
+   {
+       "S.No.": "453",
+       "Sol Id": "0448",
+       "Branch Name": "FRUIT MANDI SOPORE",
+       "Alpha Code ": "APPLET",
+       "IFSC Code ": "JAKA0APPLET"
+   },
+   {
+       "S.No.": "454",
+       "Sol Id": "1204",
+       "Branch Name": "T P BANDIPUR",
+       "Alpha Code ": "TPBAND",
+       "IFSC Code ": "JAKA0TPBAND"
+   },
+   {
+       "S.No.": "455",
+       "Sol Id": "0473",
+       "Branch Name": "SADAR COURT SRINAGAR",
+       "Alpha Code ": "ESADER",
+       "IFSC Code ": "JAKA0ESADER"
+   },
+   {
+       "S.No.": "456",
+       "Sol Id": "1206",
+       "Branch Name": "JVMC SRINAGAR",
+       "Alpha Code ": "EJVBEM",
+       "IFSC Code ": "JAKA0EJVBEM"
+   },
+   {
+       "S.No.": "457",
+       "Sol Id": "1243",
+       "Branch Name": "NEW THEED ",
+       "Alpha Code ": "ETHEED",
+       "IFSC Code ": "JAKA0ETHEED"
+   },
+   {
+       "S.No.": "458",
+       "Sol Id": "1241",
+       "Branch Name": "CAMA HOUSING COLONY",
+       "Alpha Code ": "ESHKTI",
+       "IFSC Code ": "JAKA0ESHKTI"
+   },
+   {
+       "S.No.": "459",
+       "Sol Id": "0534",
+       "Branch Name": "BAGH E MEHTAB SRINAGAR",
+       "Alpha Code ": "MEHTAB",
+       "IFSC Code ": "JAKA0MEHTAB"
+   },
+   {
+       "S.No.": "460",
+       "Sol Id": "0531",
+       "Branch Name": "PANCHKULA",
+       "Alpha Code ": "PANCHK",
+       "IFSC Code ": "JAKA0PANCHK"
+   },
+   {
+       "S.No.": "461",
+       "Sol Id": "0022",
+       "Branch Name": "RAIL HEAD COMPLEX JAMMU",
+       "Alpha Code ": "ERAILH",
+       "IFSC Code ": "JAKA0ERAILH"
+   },
+   {
+       "S.No.": "462",
+       "Sol Id": "0542",
+       "Branch Name": "PHINTER",
+       "Alpha Code ": "PHNTER",
+       "IFSC Code ": "JAKA0PHNTER"
+   },
+   {
+       "S.No.": "463",
+       "Sol Id": "0552",
+       "Branch Name": "MAHANPUR",
+       "Alpha Code ": "MAHANP",
+       "IFSC Code ": "JAKA0MAHANP"
+   },
+   {
+       "S.No.": "464",
+       "Sol Id": "1205",
+       "Branch Name": "NARSINGH DEVJI MANDIR BIRPUR",
+       "Alpha Code ": "BIRPUR",
+       "IFSC Code ": "JAKA0BIRPUR"
+   },
+   {
+       "S.No.": "465",
+       "Sol Id": "1217",
+       "Branch Name": "PATLI MORH SAMBA",
+       "Alpha Code ": "PATLIM",
+       "IFSC Code ": "JAKA0PATLIM"
+   },
+   {
+       "S.No.": "466",
+       "Sol Id": "1246",
+       "Branch Name": "TIRATH NAGAR JAMMU",
+       "Alpha Code ": "TTALAB",
+       "IFSC Code ": "JAKA0TTALAB"
+   },
+   {
+       "S.No.": "467",
+       "Sol Id": "0533",
+       "Branch Name": "INDUSTRIAL AREA LUDHIANA",
+       "Alpha Code ": "IALUDH",
+       "IFSC Code ": "JAKA0IALUDH"
+   },
+   {
+       "S.No.": "468",
+       "Sol Id": "0565",
+       "Branch Name": "ROHMOO",
+       "Alpha Code ": "ROHMOO",
+       "IFSC Code ": "JAKA0ROHMOO"
+   },
+   {
+       "S.No.": "469",
+       "Sol Id": "0524",
+       "Branch Name": "NATIPORA SRINAGAR ",
+       "Alpha Code ": "NATIPR",
+       "IFSC Code ": "JAKA0NATIPR"
+   },
+   {
+       "S.No.": "470",
+       "Sol Id": "0525",
+       "Branch Name": "NOORBAGH SRINAGAR",
+       "Alpha Code ": "NOORBG",
+       "IFSC Code ": "JAKA0NOORBG"
+   },
+   {
+       "S.No.": "471",
+       "Sol Id": "0528",
+       "Branch Name": "KHOJ BAGH",
+       "Alpha Code ": "KHOJBG",
+       "IFSC Code ": "JAKA0KHOJBG"
+   },
+   {
+       "S.No.": "472",
+       "Sol Id": "0529",
+       "Branch Name": "OLD CHOWK  KUPWARA",
+       "Alpha Code ": "OLDCHK",
+       "IFSC Code ": "JAKA0OLDCHK"
+   },
+   {
+       "S.No.": "473",
+       "Sol Id": "0535",
+       "Branch Name": "KHAYAM CHOWK SRINAGAR",
+       "Alpha Code ": "KHAYAM",
+       "IFSC Code ": "JAKA0KHAYAM"
+   },
+   {
+       "S.No.": "474",
+       "Sol Id": "0548",
+       "Branch Name": "NASRULLAHPORA",
+       "Alpha Code ": "NASRUL",
+       "IFSC Code ": "JAKA0NASRUL"
+   },
+   {
+       "S.No.": "475",
+       "Sol Id": "0575",
+       "Branch Name": "KADDER",
+       "Alpha Code ": "KADDAR",
+       "IFSC Code ": "JAKA0KADDAR"
+   },
+   {
+       "S.No.": "476",
+       "Sol Id": "0580",
+       "Branch Name": "KHUDWANI ",
+       "Alpha Code ": "KHUDWN",
+       "IFSC Code ": "JAKA0KHUDWN"
+   },
+   {
+       "S.No.": "477",
+       "Sol Id": "0527",
+       "Branch Name": "HAIDER BEIGH",
+       "Alpha Code ": "HBEIGH",
+       "IFSC Code ": "JAKA0HBEIGH"
+   },
+   {
+       "S.No.": "478",
+       "Sol Id": "0532",
+       "Branch Name": "MANALI",
+       "Alpha Code ": "MANALI",
+       "IFSC Code ": "JAKA0MANALI"
+   },
+   {
+       "S.No.": "479",
+       "Sol Id": "0545",
+       "Branch Name": "LITTER",
+       "Alpha Code ": "LITTER",
+       "IFSC Code ": "JAKA0LITTER"
+   },
+   {
+       "S.No.": "480",
+       "Sol Id": "0526",
+       "Branch Name": "SONWAR SRINAGAR",
+       "Alpha Code ": "SONWAR",
+       "IFSC Code ": "JAKA0SONWAR"
+   },
+   {
+       "S.No.": "481",
+       "Sol Id": "0530",
+       "Branch Name": "MAHIM MUMBAI",
+       "Alpha Code ": "MAHIMM",
+       "IFSC Code ": "JAKA0MAHIMM"
+   },
+   {
+       "S.No.": "482",
+       "Sol Id": "0574",
+       "Branch Name": "KHEERIBAL",
+       "Alpha Code ": "KHERBL",
+       "IFSC Code ": "JAKA0KHERBL"
+   },
+   {
+       "S.No.": "483",
+       "Sol Id": "0576",
+       "Branch Name": "RANIPORA",
+       "Alpha Code ": "RANIPR",
+       "IFSC Code ": "JAKA0RANIPR"
+   },
+   {
+       "S.No.": "484",
+       "Sol Id": "0558",
+       "Branch Name": "RAJPURA",
+       "Alpha Code ": "RAJPJM",
+       "IFSC Code ": "JAKA0RAJPJM"
+   },
+   {
+       "S.No.": "485",
+       "Sol Id": "1212",
+       "Branch Name": "GUJJAR CHARITABLE TRUST JAMMU",
+       "Alpha Code ": "GUJCCJ",
+       "IFSC Code ": "JAKA0GUJCCJ"
+   },
+   {
+       "S.No.": "486",
+       "Sol Id": "1252",
+       "Branch Name": "RAMGARH ",
+       "Alpha Code ": "RAMGAR",
+       "IFSC Code ": "JAKA0RAMGAR"
+   },
+   {
+       "S.No.": "487",
+       "Sol Id": "0537",
+       "Branch Name": "NEW PLOT JAMMU",
+       "Alpha Code ": "NEWPLT",
+       "IFSC Code ": "JAKA0NEWPLT"
+   },
+   {
+       "S.No.": "488",
+       "Sol Id": "0579",
+       "Branch Name": "MOHAMMAD PORA",
+       "Alpha Code ": "MHMDPR",
+       "IFSC Code ": "JAKA0MHMDPR"
+   },
+   {
+       "S.No.": "489",
+       "Sol Id": "0176",
+       "Branch Name": "DIALGAM ",
+       "Alpha Code ": "DIALGM",
+       "IFSC Code ": "JAKA0DIALGM"
+   },
+   {
+       "S.No.": "490",
+       "Sol Id": "0551",
+       "Branch Name": "MIR BAZAR ANANTNAG",
+       "Alpha Code ": "MIRBZR",
+       "IFSC Code ": "JAKA0MIRBZR"
+   },
+   {
+       "S.No.": "491",
+       "Sol Id": "0538",
+       "Branch Name": "PALOURA JAMMU ",
+       "Alpha Code ": "PLOURA",
+       "IFSC Code ": "JAKA0PLOURA"
+   },
+   {
+       "S.No.": "492",
+       "Sol Id": "0539",
+       "Branch Name": "GREATER KAILASH JAMMU",
+       "Alpha Code ": "GKJAMU",
+       "IFSC Code ": "JAKA0GKJAMU"
+   },
+   {
+       "S.No.": "493",
+       "Sol Id": "0540",
+       "Branch Name": "INDRA NAGAR BANGALORE",
+       "Alpha Code ": "INBANG",
+       "IFSC Code ": "JAKA0INBANG"
+   },
+   {
+       "S.No.": "494",
+       "Sol Id": "1247",
+       "Branch Name": "NAGROTA (TOLL POST)",
+       "Alpha Code ": "NAGROT",
+       "IFSC Code ": "JAKA0NAGROT"
+   },
+   {
+       "S.No.": "495",
+       "Sol Id": "0586",
+       "Branch Name": "BABA GHULAM SHAH UNIVERSITY RAJOURI",
+       "Alpha Code ": "GSBUNI",
+       "IFSC Code ": "JAKA0GSBUNI"
+   },
+   {
+       "S.No.": "496",
+       "Sol Id": "0409",
+       "Branch Name": "BHOGAL DELHI",
+       "Alpha Code ": "BHOGAL",
+       "IFSC Code ": "JAKA0BHOGAL"
+   },
+   {
+       "S.No.": "497",
+       "Sol Id": "1229",
+       "Branch Name": "GOUSHBUG",
+       "Alpha Code ": "EGOUSH",
+       "IFSC Code ": "JAKA0EGOUSH"
+   },
+   {
+       "S.No.": "498",
+       "Sol Id": "0475",
+       "Branch Name": "NAMBLABAL PAMPORE",
+       "Alpha Code ": "ENAMBL",
+       "IFSC Code ": "JAKA0ENAMBL"
+   },
+   {
+       "S.No.": "499",
+       "Sol Id": "1224",
+       "Branch Name": "ZIRIPORA",
+       "Alpha Code ": "EZIRIP",
+       "IFSC Code ": "JAKA0EZIRIP"
+   },
+   {
+       "S.No.": "500",
+       "Sol Id": "1254",
+       "Branch Name": "BUS STAND TRAL",
+       "Alpha Code ": "BSTRAL",
+       "IFSC Code ": "JAKA0BSTRAL"
+   },
+   {
+       "S.No.": "501",
+       "Sol Id": "0573",
+       "Branch Name": "CHANGA ",
+       "Alpha Code ": "CHANGA",
+       "IFSC Code ": "JAKA0CHANGA"
+   },
+   {
+       "S.No.": "502",
+       "Sol Id": "0477",
+       "Branch Name": "MATA VAISHNO DEVI UNIVERSITY KAKRIYAL",
+       "Alpha Code ": "SMVDUN",
+       "IFSC Code ": "JAKA0SMVDUN"
+   },
+   {
+       "S.No.": "503",
+       "Sol Id": "0543",
+       "Branch Name": "BONIYAR",
+       "Alpha Code ": "BONYAR",
+       "IFSC Code ": "JAKA0BONYAR"
+   },
+   {
+       "S.No.": "504",
+       "Sol Id": "0546",
+       "Branch Name": "KUNZER",
+       "Alpha Code ": "KUNZER",
+       "IFSC Code ": "JAKA0KUNZER"
+   },
+   {
+       "S.No.": "505",
+       "Sol Id": "0550",
+       "Branch Name": "HANDWARA (SOUTH)",
+       "Alpha Code ": "HRHAND",
+       "IFSC Code ": "JAKA0HRHAND"
+   },
+   {
+       "S.No.": "506",
+       "Sol Id": "0577",
+       "Branch Name": "BUGAM ",
+       "Alpha Code ": "BOOGAM",
+       "IFSC Code ": "JAKA0BOOGAM"
+   },
+   {
+       "S.No.": "507",
+       "Sol Id": "0578",
+       "Branch Name": "MANZGAM",
+       "Alpha Code ": "MNZGAM",
+       "IFSC Code ": "JAKA0MNZGAM"
+   },
+   {
+       "S.No.": "508",
+       "Sol Id": "0564",
+       "Branch Name": "BHALRA",
+       "Alpha Code ": "BHALRA",
+       "IFSC Code ": "JAKA0BHALRA"
+   },
+   {
+       "S.No.": "509",
+       "Sol Id": "0563",
+       "Branch Name": "SHIV NAGAR UDHAMPUR",
+       "Alpha Code ": "SHIVJI",
+       "IFSC Code ": "JAKA0SHIVJI"
+   },
+   {
+       "S.No.": "510",
+       "Sol Id": "0549",
+       "Branch Name": "LASSIPORA",
+       "Alpha Code ": "LASIPR",
+       "IFSC Code ": "JAKA0LASIPR"
+   },
+   {
+       "S.No.": "511",
+       "Sol Id": "0458",
+       "Branch Name": "WAKURA",
+       "Alpha Code ": "EWAKUR",
+       "IFSC Code ": "JAKA0EWAKUR"
+   },
+   {
+       "S.No.": "512",
+       "Sol Id": "0536",
+       "Branch Name": "NAGBAL",
+       "Alpha Code ": "ECNBAL",
+       "IFSC Code ": "JAKA0ECNBAL"
+   },
+   {
+       "S.No.": "513",
+       "Sol Id": "1211",
+       "Branch Name": "CHEST DISEASE HOSPITAL SRINAGAR",
+       "Alpha Code ": "ECHEST",
+       "IFSC Code ": "JAKA0ECHEST"
+   },
+   {
+       "S.No.": "514",
+       "Sol Id": "1237",
+       "Branch Name": "TRC SRINAGAR",
+       "Alpha Code ": "TRCSGR",
+       "IFSC Code ": "JAKA0TRCSGR"
+   },
+   {
+       "S.No.": "515",
+       "Sol Id": "1238",
+       "Branch Name": "SAINIK SCHOOL MANASBAL",
+       "Alpha Code ": "ESANIK",
+       "IFSC Code ": "JAKA0ESANIK"
+   },
+   {
+       "S.No.": "516",
+       "Sol Id": "0454",
+       "Branch Name": "KAROO ",
+       "Alpha Code ": "EKARUL",
+       "IFSC Code ": "JAKA0EKARUL"
+   },
+   {
+       "S.No.": "517",
+       "Sol Id": "0584",
+       "Branch Name": "CHIKTAN",
+       "Alpha Code ": "CHKTAN",
+       "IFSC Code ": "JAKA0CHKTAN"
+   },
+   {
+       "S.No.": "518",
+       "Sol Id": "0568",
+       "Branch Name": "VILGAM",
+       "Alpha Code ": "VILGAM",
+       "IFSC Code ": "JAKA0VILGAM"
+   },
+   {
+       "S.No.": "519",
+       "Sol Id": "0572",
+       "Branch Name": "ZAMPA",
+       "Alpha Code ": "ZAMPAA",
+       "IFSC Code ": "JAKA0ZAMPAA"
+   },
+   {
+       "S.No.": "520",
+       "Sol Id": "0567",
+       "Branch Name": "ROHAMA",
+       "Alpha Code ": "ROHAMA",
+       "IFSC Code ": "JAKA0ROHAMA"
+   },
+   {
+       "S.No.": "521",
+       "Sol Id": "0559",
+       "Branch Name": "KARAN BAGH JAMMU",
+       "Alpha Code ": "KARNBG",
+       "IFSC Code ": "JAKA0KARNBG"
+   },
+   {
+       "S.No.": "522",
+       "Sol Id": "0560",
+       "Branch Name": "DUDERHAMA ",
+       "Alpha Code ": "DUDRHM",
+       "IFSC Code ": "JAKA0DUDRHM"
+   },
+   {
+       "S.No.": "523",
+       "Sol Id": "0561",
+       "Branch Name": "KHUMANI CHOWK",
+       "Alpha Code ": "KHMENI",
+       "IFSC Code ": "JAKA0KHMENI"
+   },
+   {
+       "S.No.": "524",
+       "Sol Id": "0569",
+       "Branch Name": "TOP SHERKHANIAN JAMMU",
+       "Alpha Code ": "TOPSHR",
+       "IFSC Code ": "JAKA0TOPSHR"
+   },
+   {
+       "S.No.": "525",
+       "Sol Id": "0452",
+       "Branch Name": "MANWAL",
+       "Alpha Code ": "EDREAM",
+       "IFSC Code ": "JAKA0EDREAM"
+   },
+   {
+       "S.No.": "526",
+       "Sol Id": "0587",
+       "Branch Name": "INDUSTRIAL FINANCE BRANCH  SAMBA",
+       "Alpha Code ": "IFSMBA",
+       "IFSC Code ": "JAKA0IFSMBA"
+   },
+   {
+       "S.No.": "527",
+       "Sol Id": "0589",
+       "Branch Name": "WADWAN(INSHAN)",
+       "Alpha Code ": "WADWAN",
+       "IFSC Code ": "JAKA0WADWAN"
+   },
+   {
+       "S.No.": "528",
+       "Sol Id": "0590",
+       "Branch Name": "HARDU ABOORA ",
+       "Alpha Code ": "HRDABR",
+       "IFSC Code ": "JAKA0HRDABR"
+   },
+   {
+       "S.No.": "529",
+       "Sol Id": "0597",
+       "Branch Name": "DRAGMULLAH ",
+       "Alpha Code ": "DRGMUL",
+       "IFSC Code ": "JAKA0DRGMUL"
+   },
+   {
+       "S.No.": "530",
+       "Sol Id": "0599",
+       "Branch Name": "NIMMOO",
+       "Alpha Code ": "NIMMOO",
+       "IFSC Code ": "JAKA0NIMMOO"
+   },
+   {
+       "S.No.": "531",
+       "Sol Id": "0592",
+       "Branch Name": "WATERGAM",
+       "Alpha Code ": "WTRGAM",
+       "IFSC Code ": "JAKA0WTRGAM"
+   },
+   {
+       "S.No.": "532",
+       "Sol Id": "0605",
+       "Branch Name": "PREM NAGAR",
+       "Alpha Code ": "PRMNGR",
+       "IFSC Code ": "JAKA0PRMNGR"
+   },
+   {
+       "S.No.": "533",
+       "Sol Id": "0606",
+       "Branch Name": "ASSAR",
+       "Alpha Code ": "ASSARR",
+       "IFSC Code ": "JAKA0ASSARR"
+   },
+   {
+       "S.No.": "534",
+       "Sol Id": "0591",
+       "Branch Name": "SHEERI",
+       "Alpha Code ": "SHEERI",
+       "IFSC Code ": "JAKA0SHEERI"
+   },
+   {
+       "S.No.": "535",
+       "Sol Id": "0595",
+       "Branch Name": "LALPORA",
+       "Alpha Code ": "LALPOR",
+       "IFSC Code ": "JAKA0LALPOR"
+   },
+   {
+       "S.No.": "536",
+       "Sol Id": "0603",
+       "Branch Name": "BAGATI KANIPORA",
+       "Alpha Code ": "BKPORA",
+       "IFSC Code ": "JAKA0BKPORA"
+   },
+   {
+       "S.No.": "537",
+       "Sol Id": "0600",
+       "Branch Name": "TURKWANGAN",
+       "Alpha Code ": "TURKWN",
+       "IFSC Code ": "JAKA0TURKWN"
+   },
+   {
+       "S.No.": "538",
+       "Sol Id": "0193",
+       "Branch Name": "ARIZAL",
+       "Alpha Code ": "ARIZAL",
+       "IFSC Code ": "JAKA0ARIZAL"
+   },
+   {
+       "S.No.": "539",
+       "Sol Id": "0191",
+       "Branch Name": "DADSAR ",
+       "Alpha Code ": "DADSAR",
+       "IFSC Code ": "JAKA0DADSAR"
+   },
+   {
+       "S.No.": "540",
+       "Sol Id": "0602",
+       "Branch Name": "PEHLOO",
+       "Alpha Code ": "PEHLOO",
+       "IFSC Code ": "JAKA0PEHLOO"
+   },
+   {
+       "S.No.": "541",
+       "Sol Id": "0607",
+       "Branch Name": "JAKYAS",
+       "Alpha Code ": "JAKYAS",
+       "IFSC Code ": "JAKA0JAKYAS"
+   },
+   {
+       "S.No.": "542",
+       "Sol Id": "0609",
+       "Branch Name": "KAHARA",
+       "Alpha Code ": "KAHARA",
+       "IFSC Code ": "JAKA0KAHARA"
+   },
+   {
+       "S.No.": "543",
+       "Sol Id": "0601",
+       "Branch Name": "NAGAM",
+       "Alpha Code ": "NAGGAM",
+       "IFSC Code ": "JAKA0NAGGAM"
+   },
+   {
+       "S.No.": "544",
+       "Sol Id": "0608",
+       "Branch Name": "NAGSENI",
+       "Alpha Code ": "NAGSEN",
+       "IFSC Code ": "JAKA0NAGSEN"
+   },
+   {
+       "S.No.": "545",
+       "Sol Id": "0611",
+       "Branch Name": "CHASANA",
+       "Alpha Code ": "CHASAN",
+       "IFSC Code ": "JAKA0CHASAN"
+   },
+   {
+       "S.No.": "546",
+       "Sol Id": "0594",
+       "Branch Name": "QALAM CHAKLA",
+       "Alpha Code ": "QLMCHK",
+       "IFSC Code ": "JAKA0QLMCHK"
+   },
+   {
+       "S.No.": "547",
+       "Sol Id": "0596",
+       "Branch Name": "WAVOORA",
+       "Alpha Code ": "WAWOOR",
+       "IFSC Code ": "JAKA0WAWOOR"
+   },
+   {
+       "S.No.": "548",
+       "Sol Id": "0610",
+       "Branch Name": "BEHROTE",
+       "Alpha Code ": "BAHROT",
+       "IFSC Code ": "JAKA0BAHROT"
+   },
+   {
+       "S.No.": "549",
+       "Sol Id": "0612",
+       "Branch Name": "BHAGGA",
+       "Alpha Code ": "BAGGAA",
+       "IFSC Code ": "JAKA0BAGGAA"
+   },
+   {
+       "S.No.": "550",
+       "Sol Id": "0614",
+       "Branch Name": "GOWHARPORA",
+       "Alpha Code ": "GOWHAR",
+       "IFSC Code ": "JAKA0GOWHAR"
+   },
+   {
+       "S.No.": "551",
+       "Sol Id": "0616",
+       "Branch Name": "ARIHAL",
+       "Alpha Code ": "ARIHAL",
+       "IFSC Code ": "JAKA0ARIHAL"
+   },
+   {
+       "S.No.": "552",
+       "Sol Id": "0617",
+       "Branch Name": "TRESPONE",
+       "Alpha Code ": "TRSPON",
+       "IFSC Code ": "JAKA0TRSPON"
+   },
+   {
+       "S.No.": "553",
+       "Sol Id": "0618",
+       "Branch Name": "COURT ROAD MAGAM",
+       "Alpha Code ": "CRMAGM",
+       "IFSC Code ": "JAKA0CRMAGM"
+   },
+   {
+       "S.No.": "554",
+       "Sol Id": "0619",
+       "Branch Name": "MISHRIWALA",
+       "Alpha Code ": "MISHRI",
+       "IFSC Code ": "JAKA0MISHRI"
+   },
+   {
+       "S.No.": "555",
+       "Sol Id": "0615",
+       "Branch Name": "KAPRIN",
+       "Alpha Code ": "KAPRIN",
+       "IFSC Code ": "JAKA0KAPRIN"
+   },
+   {
+       "S.No.": "556",
+       "Sol Id": "0625",
+       "Branch Name": "ASHMUJI",
+       "Alpha Code ": "ASHMUJ",
+       "IFSC Code ": "JAKA0ASHMUJ"
+   },
+   {
+       "S.No.": "557",
+       "Sol Id": "0632",
+       "Branch Name": "MANIGAM",
+       "Alpha Code ": "MANGAM",
+       "IFSC Code ": "JAKA0MANGAM"
+   },
+   {
+       "S.No.": "558",
+       "Sol Id": "0631",
+       "Branch Name": "SOIBUGH",
+       "Alpha Code ": "SOIBUG",
+       "IFSC Code ": "JAKA0SOIBUG"
+   },
+   {
+       "S.No.": "559",
+       "Sol Id": "0640",
+       "Branch Name": "NANDANI HILLS SAMBA",
+       "Alpha Code ": "NANDAN",
+       "IFSC Code ": "JAKA0NANDAN"
+   },
+   {
+       "S.No.": "560",
+       "Sol Id": "0649",
+       "Branch Name": "KULLIAN",
+       "Alpha Code ": "KULIAN",
+       "IFSC Code ": "JAKA0KULIAN"
+   },
+   {
+       "S.No.": "561",
+       "Sol Id": "0650",
+       "Branch Name": "JAKH",
+       "Alpha Code ": "JAAKHH",
+       "IFSC Code ": "JAKA0JAAKHH"
+   },
+   {
+       "S.No.": "562",
+       "Sol Id": "0669",
+       "Branch Name": "JAGTI TOWNSHIP",
+       "Alpha Code ": "JAGTEE",
+       "IFSC Code ": "JAKA0JAGTEE"
+   },
+   {
+       "S.No.": "563",
+       "Sol Id": "0642",
+       "Branch Name": "NOWGAM SHANGUS",
+       "Alpha Code ": "NGSHAN",
+       "IFSC Code ": "JAKA0NGSHAN"
+   },
+   {
+       "S.No.": "564",
+       "Sol Id": "0643",
+       "Branch Name": "MEHIND",
+       "Alpha Code ": "MEHIND",
+       "IFSC Code ": "JAKA0MEHIND"
+   },
+   {
+       "S.No.": "565",
+       "Sol Id": "0644",
+       "Branch Name": "PINGLIN",
+       "Alpha Code ": "PINGLE",
+       "IFSC Code ": "JAKA0PINGLE"
+   },
+   {
+       "S.No.": "566",
+       "Sol Id": "0645",
+       "Branch Name": "TAHAB",
+       "Alpha Code ": "TAHAAB",
+       "IFSC Code ": "JAKA0TAHAAB"
+   },
+   {
+       "S.No.": "567",
+       "Sol Id": "0646",
+       "Branch Name": "SANGAM",
+       "Alpha Code ": "SANGAM",
+       "IFSC Code ": "JAKA0SANGAM"
+   },
+   {
+       "S.No.": "568",
+       "Sol Id": "0647",
+       "Branch Name": "VESSU",
+       "Alpha Code ": "VESSOO",
+       "IFSC Code ": "JAKA0VESSOO"
+   },
+   {
+       "S.No.": "569",
+       "Sol Id": "0651",
+       "Branch Name": "GHAT",
+       "Alpha Code ": "GHAATH",
+       "IFSC Code ": "JAKA0GHAATH"
+   },
+   {
+       "S.No.": "570",
+       "Sol Id": "0653",
+       "Branch Name": "HIDYAL",
+       "Alpha Code ": "HIDYAL",
+       "IFSC Code ": "JAKA0HIDYAL"
+   },
+   {
+       "S.No.": "571",
+       "Sol Id": "0654",
+       "Branch Name": "MUGHAL MAIDAN",
+       "Alpha Code ": "MMYDAN",
+       "IFSC Code ": "JAKA0MMYDAN"
+   },
+   {
+       "S.No.": "572",
+       "Sol Id": "0656",
+       "Branch Name": "TETHAR",
+       "Alpha Code ": "TETHAR",
+       "IFSC Code ": "JAKA0TETHAR"
+   },
+   {
+       "S.No.": "573",
+       "Sol Id": "0664",
+       "Branch Name": "SALIA",
+       "Alpha Code ": "SAALIA",
+       "IFSC Code ": "JAKA0SAALIA"
+   },
+   {
+       "S.No.": "574",
+       "Sol Id": "0663",
+       "Branch Name": "MUNAND GUFFAN",
+       "Alpha Code ": "MUNAND",
+       "IFSC Code ": "JAKA0MUNAND"
+   },
+   {
+       "S.No.": "575",
+       "Sol Id": "0613",
+       "Branch Name": "MANJAKOTE",
+       "Alpha Code ": "MANAJA",
+       "IFSC Code ": "JAKA0MANAJA"
+   },
+   {
+       "S.No.": "576",
+       "Sol Id": "0620",
+       "Branch Name": "PALHALAN",
+       "Alpha Code ": "PALHAL",
+       "IFSC Code ": "JAKA0PALHAL"
+   },
+   {
+       "S.No.": "577",
+       "Sol Id": "0622",
+       "Branch Name": "KRALGUND",
+       "Alpha Code ": "KLGUND",
+       "IFSC Code ": "JAKA0KLGUND"
+   },
+   {
+       "S.No.": "578",
+       "Sol Id": "0623",
+       "Branch Name": "KULANGAM",
+       "Alpha Code ": "KULLAN",
+       "IFSC Code ": "JAKA0KULLAN"
+   },
+   {
+       "S.No.": "579",
+       "Sol Id": "0626",
+       "Branch Name": "CHOWKIBAL",
+       "Alpha Code ": "CHOKBL",
+       "IFSC Code ": "JAKA0CHOKBL"
+   },
+   {
+       "S.No.": "580",
+       "Sol Id": "0627",
+       "Branch Name": "KHAITANGAN",
+       "Alpha Code ": "TANGAN",
+       "IFSC Code ": "JAKA0TANGAN"
+   },
+   {
+       "S.No.": "581",
+       "Sol Id": "0630",
+       "Branch Name": "CHOORA",
+       "Alpha Code ": "CHOORA",
+       "IFSC Code ": "JAKA0CHOORA"
+   },
+   {
+       "S.No.": "582",
+       "Sol Id": "0636",
+       "Branch Name": "SOPORE TOWN",
+       "Alpha Code ": "SOPORE",
+       "IFSC Code ": "JAKA0SOPORE"
+   },
+   {
+       "S.No.": "583",
+       "Sol Id": "0637",
+       "Branch Name": "JADEED ROAD",
+       "Alpha Code ": "JADEED",
+       "IFSC Code ": "JAKA0JADEED"
+   },
+   {
+       "S.No.": "584",
+       "Sol Id": "0665",
+       "Branch Name": "PAZALPORA",
+       "Alpha Code ": "PAZAAL",
+       "IFSC Code ": "JAKA0PAZAAL"
+   },
+   {
+       "S.No.": "585",
+       "Sol Id": "0661",
+       "Branch Name": "AJOTE",
+       "Alpha Code ": "AJJOTE",
+       "IFSC Code ": "JAKA0AJJOTE"
+   },
+   {
+       "S.No.": "586",
+       "Sol Id": "0629",
+       "Branch Name": "HARAI",
+       "Alpha Code ": "HARRAI",
+       "IFSC Code ": "JAKA0HARRAI"
+   },
+   {
+       "S.No.": "587",
+       "Sol Id": "0639",
+       "Branch Name": "ARAMPORA",
+       "Alpha Code ": "ARMPOR",
+       "IFSC Code ": "JAKA0ARMPOR"
+   },
+   {
+       "S.No.": "588",
+       "Sol Id": "0655",
+       "Branch Name": "GOHA MARMAT",
+       "Alpha Code ": "MARMAT",
+       "IFSC Code ": "JAKA0MARMAT"
+   },
+   {
+       "S.No.": "589",
+       "Sol Id": "0657",
+       "Branch Name": "BHAMBLA",
+       "Alpha Code ": "BAMBLA",
+       "IFSC Code ": "JAKA0BAMBLA"
+   },
+   {
+       "S.No.": "590",
+       "Sol Id": "0658",
+       "Branch Name": "RANSOO",
+       "Alpha Code ": "RANRSI",
+       "IFSC Code ": "JAKA0RANRSI"
+   },
+   {
+       "S.No.": "591",
+       "Sol Id": "0652",
+       "Branch Name": "KULEED",
+       "Alpha Code ": "KULEED",
+       "IFSC Code ": "JAKA0KULEED"
+   },
+   {
+       "S.No.": "592",
+       "Sol Id": "0662",
+       "Branch Name": "SHERI-KASHMIR BRIDGE",
+       "Alpha Code ": "SKBRIG",
+       "IFSC Code ": "JAKA0SKBRIG"
+   },
+   {
+       "S.No.": "593",
+       "Sol Id": "0671",
+       "Branch Name": "JOURIAN",
+       "Alpha Code ": "JORIAN",
+       "IFSC Code ": "JAKA0JORIAN"
+   },
+   {
+       "S.No.": "594",
+       "Sol Id": "0672",
+       "Branch Name": "AMB GROTA",
+       "Alpha Code ": "AMGROT",
+       "IFSC Code ": "JAKA0AMGROT"
+   },
+   {
+       "S.No.": "595",
+       "Sol Id": "0673",
+       "Branch Name": "NOWABAD(SUNJAWAN)",
+       "Alpha Code ": "NOWBAD",
+       "IFSC Code ": "JAKA0NOWBAD"
+   },
+   {
+       "S.No.": "596",
+       "Sol Id": "0648",
+       "Branch Name": "TUJJAR SHARIEF",
+       "Alpha Code ": "TUJJAR",
+       "IFSC Code ": "JAKA0TUJJAR"
+   },
+   {
+       "S.No.": "597",
+       "Sol Id": "0633",
+       "Branch Name": "PEERPUR CHOWK",
+       "Alpha Code ": "PIRPUR",
+       "IFSC Code ": "JAKA0PIRPUR"
+   },
+   {
+       "S.No.": "598",
+       "Sol Id": "0670",
+       "Branch Name": "MARH",
+       "Alpha Code ": "MARHJM",
+       "IFSC Code ": "JAKA0MARHJM"
+   },
+   {
+       "S.No.": "599",
+       "Sol Id": "0674",
+       "Branch Name": "SURARA",
+       "Alpha Code ": "SURARA",
+       "IFSC Code ": "JAKA0SURARA"
+   },
+   {
+       "S.No.": "600",
+       "Sol Id": "0675",
+       "Branch Name": "RAJBAGH",
+       "Alpha Code ": "RAJBAG",
+       "IFSC Code ": "JAKA0RAJBAG"
+   },
+   {
+       "S.No.": "601",
+       "Sol Id": "0676",
+       "Branch Name": "DAYALACHAK",
+       "Alpha Code ": "DAYAAL",
+       "IFSC Code ": "JAKA0DAYAAL"
+   },
+   {
+       "S.No.": "602",
+       "Sol Id": "0659",
+       "Branch Name": "BUDHAL",
+       "Alpha Code ": "BUDRAJ",
+       "IFSC Code ": "JAKA0BUDRAJ"
+   },
+   {
+       "S.No.": "603",
+       "Sol Id": "0678",
+       "Branch Name": "MANSAR",
+       "Alpha Code ": "MANSAR",
+       "IFSC Code ": "JAKA0MANSAR"
+   },
+   {
+       "S.No.": "604",
+       "Sol Id": "0679",
+       "Branch Name": "CAMP GOLE  GUJRAL",
+       "Alpha Code ": "GUJRAL",
+       "IFSC Code ": "JAKA0GUJRAL"
+   },
+   {
+       "S.No.": "605",
+       "Sol Id": "0680",
+       "Branch Name": "DABLEHAR",
+       "Alpha Code ": "DABHAR",
+       "IFSC Code ": "JAKA0DABHAR"
+   },
+   {
+       "S.No.": "606",
+       "Sol Id": "0634",
+       "Branch Name": "MEHJOOR NAGAR",
+       "Alpha Code ": "MEHJUR",
+       "IFSC Code ": "JAKA0MEHJUR"
+   },
+   {
+       "S.No.": "607",
+       "Sol Id": "0682",
+       "Branch Name": "CHATTABAL",
+       "Alpha Code ": "CHTBAL",
+       "IFSC Code ": "JAKA0CHTBAL"
+   },
+   {
+       "S.No.": "608",
+       "Sol Id": "0685",
+       "Branch Name": "UDHEYWALA",
+       "Alpha Code ": "UDHWAL",
+       "IFSC Code ": "JAKA0UDHWAL"
+   },
+   {
+       "S.No.": "609",
+       "Sol Id": "0683",
+       "Branch Name": "LAL CHOWK KARGIL",
+       "Alpha Code ": "KARLAL",
+       "IFSC Code ": "JAKA0KARLAL"
+   },
+   {
+       "S.No.": "610",
+       "Sol Id": "0686",
+       "Branch Name": "MULBEK",
+       "Alpha Code ": "MULBIK",
+       "IFSC Code ": "JAKA0MULBIK"
+   },
+   {
+       "S.No.": "611",
+       "Sol Id": "0687",
+       "Branch Name": "BHELLA",
+       "Alpha Code ": "BHELLA",
+       "IFSC Code ": "JAKA0BHELLA"
+   },
+   {
+       "S.No.": "612",
+       "Sol Id": "0688",
+       "Branch Name": "UDRANA",
+       "Alpha Code ": "UDRANA",
+       "IFSC Code ": "JAKA0UDRANA"
+   },
+   {
+       "S.No.": "613",
+       "Sol Id": "0689",
+       "Branch Name": "LANDER",
+       "Alpha Code ": "LANUDH",
+       "IFSC Code ": "JAKA0LANUDH"
+   },
+   {
+       "S.No.": "614",
+       "Sol Id": "0694",
+       "Branch Name": "CHARRIPORA",
+       "Alpha Code ": "CHARPR",
+       "IFSC Code ": "JAKA0CHARPR"
+   },
+   {
+       "S.No.": "615",
+       "Sol Id": "0692",
+       "Branch Name": "VAILOO",
+       "Alpha Code ": "VAILOO",
+       "IFSC Code ": "JAKA0VAILOO"
+   },
+   {
+       "S.No.": "616",
+       "Sol Id": "0695",
+       "Branch Name": "WATERHAL",
+       "Alpha Code ": "WATHAL",
+       "IFSC Code ": "JAKA0WATHAL"
+   },
+   {
+       "S.No.": "617",
+       "Sol Id": "0696",
+       "Branch Name": "SHOOLIPORA",
+       "Alpha Code ": "SHOOLI",
+       "IFSC Code ": "JAKA0SHOOLI"
+   },
+   {
+       "S.No.": "618",
+       "Sol Id": "0697",
+       "Branch Name": "RANGER",
+       "Alpha Code ": "RANGER",
+       "IFSC Code ": "JAKA0RANGER"
+   },
+   {
+       "S.No.": "619",
+       "Sol Id": "0698",
+       "Branch Name": "KANIR",
+       "Alpha Code ": "KANEER",
+       "IFSC Code ": "JAKA0KANEER"
+   },
+   {
+       "S.No.": "620",
+       "Sol Id": "0703",
+       "Branch Name": "VEHIL",
+       "Alpha Code ": "VEHEEL",
+       "IFSC Code ": "JAKA0VEHEEL"
+   },
+   {
+       "S.No.": "621",
+       "Sol Id": "0709",
+       "Branch Name": "RAITHAN",
+       "Alpha Code ": "RAITHN",
+       "IFSC Code ": "JAKA0RAITHN"
+   },
+   {
+       "S.No.": "622",
+       "Sol Id": "0667",
+       "Branch Name": "ZACHALDARA",
+       "Alpha Code ": "ZACHAL",
+       "IFSC Code ": "JAKA0ZACHAL"
+   },
+   {
+       "S.No.": "623",
+       "Sol Id": "0691",
+       "Branch Name": "SARTHAL(AGRAL)",
+       "Alpha Code ": "SARTAL",
+       "IFSC Code ": "JAKA0SARTAL"
+   },
+   {
+       "S.No.": "624",
+       "Sol Id": "0707",
+       "Branch Name": "DERA BABA BANDA BAHADUR",
+       "Alpha Code ": "DERBAB",
+       "IFSC Code ": "JAKA0DERBAB"
+   },
+   {
+       "S.No.": "625",
+       "Sol Id": "0705",
+       "Branch Name": "WALIWAR",
+       "Alpha Code ": "WALWAR",
+       "IFSC Code ": "JAKA0WALWAR"
+   },
+   {
+       "S.No.": "626",
+       "Sol Id": "0593",
+       "Branch Name": "BADUGAM TULAIL",
+       "Alpha Code ": "TULAIL",
+       "IFSC Code ": "JAKA0TULAIL"
+   },
+   {
+       "S.No.": "627",
+       "Sol Id": "0710",
+       "Branch Name": "BOGDANG",
+       "Alpha Code ": "BGDONG",
+       "IFSC Code ": "JAKA0BGDONG"
+   },
+   {
+       "S.No.": "628",
+       "Sol Id": "0704",
+       "Branch Name": "BATHINDI",
+       "Alpha Code ": "BTINDI",
+       "IFSC Code ": "JAKA0BTINDI"
+   },
+   {
+       "S.No.": "629",
+       "Sol Id": "0706",
+       "Branch Name": "DOMANA",
+       "Alpha Code ": "DOMANA",
+       "IFSC Code ": "JAKA0DOMANA"
+   },
+   {
+       "S.No.": "630",
+       "Sol Id": "0711",
+       "Branch Name": "SARWAL",
+       "Alpha Code ": "SARWAL",
+       "IFSC Code ": "JAKA0SARWAL"
+   },
+   {
+       "S.No.": "631",
+       "Sol Id": "0690",
+       "Branch Name": "BOUNJWAH(BINOON)",
+       "Alpha Code ": "BONJWA",
+       "IFSC Code ": "JAKA0BONJWA"
+   },
+   {
+       "S.No.": "632",
+       "Sol Id": "0491",
+       "Branch Name": "MAITRA ",
+       "Alpha Code ": "ERAMBN",
+       "IFSC Code ": "JAKA0ERAMBN"
+   },
+   {
+       "S.No.": "633",
+       "Sol Id": "0708",
+       "Branch Name": "HARD PANZOO",
+       "Alpha Code ": "PANZOO",
+       "IFSC Code ": "JAKA0PANZOO"
+   },
+   {
+       "S.No.": "634",
+       "Sol Id": "0684",
+       "Branch Name": "KALIBARI",
+       "Alpha Code ": "KALBAR",
+       "IFSC Code ": "JAKA0KALBAR"
+   },
+   {
+       "S.No.": "635",
+       "Sol Id": "0701",
+       "Branch Name": "ARWANI ( Anantnag)",
+       "Alpha Code ": "ARWANI",
+       "IFSC Code ": "JAKA0ARWANI"
+   },
+   {
+       "S.No.": "636",
+       "Sol Id": "0699",
+       "Branch Name": "KANELWAN",
+       "Alpha Code ": "KANWAN",
+       "IFSC Code ": "JAKA0KANWAN"
+   },
+   {
+       "S.No.": "637",
+       "Sol Id": "0712",
+       "Branch Name": "B. C. ROAD",
+       "Alpha Code ": "BCROAD",
+       "IFSC Code ": "JAKA0BCROAD"
+   },
+   {
+       "S.No.": "638",
+       "Sol Id": "0702",
+       "Branch Name": "NAGABAL",
+       "Alpha Code ": "NAGSHO",
+       "IFSC Code ": "JAKA0NAGSHO"
+   },
+   {
+       "S.No.": "639",
+       "Sol Id": "0700",
+       "Branch Name": "SIRHAMA",
+       "Alpha Code ": "SIRHAM",
+       "IFSC Code ": "JAKA0SIRHAM"
+   },
+   {
+       "S.No.": "640",
+       "Sol Id": "0455",
+       "Branch Name": "LOWER MUNDA",
+       "Alpha Code ": "EMUNDA",
+       "IFSC Code ": "JAKA0EMUNDA"
+   },
+   {
+       "S.No.": "641",
+       "Sol Id": "0668",
+       "Branch Name": "CHITRAKOTE",
+       "Alpha Code ": "CHITER",
+       "IFSC Code ": "JAKA0CHITER"
+   },
+   {
+       "S.No.": "642",
+       "Sol Id": "0457",
+       "Branch Name": "SSM ENGG. COLLEGE PATTAN ",
+       "Alpha Code ": "ESINGH",
+       "IFSC Code ": "JAKA0ESINGH"
+   },
+   {
+       "S.No.": "643",
+       "Sol Id": "0566",
+       "Branch Name": "CHINKIPORA SOPORE ",
+       "Alpha Code ": "ECSOPR",
+       "IFSC Code ": "JAKA0ECSOPR"
+   },
+   {
+       "S.No.": "644",
+       "Sol Id": "1225",
+       "Branch Name": "DC  OFFICE COMPEX KUPWARA",
+       "Alpha Code ": "EDOCOM",
+       "IFSC Code ": "JAKA0EDOCOM"
+   },
+   {
+       "S.No.": "645",
+       "Sol Id": "1235",
+       "Branch Name": "SKUAST  CHATTA",
+       "Alpha Code ": "EAURSP",
+       "IFSC Code ": "JAKA0EAURSP"
+   },
+   {
+       "S.No.": "646",
+       "Sol Id": "1251",
+       "Branch Name": "LAGAMA URI",
+       "Alpha Code ": "ELAGAM",
+       "IFSC Code ": "JAKA0ELAGAM"
+   },
+   {
+       "S.No.": "647",
+       "Sol Id": "1255",
+       "Branch Name": "ZEWAN ",
+       "Alpha Code ": "ECZEWN",
+       "IFSC Code ": "JAKA0ECZEWN"
+   },
+   {
+       "S.No.": "648",
+       "Sol Id": "1257",
+       "Branch Name": "GULMARG",
+       "Alpha Code ": "EGMARG",
+       "IFSC Code ": "JAKA0EGMARG"
+   },
+   {
+       "S.No.": "649",
+       "Sol Id": "1258",
+       "Branch Name": "PCR BATAMALOO",
+       "Alpha Code ": "ECROOM",
+       "IFSC Code ": "JAKA0ECROOM"
+   },
+   {
+       "S.No.": "650",
+       "Sol Id": "1259",
+       "Branch Name": "NOORPORA (TRAL)",
+       "Alpha Code ": "ENPORA",
+       "IFSC Code ": "JAKA0ENPORA"
+   },
+   {
+       "S.No.": "651",
+       "Sol Id": "0714",
+       "Branch Name": "NOWPORA",
+       "Alpha Code ": "NOWBUD",
+       "IFSC Code ": "JAKA0NOWBUD"
+   },
+   {
+       "S.No.": "652",
+       "Sol Id": "0715",
+       "Branch Name": "HAFROO BATPORA",
+       "Alpha Code ": "HAFROO",
+       "IFSC Code ": "JAKA0HAFROO"
+   },
+   {
+       "S.No.": "653",
+       "Sol Id": "1219",
+       "Branch Name": "TP BAROO ",
+       "Alpha Code ": "EBAROO",
+       "IFSC Code ": "JAKA0EBAROO"
+   },
+   {
+       "S.No.": "654",
+       "Sol Id": "0716",
+       "Branch Name": "FRIENDS COLONY PALOURA",
+       "Alpha Code ": "FCPALO",
+       "IFSC Code ": "JAKA0FCPALO"
+   },
+   {
+       "S.No.": "655",
+       "Sol Id": "0721",
+       "Branch Name": "DADA OMPORA",
+       "Alpha Code ": "DADAOM",
+       "IFSC Code ": "JAKA0DADAOM"
+   },
+   {
+       "S.No.": "656",
+       "Sol Id": "1223",
+       "Branch Name": "NHPC KISHTWAR",
+       "Alpha Code ": "ESEMNA",
+       "IFSC Code ": "JAKA0ESEMNA"
+   },
+   {
+       "S.No.": "657",
+       "Sol Id": "0722",
+       "Branch Name": "SURASYAR",
+       "Alpha Code ": "SURAAS",
+       "IFSC Code ": "JAKA0SURAAS"
+   },
+   {
+       "S.No.": "658",
+       "Sol Id": "0660",
+       "Branch Name": "KHAWAS",
+       "Alpha Code ": "KHAWAS",
+       "IFSC Code ": "JAKA0KHAWAS"
+   },
+   {
+       "S.No.": "659",
+       "Sol Id": "0720",
+       "Branch Name": "GURGOAN SECTOR 44",
+       "Alpha Code ": "GURSEC",
+       "IFSC Code ": "JAKA0GURSEC"
+   },
+   {
+       "S.No.": "660",
+       "Sol Id": "0724",
+       "Branch Name": "MALLABAGH",
+       "Alpha Code ": "MALBAG",
+       "IFSC Code ": "JAKA0MALBAG"
+   },
+   {
+       "S.No.": "661",
+       "Sol Id": "0723",
+       "Branch Name": "PANZAN",
+       "Alpha Code ": "PANZAN",
+       "IFSC Code ": "JAKA0PANZAN"
+   },
+   {
+       "S.No.": "662",
+       "Sol Id": "0717",
+       "Branch Name": "PANZATH",
+       "Alpha Code ": "PANZAT",
+       "IFSC Code ": "JAKA0PANZAT"
+   },
+   {
+       "S.No.": "663",
+       "Sol Id": "0719",
+       "Branch Name": "KEYGAM",
+       "Alpha Code ": "KEYGAM",
+       "IFSC Code ": "JAKA0KEYGAM"
+   },
+   {
+       "S.No.": "664",
+       "Sol Id": "0628",
+       "Branch Name": "MIRGUND",
+       "Alpha Code ": "MIRGUD",
+       "IFSC Code ": "JAKA0MIRGUD"
+   },
+   {
+       "S.No.": "665",
+       "Sol Id": "0725",
+       "Branch Name": "DANSAL",
+       "Alpha Code ": "DANSAL",
+       "IFSC Code ": "JAKA0DANSAL"
+   },
+   {
+       "S.No.": "666",
+       "Sol Id": "0731",
+       "Branch Name": "LORAN",
+       "Alpha Code ": "LORAAN",
+       "IFSC Code ": "JAKA0LORAAN"
+   },
+   {
+       "S.No.": "667",
+       "Sol Id": "0624",
+       "Branch Name": "YOUNUS WAHIPORA",
+       "Alpha Code ": "YOUNUS",
+       "IFSC Code ": "JAKA0YOUNUS"
+   },
+   {
+       "S.No.": "668",
+       "Sol Id": "0734",
+       "Branch Name": "BATALIK",
+       "Alpha Code ": "BATLIK",
+       "IFSC Code ": "JAKA0BATLIK"
+   },
+   {
+       "S.No.": "669",
+       "Sol Id": "0718",
+       "Branch Name": "KOIL",
+       "Alpha Code ": "KOLPUL",
+       "IFSC Code ": "JAKA0KOLPUL"
+   },
+   {
+       "S.No.": "670",
+       "Sol Id": "0732",
+       "Branch Name": "CHANDAK",
+       "Alpha Code ": "CHANDK",
+       "IFSC Code ": "JAKA0CHANDK"
+   },
+   {
+       "S.No.": "671",
+       "Sol Id": "0733",
+       "Branch Name": "WALTENGO",
+       "Alpha Code ": "BAGDAD",
+       "IFSC Code ": "JAKA0BAGDAD"
+   },
+   {
+       "S.No.": "672",
+       "Sol Id": "0638",
+       "Branch Name": "USHKARA",
+       "Alpha Code ": "USHKAR",
+       "IFSC Code ": "JAKA0USHKAR"
+   },
+   {
+       "S.No.": "673",
+       "Sol Id": "0738",
+       "Branch Name": " CHATTERGUL",
+       "Alpha Code ": "CHATGB",
+       "IFSC Code ": "JAKA0CHATGB"
+   },
+   {
+       "S.No.": "674",
+       "Sol Id": "0735",
+       "Branch Name": "LOLIPUR",
+       "Alpha Code ": "LULPUR",
+       "IFSC Code ": "JAKA0LULPUR"
+   },
+   {
+       "S.No.": "675",
+       "Sol Id": "0736",
+       "Branch Name": "MUJIGUND",
+       "Alpha Code ": "MUJGUN",
+       "IFSC Code ": "JAKA0MUJGUN"
+   },
+   {
+       "S.No.": "676",
+       "Sol Id": "0739",
+       "Branch Name": "WANGAT",
+       "Alpha Code ": "WANGAT",
+       "IFSC Code ": "JAKA0WANGAT"
+   },
+   {
+       "S.No.": "677",
+       "Sol Id": "0666",
+       "Branch Name": "KHUMRIYAL",
+       "Alpha Code ": "KHUMRI",
+       "IFSC Code ": "JAKA0KHUMRI"
+   },
+   {
+       "S.No.": "678",
+       "Sol Id": "0737",
+       "Branch Name": "GUND HASSI BHAT",
+       "Alpha Code ": "HASBAT",
+       "IFSC Code ": "JAKA0HASBAT"
+   },
+   {
+       "S.No.": "679",
+       "Sol Id": "0740",
+       "Branch Name": "RATNIPORA SHOPIAN",
+       "Alpha Code ": "RATSHP",
+       "IFSC Code ": "JAKA0RATSHP"
+   },
+   {
+       "S.No.": "680",
+       "Sol Id": "0741",
+       "Branch Name": "FRUIT MANDI KULGAM",
+       "Alpha Code ": "FMKLGM",
+       "IFSC Code ": "JAKA0FMKLGM"
+   },
+   {
+       "S.No.": "681",
+       "Sol Id": "0621",
+       "Branch Name": "NEHALPORA",
+       "Alpha Code ": "NEHAAL",
+       "IFSC Code ": "JAKA0NEHAAL"
+   },
+   {
+       "S.No.": "682",
+       "Sol Id": "0746",
+       "Branch Name": "Frazer Town",
+       "Alpha Code ": "FRAZER",
+       "IFSC Code ": "JAKA0FRAZER"
+   },
+   {
+       "S.No.": "683",
+       "Sol Id": "0743",
+       "Branch Name": "Zakir Nagar",
+       "Alpha Code ": "ZAAKIR",
+       "IFSC Code ": "JAKA0ZAAKIR"
+   },
+   {
+       "S.No.": "684",
+       "Sol Id": "0742",
+       "Branch Name": "Janak Puri",
+       "Alpha Code ": "JANNAK",
+       "IFSC Code ": "JAKA0JANNAK"
+   },
+   {
+       "S.No.": "685",
+       "Sol Id": "0745",
+       "Branch Name": "Poshkar",
+       "Alpha Code ": "POSHKR",
+       "IFSC Code ": "JAKA0POSHKR"
+   },
+   {
+       "S.No.": "686",
+       "Sol Id": "0750",
+       "Branch Name": "Kaskoot",
+       "Alpha Code ": "KASKOT",
+       "IFSC Code ": "JAKA0KASKOT"
+   },
+   {
+       "S.No.": "687",
+       "Sol Id": "0749",
+       "Branch Name": "Nagri",
+       "Alpha Code ": "NAGREE",
+       "IFSC Code ": "JAKA0NAGREE"
+   },
+   {
+       "S.No.": "688",
+       "Sol Id": "0751",
+       "Branch Name": "General Bus Stand Batamaloo",
+       "Alpha Code ": "GENBUS",
+       "IFSC Code ": "JAKA0GENBUS"
+   },
+   {
+       "S.No.": "689",
+       "Sol Id": "0770",
+       "Branch Name": "Faslabad",
+       "Alpha Code ": "FASBAD",
+       "IFSC Code ": "JAKA0FASBAD"
+   },
+   {
+       "S.No.": "690",
+       "Sol Id": "0769",
+       "Branch Name": "Peeri",
+       "Alpha Code ": "PEERII",
+       "IFSC Code ": "JAKA0PEERII"
+   },
+   {
+       "S.No.": "691",
+       "Sol Id": "0755",
+       "Branch Name": "Chatergam",
+       "Alpha Code ": "CHATER",
+       "IFSC Code ": "JAKA0CHATER"
+   },
+   {
+       "S.No.": "692",
+       "Sol Id": "0756",
+       "Branch Name": "Chawalgam",
+       "Alpha Code ": "CHAWAL",
+       "IFSC Code ": "JAKA0CHAWAL"
+   },
+   {
+       "S.No.": "693",
+       "Sol Id": "0758",
+       "Branch Name": "Ahlan Gadole",
+       "Alpha Code ": "AGADOL",
+       "IFSC Code ": "JAKA0AGADOL"
+   },
+   {
+       "S.No.": "694",
+       "Sol Id": "0759",
+       "Branch Name": "Wandevelgam",
+       "Alpha Code ": "WANDAL",
+       "IFSC Code ": "JAKA0WANDAL"
+   },
+   {
+       "S.No.": "695",
+       "Sol Id": "0760",
+       "Branch Name": "Fruit Mandi Prichoo",
+       "Alpha Code ": "PIRCHO",
+       "IFSC Code ": "JAKA0PIRCHO"
+   },
+   {
+       "S.No.": "696",
+       "Sol Id": "0762",
+       "Branch Name": "Trenz",
+       "Alpha Code ": "TRENZZ",
+       "IFSC Code ": "JAKA0TRENZZ"
+   },
+   {
+       "S.No.": "697",
+       "Sol Id": "0761",
+       "Branch Name": "Soimoh Tral",
+       "Alpha Code ": "SIMTRA",
+       "IFSC Code ": "JAKA0SIMTRA"
+   },
+   {
+       "S.No.": "698",
+       "Sol Id": "0757",
+       "Branch Name": "Katrasoo",
+       "Alpha Code ": "KATSOO",
+       "IFSC Code ": "JAKA0KATSOO"
+   },
+   {
+       "S.No.": "699",
+       "Sol Id": "0771",
+       "Branch Name": "Frisal",
+       "Alpha Code ": "FRISAL",
+       "IFSC Code ": "JAKA0FRISAL"
+   },
+   {
+       "S.No.": "700",
+       "Sol Id": "0766",
+       "Branch Name": "Seri Doda",
+       "Alpha Code ": "SEDODA",
+       "IFSC Code ": "JAKA0SEDODA"
+   },
+   {
+       "S.No.": "701",
+       "Sol Id": "0765",
+       "Branch Name": "Palmar",
+       "Alpha Code ": "PALMAR",
+       "IFSC Code ": "JAKA0PALMAR"
+   },
+   {
+       "S.No.": "702",
+       "Sol Id": "0773",
+       "Branch Name": "SNM Hospital Leh",
+       "Alpha Code ": "SNMLEH",
+       "IFSC Code ": "JAKA0SNMLEH"
+   },
+   {
+       "S.No.": "703",
+       "Sol Id": "0792",
+       "Branch Name": "Gurha Singhu",
+       "Alpha Code ": "GURAHH",
+       "IFSC Code ": "JAKA0GURAHH"
+   },
+   {
+       "S.No.": "704",
+       "Sol Id": "0786",
+       "Branch Name": "Baletar(Sumb)",
+       "Alpha Code ": "BALETA",
+       "IFSC Code ": "JAKA0BALETA"
+   },
+   {
+       "S.No.": "705",
+       "Sol Id": "0768",
+       "Branch Name": "Ghordi",
+       "Alpha Code ": "GHORDI",
+       "IFSC Code ": "JAKA0GHORDI"
+   },
+   {
+       "S.No.": "706",
+       "Sol Id": "0795",
+       "Branch Name": "Khour Salarian",
+       "Alpha Code ": "KHOURR",
+       "IFSC Code ": "JAKA0KHOURR"
+   },
+   {
+       "S.No.": "707",
+       "Sol Id": "0787",
+       "Branch Name": "Muthi Goan",
+       "Alpha Code ": "MUTHII",
+       "IFSC Code ": "JAKA0MUTHII"
+   },
+   {
+       "S.No.": "708",
+       "Sol Id": "0797",
+       "Branch Name": "Pathwal",
+       "Alpha Code ": "PATHWA",
+       "IFSC Code ": "JAKA0PATHWA"
+   },
+   {
+       "S.No.": "709",
+       "Sol Id": "0789",
+       "Branch Name": "Gurha Kalyal",
+       "Alpha Code ": "GURKAL",
+       "IFSC Code ": "JAKA0GURKAL"
+   },
+   {
+       "S.No.": "710",
+       "Sol Id": "0555",
+       "Branch Name": "Kathua City",
+       "Alpha Code ": "PCKATU",
+       "IFSC Code ": "JAKA0PCKATU"
+   },
+   {
+       "S.No.": "711",
+       "Sol Id": "0562",
+       "Branch Name": "Gole Market Udhampur",
+       "Alpha Code ": "MGRANT",
+       "IFSC Code ": "JAKA0MGRANT"
+   },
+   {
+       "S.No.": "712",
+       "Sol Id": "0449",
+       "Branch Name": "TP Doda",
+       "Alpha Code ": "EXDODA",
+       "IFSC Code ": "JAKA0EXDODA"
+   },
+   {
+       "S.No.": "713",
+       "Sol Id": "0570",
+       "Branch Name": "TP Kishtwar",
+       "Alpha Code ": "PCKSTW",
+       "IFSC Code ": "JAKA0PCKSTW"
+   },
+   {
+       "S.No.": "714",
+       "Sol Id": "0585",
+       "Branch Name": "Poonch City",
+       "Alpha Code ": "EPONCH",
+       "IFSC Code ": "JAKA0EPONCH"
+   },
+   {
+       "S.No.": "715",
+       "Sol Id": "0641",
+       "Branch Name": "Niharika",
+       "Alpha Code ": "PKATRA",
+       "IFSC Code ": "JAKA0PKATRA"
+   },
+   {
+       "S.No.": "716",
+       "Sol Id": "0604",
+       "Branch Name": "Arli Katra",
+       "Alpha Code ": "CKATRA",
+       "IFSC Code ": "JAKA0CKATRA"
+   },
+   {
+       "S.No.": "717",
+       "Sol Id": "0790",
+       "Branch Name": "Makhanpur",
+       "Alpha Code ": "MAKHAN",
+       "IFSC Code ": "JAKA0MAKHAN"
+   },
+   {
+       "S.No.": "718",
+       "Sol Id": "0788",
+       "Branch Name": "Gurha salathia",
+       "Alpha Code ": "GURSLA",
+       "IFSC Code ": "JAKA0GURSLA"
+   },
+   {
+       "S.No.": "719",
+       "Sol Id": "0775",
+       "Branch Name": "Hospital Road Chadoora",
+       "Alpha Code ": "CHADOO",
+       "IFSC Code ": "JAKA0CHADOO"
+   },
+   {
+       "S.No.": "720",
+       "Sol Id": "0779",
+       "Branch Name": "Malroo",
+       "Alpha Code ": "MALROO",
+       "IFSC Code ": "JAKA0MALROO"
+   },
+   {
+       "S.No.": "721",
+       "Sol Id": "0784",
+       "Branch Name": "Temisgam",
+       "Alpha Code ": "TEMGAM",
+       "IFSC Code ": "JAKA0TEMGAM"
+   },
+   {
+       "S.No.": "722",
+       "Sol Id": "0802",
+       "Branch Name": "Bus Stand Rajouri",
+       "Alpha Code ": "BUSRAJ",
+       "IFSC Code ": "JAKA0BUSRAJ"
+   },
+   {
+       "S.No.": "723",
+       "Sol Id": "0804",
+       "Branch Name": "Kheora",
+       "Alpha Code ": "KHEORA",
+       "IFSC Code ": "JAKA0KHEORA"
+   },
+   {
+       "S.No.": "724",
+       "Sol Id": "0772",
+       "Branch Name": "Hakura Badasgam",
+       "Alpha Code ": "HAKURA",
+       "IFSC Code ": "JAKA0HAKURA"
+   },
+   {
+       "S.No.": "725",
+       "Sol Id": "0793",
+       "Branch Name": "Parladhpur",
+       "Alpha Code ": "PARLDP",
+       "IFSC Code ": "JAKA0PARLDP"
+   },
+   {
+       "S.No.": "726",
+       "Sol Id": "0774",
+       "Branch Name": "Kanidajan",
+       "Alpha Code ": "KANIDA",
+       "IFSC Code ": "JAKA0KANIDA"
+   },
+   {
+       "S.No.": "727",
+       "Sol Id": "0806",
+       "Branch Name": "Kenihama",
+       "Alpha Code ": "KENHAM",
+       "IFSC Code ": "JAKA0KENHAM"
+   },
+   {
+       "S.No.": "728",
+       "Sol Id": "0805",
+       "Branch Name": "Malpora",
+       "Alpha Code ": "MALPOR",
+       "IFSC Code ": "JAKA0MALPOR"
+   },
+   {
+       "S.No.": "729",
+       "Sol Id": "0754",
+       "Branch Name": "Wathoora",
+       "Alpha Code ": "WATHAR",
+       "IFSC Code ": "JAKA0WATHAR"
+   },
+   {
+       "S.No.": "730",
+       "Sol Id": "0776",
+       "Branch Name": "Ratsun",
+       "Alpha Code ": "RATSUN",
+       "IFSC Code ": "JAKA0RATSUN"
+   },
+   {
+       "S.No.": "731",
+       "Sol Id": "0778",
+       "Branch Name": "Kanihama Narbal",
+       "Alpha Code ": "KANIHA",
+       "IFSC Code ": "JAKA0KANIHA"
+   },
+   {
+       "S.No.": "732",
+       "Sol Id": "0791",
+       "Branch Name": "Sajwal",
+       "Alpha Code ": "SAJWAL",
+       "IFSC Code ": "JAKA0SAJWAL"
+   },
+   {
+       "S.No.": "733",
+       "Sol Id": "0767",
+       "Branch Name": "Moungri",
+       "Alpha Code ": "MONGER",
+       "IFSC Code ": "JAKA0MONGER"
+   },
+   {
+       "S.No.": "734",
+       "Sol Id": "0801",
+       "Branch Name": "SAJ Rajouri",
+       "Alpha Code ": "SAJRAJ",
+       "IFSC Code ": "JAKA0SAJRAJ"
+   },
+   {
+       "S.No.": "735",
+       "Sol Id": "0782",
+       "Branch Name": "Teelwani",
+       "Alpha Code ": "TEELWA",
+       "IFSC Code ": "JAKA0TEELWA"
+   },
+   {
+       "S.No.": "736",
+       "Sol Id": "0781",
+       "Branch Name": "Arakhoshipora",
+       "Alpha Code ": "ARAKHO",
+       "IFSC Code ": "JAKA0ARAKHO"
+   },
+   {
+       "S.No.": "737",
+       "Sol Id": "0726",
+       "Branch Name": "Salamabad Uri",
+       "Alpha Code ": "SALAMA",
+       "IFSC Code ": "JAKA0SALAMA"
+   },
+   {
+       "S.No.": "738",
+       "Sol Id": "0748",
+       "Branch Name": "Regipora",
+       "Alpha Code ": "REGPUR",
+       "IFSC Code ": "JAKA0REGPUR"
+   },
+   {
+       "S.No.": "739",
+       "Sol Id": "0728",
+       "Branch Name": "Main Market Sumbal",
+       "Alpha Code ": "MMSUMB",
+       "IFSC Code ": "JAKA0MMSUMB"
+   },
+   {
+       "S.No.": "740",
+       "Sol Id": "0807",
+       "Branch Name": "Siligam",
+       "Alpha Code ": "SILIGM",
+       "IFSC Code ": "JAKA0SILIGM"
+   },
+   {
+       "S.No.": "741",
+       "Sol Id": "0783",
+       "Branch Name": "Wachi",
+       "Alpha Code ": "WACHII",
+       "IFSC Code ": "JAKA0WACHII"
+   },
+   {
+       "S.No.": "742",
+       "Sol Id": "0729",
+       "Branch Name": "Gamud Gadakhud",
+       "Alpha Code ": "GAMUDD",
+       "IFSC Code ": "JAKA0GAMUDD"
+   },
+   {
+       "S.No.": "743",
+       "Sol Id": "0799",
+       "Branch Name": "SMM Ramnagar",
+       "Alpha Code ": "RAMNAM",
+       "IFSC Code ": "JAKA0RAMNAM"
+   },
+   {
+       "S.No.": "744",
+       "Sol Id": "0798",
+       "Branch Name": "Keerian",
+       "Alpha Code ": "KEERAN",
+       "IFSC Code ": "JAKA0KEERAN"
+   },
+   {
+       "S.No.": "745",
+       "Sol Id": "0730",
+       "Branch Name": "Nowpora Kalan",
+       "Alpha Code ": "NWKLAN",
+       "IFSC Code ": "JAKA0NWKLAN"
+   },
+   {
+       "S.No.": "746",
+       "Sol Id": "0800",
+       "Branch Name": "Jaganoo More",
+       "Alpha Code ": "JAGMOR",
+       "IFSC Code ": "JAKA0JAGMOR"
+   },
+   {
+       "S.No.": "747",
+       "Sol Id": "0785",
+       "Branch Name": "Turtuk",
+       "Alpha Code ": "TURTUK",
+       "IFSC Code ": "JAKA0TURTUK"
+   },
+   {
+       "S.No.": "748",
+       "Sol Id": "0810",
+       "Branch Name": "Hygam Sopore",
+       "Alpha Code ": "HYGAAM",
+       "IFSC Code ": "JAKA0HYGAAM"
+   },
+   {
+       "S.No.": "749",
+       "Sol Id": "0803",
+       "Branch Name": "Marhote",
+       "Alpha Code ": "MARHOT",
+       "IFSC Code ": "JAKA0MARHOT"
+   },
+   {
+       "S.No.": "750",
+       "Sol Id": "0794",
+       "Branch Name": "Vijaypur Kothey",
+       "Alpha Code ": "VIJAYP",
+       "IFSC Code ": "JAKA0VIJAYP"
+   },
+   {
+       "S.No.": "751",
+       "Sol Id": "0796",
+       "Branch Name": "Janu",
+       "Alpha Code ": "JANKAT",
+       "IFSC Code ": "JAKA0JANKAT"
+   },
+   {
+       "S.No.": "752",
+       "Sol Id": "0744",
+       "Branch Name": "Malviya Nagar",
+       "Alpha Code ": "MALVIA",
+       "IFSC Code ": "JAKA0MALVIA"
+   },
+   {
+       "S.No.": "753",
+       "Sol Id": "0808",
+       "Branch Name": "Chowgam",
+       "Alpha Code ": "CHAGAM",
+       "IFSC Code ": "JAKA0CHAGAM"
+   },
+   {
+       "S.No.": "754",
+       "Sol Id": "1218",
+       "Branch Name": "Prithviraj Road (Upgraded EC)",
+       "Alpha Code ": "PRROAD",
+       "IFSC Code ": "JAKA0PRROAD"
+   },
+   {
+       "S.No.": "755",
+       "Sol Id": "0832",
+       "Branch Name": "Dorsuma Manigam",
+       "Alpha Code ": "DORSUM",
+       "IFSC Code ": "JAKA0DORSUM"
+   },
+   {
+       "S.No.": "756",
+       "Sol Id": "0834",
+       "Branch Name": "Batwina Ganderbal",
+       "Alpha Code ": "BATWIN",
+       "IFSC Code ": "JAKA0BATWIN"
+   },
+   {
+       "S.No.": "757",
+       "Sol Id": "0833",
+       "Branch Name": "Gajansoo",
+       "Alpha Code ": "GAJANI",
+       "IFSC Code ": "JAKA0GAJANI"
+   },
+   {
+       "S.No.": "758",
+       "Sol Id": "0836",
+       "Branch Name": "Rawalpora Khansahib",
+       "Alpha Code ": "RAWKHA",
+       "IFSC Code ": "JAKA0RAWKHA"
+   },
+   {
+       "S.No.": "759",
+       "Sol Id": "0812",
+       "Branch Name": "Ladoora Rafiabad",
+       "Alpha Code ": "LADORA",
+       "IFSC Code ": "JAKA0LADORA"
+   },
+   {
+       "S.No.": "760",
+       "Sol Id": "0815",
+       "Branch Name": "Nillow",
+       "Alpha Code ": "NILLOW",
+       "IFSC Code ": "JAKA0NILLOW"
+   },
+   {
+       "S.No.": "761",
+       "Sol Id": "0817",
+       "Branch Name": "Kumdalan Shopian",
+       "Alpha Code ": "KUMDAL",
+       "IFSC Code ": "JAKA0KUMDAL"
+   },
+   {
+       "S.No.": "762",
+       "Sol Id": "0839",
+       "Branch Name": "Rani Talab",
+       "Alpha Code ": "RANITA",
+       "IFSC Code ": "JAKA0RANITA"
+   },
+   {
+       "S.No.": "763",
+       "Sol Id": "0820",
+       "Branch Name": "Kalantra Payeen",
+       "Alpha Code ": "KALANT",
+       "IFSC Code ": "JAKA0KALANT"
+   },
+   {
+       "S.No.": "764",
+       "Sol Id": "0844",
+       "Branch Name": "Agharjitto",
+       "Alpha Code ": "AGHARJ",
+       "IFSC Code ": "JAKA0AGHARJ"
+   },
+   {
+       "S.No.": "765",
+       "Sol Id": "0845",
+       "Branch Name": "DC Office Reasi",
+       "Alpha Code ": "DCREAS",
+       "IFSC Code ": "JAKA0DCREAS"
+   },
+   {
+       "S.No.": "766",
+       "Sol Id": "0819",
+       "Branch Name": "Tarathpora",
+       "Alpha Code ": "TARATH",
+       "IFSC Code ": "JAKA0TARATH"
+   },
+   {
+       "S.No.": "767",
+       "Sol Id": "0821",
+       "Branch Name": "Devar",
+       "Alpha Code ": "DEVAAR",
+       "IFSC Code ": "JAKA0DEVAAR"
+   },
+   {
+       "S.No.": "768",
+       "Sol Id": "0822",
+       "Branch Name": "Halmatpora",
+       "Alpha Code ": "HALMAT",
+       "IFSC Code ": "JAKA0HALMAT"
+   },
+   {
+       "S.No.": "769",
+       "Sol Id": "0814",
+       "Branch Name": "Janglat Mandi Anantnag",
+       "Alpha Code ": "JANGLA",
+       "IFSC Code ": "JAKA0JANGLA"
+   },
+   {
+       "S.No.": "770",
+       "Sol Id": "0823",
+       "Branch Name": "Sonium ",
+       "Alpha Code ": "SONIUM",
+       "IFSC Code ": "JAKA0SONIUM"
+   },
+   {
+       "S.No.": "771",
+       "Sol Id": "0824",
+       "Branch Name": "Ahamsharief",
+       "Alpha Code ": "AHMSHA",
+       "IFSC Code ": "JAKA0AHMSHA"
+   },
+   {
+       "S.No.": "772",
+       "Sol Id": "0727",
+       "Branch Name": "Nishat Park Bandipora",
+       "Alpha Code ": "NIPARK",
+       "IFSC Code ": "JAKA0NIPARK"
+   },
+   {
+       "S.No.": "773",
+       "Sol Id": "0816",
+       "Branch Name": "Chitragam",
+       "Alpha Code ": "CHITRA",
+       "IFSC Code ": "JAKA0CHITRA"
+   },
+   {
+       "S.No.": "774",
+       "Sol Id": "0843",
+       "Branch Name": "Phaliana ",
+       "Alpha Code ": "PHALIA",
+       "IFSC Code ": "JAKA0PHALIA"
+   },
+   {
+       "S.No.": "775",
+       "Sol Id": "0840",
+       "Branch Name": "Khour",
+       "Alpha Code ": "KHOOUR",
+       "IFSC Code ": "JAKA0KHOOUR"
+   },
+   {
+       "S.No.": "776",
+       "Sol Id": "0752",
+       "Branch Name": "Saida Kadal",
+       "Alpha Code ": "SKADAL",
+       "IFSC Code ": "JAKA0SKADAL"
+   },
+   {
+       "S.No.": "777",
+       "Sol Id": "0850",
+       "Branch Name": "Lamberi",
+       "Alpha Code ": "LAMBER",
+       "IFSC Code ": "JAKA0LAMBER"
+   },
+   {
+       "S.No.": "778",
+       "Sol Id": "0849",
+       "Branch Name": "Keri Teryath          ",
+       "Alpha Code ": "KEERII",
+       "IFSC Code ": "JAKA0KEERII"
+   },
+   {
+       "S.No.": "779",
+       "Sol Id": "0835",
+       "Branch Name": "Sumerbugh",
+       "Alpha Code ": "SUMERB",
+       "IFSC Code ": "JAKA0SUMERB"
+   },
+   {
+       "S.No.": "780",
+       "Sol Id": "0841",
+       "Branch Name": "Balakote",
+       "Alpha Code ": "BALAKO",
+       "IFSC Code ": "JAKA0BALAKO"
+   },
+   {
+       "S.No.": "781",
+       "Sol Id": "0826",
+       "Branch Name": "Dudwar",
+       "Alpha Code ": "DUDWAR",
+       "IFSC Code ": "JAKA0DUDWAR"
+   },
+   {
+       "S.No.": "782",
+       "Sol Id": "0827",
+       "Branch Name": "Kud",
+       "Alpha Code ": "KUDJAM",
+       "IFSC Code ": "JAKA0KUDJAM"
+   },
+   {
+       "S.No.": "783",
+       "Sol Id": "0830",
+       "Branch Name": "Mand(w)",
+       "Alpha Code ": "MANDJA",
+       "IFSC Code ": "JAKA0MANDJA"
+   },
+   {
+       "S.No.": "784",
+       "Sol Id": "0831",
+       "Branch Name": "Dalsar",
+       "Alpha Code ": "DALSAR",
+       "IFSC Code ": "JAKA0DALSAR"
+   },
+   {
+       "S.No.": "785",
+       "Sol Id": "0825",
+       "Branch Name": "Bebrota",
+       "Alpha Code ": "BEBROT",
+       "IFSC Code ": "JAKA0BEBROT"
+   },
+   {
+       "S.No.": "786",
+       "Sol Id": "0828",
+       "Branch Name": "Chingam",
+       "Alpha Code ": "CHIGAM",
+       "IFSC Code ": "JAKA0CHIGAM"
+   },
+   {
+       "S.No.": "787",
+       "Sol Id": "0838",
+       "Branch Name": "Imoh",
+       "Alpha Code ": "IMMOHH",
+       "IFSC Code ": "JAKA0IMMOHH"
+   },
+   {
+       "S.No.": "788",
+       "Sol Id": "0846",
+       "Branch Name": "Dehwathu ",
+       "Alpha Code ": "DEHWAT",
+       "IFSC Code ": "JAKA0DEHWAT"
+   },
+   {
+       "S.No.": "789",
+       "Sol Id": "0847",
+       "Branch Name": "Achen",
+       "Alpha Code ": "ACHENN",
+       "IFSC Code ": "JAKA0ACHENN"
+   },
+   {
+       "S.No.": "790",
+       "Sol Id": "0842",
+       "Branch Name": "Sakhimaidan ",
+       "Alpha Code ": "SAKHII",
+       "IFSC Code ": "JAKA0SAKHII"
+   },
+   {
+       "S.No.": "791",
+       "Sol Id": "0852",
+       "Branch Name": "Balshama",
+       "Alpha Code ": "BALSHA",
+       "IFSC Code ": "JAKA0BALSHA"
+   },
+   {
+       "S.No.": "792",
+       "Sol Id": "0829",
+       "Branch Name": "Khari ",
+       "Alpha Code ": "KHAARI",
+       "IFSC Code ": "JAKA0KHAARI"
+   },
+   {
+       "S.No.": "793",
+       "Sol Id": "0853",
+       "Branch Name": "Shey",
+       "Alpha Code ": "SHELEH",
+       "IFSC Code ": "JAKA0SHELEH"
+   },
+   {
+       "S.No.": "794",
+       "Sol Id": "0763",
+       "Branch Name": "Batpora ",
+       "Alpha Code ": "BATPOR",
+       "IFSC Code ": "JAKA0BATPOR"
+   },
+   {
+       "S.No.": "795",
+       "Sol Id": "0854",
+       "Branch Name": "Shuhama, Alusteng",
+       "Alpha Code ": "SHUHAM",
+       "IFSC Code ": "JAKA0SHUHAM"
+   },
+   {
+       "S.No.": "796",
+       "Sol Id": "0856",
+       "Branch Name": "Roop Nagar",
+       "Alpha Code ": "ROOPNA",
+       "IFSC Code ": "JAKA0ROOPNA"
+   },
+   {
+       "S.No.": "797",
+       "Sol Id": "0855",
+       "Branch Name": "Parnewa",
+       "Alpha Code ": "PARNEW",
+       "IFSC Code ": "JAKA0PARNEW"
+   },
+   {
+       "S.No.": "798",
+       "Sol Id": "0857",
+       "Branch Name": "Sainik Colony Jammu",
+       "Alpha Code ": "SAINIK",
+       "IFSC Code ": "JAKA0SAINIK"
+   },
+   {
+       "S.No.": "799",
+       "Sol Id": "0858",
+       "Branch Name": "Ballahama",
+       "Alpha Code ": "BALLAH",
+       "IFSC Code ": "JAKA0BALLAH"
+   },
+   {
+       "S.No.": "800",
+       "Sol Id": "0859",
+       "Branch Name": "Marble Market ",
+       "Alpha Code ": "TRINAG",
+       "IFSC Code ": "JAKA0TRINAG"
+   },
+   {
+       "S.No.": "801",
+       "Sol Id": "0860",
+       "Branch Name": "Chowki Handan ",
+       "Alpha Code ": "CHOHAN",
+       "IFSC Code ": "JAKA0CHOHAN"
+   },
+   {
+       "S.No.": "802",
+       "Sol Id": "0861",
+       "Branch Name": "Dhangri ",
+       "Alpha Code ": "DANGRI",
+       "IFSC Code ": "JAKA0DANGRI"
+   },
+   {
+       "S.No.": "803",
+       "Sol Id": "0862",
+       "Branch Name": "Bhata Dhuria",
+       "Alpha Code ": "BHATAA",
+       "IFSC Code ": "JAKA0BHATAA"
+   },
+   {
+       "S.No.": "804",
+       "Sol Id": "0863",
+       "Branch Name": "Kallar ",
+       "Alpha Code ": "KALLAR",
+       "IFSC Code ": "JAKA0KALLAR"
+   },
+   {
+       "S.No.": "805",
+       "Sol Id": "0867",
+       "Branch Name": "Bhargi",
+       "Alpha Code ": "BHARGI",
+       "IFSC Code ": "JAKA0BHARGI"
+   },
+   {
+       "S.No.": "806",
+       "Sol Id": "0864",
+       "Branch Name": "Abhama ",
+       "Alpha Code ": "ABHAMA",
+       "IFSC Code ": "JAKA0ABHAMA"
+   },
+   {
+       "S.No.": "807",
+       "Sol Id": "0865",
+       "Branch Name": "Parigam",
+       "Alpha Code ": "PARGAM",
+       "IFSC Code ": "JAKA0PARGAM"
+   },
+   {
+       "S.No.": "808",
+       "Sol Id": "0870",
+       "Branch Name": "Pahroo",
+       "Alpha Code ": "PAHROO",
+       "IFSC Code ": "JAKA0PAHROO"
+   },
+   {
+       "S.No.": "809",
+       "Sol Id": "0869",
+       "Branch Name": "Kralpora",
+       "Alpha Code ": "KRALPR",
+       "IFSC Code ": "JAKA0KRALPR"
+   },
+   {
+       "S.No.": "810",
+       "Sol Id": "0866",
+       "Branch Name": "Kareemabad",
+       "Alpha Code ": "KARIMA",
+       "IFSC Code ": "JAKA0KARIMA"
+   },
+   {
+       "S.No.": "811",
+       "Sol Id": "0868",
+       "Branch Name": "Shadipora",
+       "Alpha Code ": "SHADPR",
+       "IFSC Code ": "JAKA0SHADPR"
+   },
+   {
+       "S.No.": "812",
+       "Sol Id": "0871",
+       "Branch Name": "Mantalai",
+       "Alpha Code ": "MANTAL",
+       "IFSC Code ": "JAKA0MANTAL"
+   },
+   {
+       "S.No.": "813",
+       "Sol Id": "0872",
+       "Branch Name": "Ghou Manhasan ",
+       "Alpha Code ": "GHOUMA",
+       "IFSC Code ": "JAKA0GHOUMA"
+   },
+   {
+       "S.No.": "814",
+       "Sol Id": "0873",
+       "Branch Name": "Sathra ",
+       "Alpha Code ": "SATHRA",
+       "IFSC Code ": "JAKA0SATHRA"
+   },
+   {
+       "S.No.": "815",
+       "Sol Id": "0875",
+       "Branch Name": "Yamuna Nagar ",
+       "Alpha Code ": "YAMUNA",
+       "IFSC Code ": "JAKA0YAMUNA"
+   },
+   {
+       "S.No.": "816",
+       "Sol Id": "0837",
+       "Branch Name": "Shankerpora ",
+       "Alpha Code ": "SHANKE",
+       "IFSC Code ": "JAKA0SHANKE"
+   },
+   {
+       "S.No.": "817",
+       "Sol Id": "0876",
+       "Branch Name": "Palli Morh",
+       "Alpha Code ": "PALMOR",
+       "IFSC Code ": "JAKA0PALMOR"
+   },
+   {
+       "S.No.": "818",
+       "Sol Id": "0878",
+       "Branch Name": "Raipur Satwari",
+       "Alpha Code ": "SATWAR",
+       "IFSC Code ": "JAKA0SATWAR"
+   },
+   {
+       "S.No.": "819",
+       "Sol Id": "0877",
+       "Branch Name": "Kuligam",
+       "Alpha Code ": "KULIGA",
+       "IFSC Code ": "JAKA0KULIGA"
+   },
+   {
+       "S.No.": "820",
+       "Sol Id": "0753",
+       "Branch Name": "Habbak Crossing ",
+       "Alpha Code ": "HABBAK",
+       "IFSC Code ": "JAKA0HABBAK"
+   },
+   {
+       "S.No.": "821",
+       "Sol Id": "0818",
+       "Branch Name": "Chersoo",
+       "Alpha Code ": "CHERSO",
+       "IFSC Code ": "JAKA0CHERSO"
+   },
+   {
+       "S.No.": "822",
+       "Sol Id": "0883",
+       "Branch Name": "Rehal Dhamalian",
+       "Alpha Code ": "REHAAL",
+       "IFSC Code ": "JAKA0REHAAL"
+   },
+   {
+       "S.No.": "823",
+       "Sol Id": "0764",
+       "Branch Name": "Court Road Shopian ",
+       "Alpha Code ": "CRSHOP",
+       "IFSC Code ": "JAKA0CRSHOP"
+   },
+   {
+       "S.No.": "824",
+       "Sol Id": "0884",
+       "Branch Name": "Jandrah",
+       "Alpha Code ": "JINDHR",
+       "IFSC Code ": "JAKA0JINDHR"
+   },
+   {
+       "S.No.": "825",
+       "Sol Id": "0885",
+       "Branch Name": "Khiram",
+       "Alpha Code ": "KHIRAM",
+       "IFSC Code ": "JAKA0KHIRAM"
+   },
+   {
+       "S.No.": "826",
+       "Sol Id": "0848",
+       "Branch Name": "Checki-Cholan ",
+       "Alpha Code ": "CHECKI",
+       "IFSC Code ": "JAKA0CHECKI"
+   },
+   {
+       "S.No.": "827",
+       "Sol Id": "0886",
+       "Branch Name": "Otligam ",
+       "Alpha Code ": "OTLIGA",
+       "IFSC Code ": "JAKA0OTLIGA"
+   },
+   {
+       "S.No.": "828",
+       "Sol Id": "0887",
+       "Branch Name": "Allah, Bishnah",
+       "Alpha Code ": "AALLAH",
+       "IFSC Code ": "JAKA0AALLAH"
+   },
+   {
+       "S.No.": "829",
+       "Sol Id": "0888",
+       "Branch Name": "Hoshiarpur ",
+       "Alpha Code ": "HOSPUR",
+       "IFSC Code ": "JAKA0HOSPUR"
+   },
+   {
+       "S.No.": "830",
+       "Sol Id": "0889",
+       "Branch Name": "Ahmad Nagar",
+       "Alpha Code ": "AHMADD",
+       "IFSC Code ": "JAKA0AHMADD"
+   },
+   {
+       "S.No.": "831",
+       "Sol Id": "0890",
+       "Branch Name": "Nardani Raipur ",
+       "Alpha Code ": "NARDAN",
+       "IFSC Code ": "JAKA0NARDAN"
+   },
+   {
+       "S.No.": "832",
+       "Sol Id": "0891",
+       "Branch Name": "Palma",
+       "Alpha Code ": "PALMAA",
+       "IFSC Code ": "JAKA0PALMAA"
+   },
+   {
+       "S.No.": "833",
+       "Sol Id": "0892",
+       "Branch Name": "Sangla Chowk",
+       "Alpha Code ": "SANGLA",
+       "IFSC Code ": "JAKA0SANGLA"
+   },
+   {
+       "S.No.": "834",
+       "Sol Id": "0894",
+       "Branch Name": "Nehama Pulwama",
+       "Alpha Code ": "NEHOME",
+       "IFSC Code ": "JAKA0NEHOME"
+   },
+   {
+       "S.No.": "835",
+       "Sol Id": "0895",
+       "Branch Name": "Power House Road, Ganderbal",
+       "Alpha Code ": "POWERG",
+       "IFSC Code ": "JAKA0POWERG"
+   },
+   {
+       "S.No.": "836",
+       "Sol Id": "0896",
+       "Branch Name": "Tandwal",
+       "Alpha Code ": "TANDWA",
+       "IFSC Code ": "JAKA0TANDWA"
+   },
+   {
+       "S.No.": "837",
+       "Sol Id": "0897",
+       "Branch Name": "Samote",
+       "Alpha Code ": "SAMOTE",
+       "IFSC Code ": "JAKA0SAMOTE"
+   },
+   {
+       "S.No.": "838",
+       "Sol Id": "0900",
+       "Branch Name": " Akchamal ",
+       "Alpha Code ": "ACHKAM ",
+       "IFSC Code ": "JAKA0ACHKAM "
+   },
+   {
+       "S.No.": "839",
+       "Sol Id": "0893",
+       "Branch Name": "Wuyan",
+       "Alpha Code ": "WUYANN",
+       "IFSC Code ": "JAKA0WUYANN"
+   },
+   {
+       "S.No.": "840",
+       "Sol Id": "0899",
+       "Branch Name": "Bona Bazar Qazigund",
+       "Alpha Code ": "BONABQ",
+       "IFSC Code ": "JAKA0BONABQ"
+   },
+   {
+       "S.No.": "841",
+       "Sol Id": "0898",
+       "Branch Name": "Harnag",
+       "Alpha Code ": "HARNAG",
+       "IFSC Code ": "JAKA0HARNAG"
+   },
+   {
+       "S.No.": "842",
+       "Sol Id": "0902",
+       "Branch Name": "Rahya",
+       "Alpha Code ": "RAHYAA",
+       "IFSC Code ": "JAKA0RAHYAA"
+   },
+   {
+       "S.No.": "843",
+       "Sol Id": "0904",
+       "Branch Name": "Mini Secretariat Bandipora",
+       "Alpha Code ": "SECBAN",
+       "IFSC Code ": "JAKA0SECBAN"
+   },
+   {
+       "S.No.": "844",
+       "Sol Id": "0907",
+       "Branch Name": "Pranoo",
+       "Alpha Code ": "PRANOO",
+       "IFSC Code ": "JAKA0PRANOO"
+   },
+   {
+       "S.No.": "845",
+       "Sol Id": "0908",
+       "Branch Name": "Chinta",
+       "Alpha Code ": "CHINTA",
+       "IFSC Code ": "JAKA0CHINTA"
+   },
+   {
+       "S.No.": "846",
+       "Sol Id": "0901",
+       "Branch Name": "Saderkote Bala",
+       "Alpha Code ": "SADERK",
+       "IFSC Code ": "JAKA0SADERK"
+   },
+   {
+       "S.No.": "847",
+       "Sol Id": "0909",
+       "Branch Name": "Mirgund Budgam",
+       "Alpha Code ": "MIRGNB",
+       "IFSC Code ": "JAKA0MIRGNB"
+   },
+   {
+       "S.No.": "848",
+       "Sol Id": "0903",
+       "Branch Name": "Aripal",
+       "Alpha Code ": "ARIPAL",
+       "IFSC Code ": "JAKA0ARIPAL"
+   },
+   {
+       "S.No.": "849",
+       "Sol Id": "0905",
+       "Branch Name": "PC Depot Srinagar",
+       "Alpha Code ": "PCDEPO",
+       "IFSC Code ": "JAKA0PCDEPO"
+   },
+   {
+       "S.No.": "850",
+       "Sol Id": "0906",
+       "Branch Name": "Palpora",
+       "Alpha Code ": "PALPOR",
+       "IFSC Code ": "JAKA0PALPOR"
+   },
+   {
+       "S.No.": "851",
+       "Sol Id": "0910",
+       "Branch Name": "Kanispora",
+       "Alpha Code ": "KANISP",
+       "IFSC Code ": "JAKA0KANISP"
+   },
+   {
+       "S.No.": "852",
+       "Sol Id": "0914",
+       "Branch Name": "Dab",
+       "Alpha Code ": "DABGNB",
+       "IFSC Code ": "JAKA0DABGNB"
+   },
+   {
+       "S.No.": "853",
+       "Sol Id": "0916",
+       "Branch Name": "Tarigam ",
+       "Alpha Code ": "TARIGA",
+       "IFSC Code ": "JAKA0TARIGA"
+   },
+   {
+       "S.No.": "854",
+       "Sol Id": "0913",
+       "Branch Name": "Haridwar ",
+       "Alpha Code ": "HARDWR",
+       "IFSC Code ": "JAKA0HARDWR"
+   },
+   {
+       "S.No.": "855",
+       "Sol Id": "0917",
+       "Branch Name": "Veeri",
+       "Alpha Code ": "VEERII",
+       "IFSC Code ": "JAKA0VEERII"
+   },
+   {
+       "S.No.": "856",
+       "Sol Id": "0919",
+       "Branch Name": "Chak Kana",
+       "Alpha Code ": "CHKANA",
+       "IFSC Code ": "JAKA0CHKANA"
+   },
+   {
+       "S.No.": "857",
+       "Sol Id": "1226",
+       "Branch Name": "Kootah Morh  ",
+       "Alpha Code ": "EKUTAM",
+       "IFSC Code ": "JAKA0EKUTAM"
+   },
+   {
+       "S.No.": "858",
+       "Sol Id": "0922",
+       "Branch Name": "Jatwal",
+       "Alpha Code ": "JATWAL",
+       "IFSC Code ": "JAKA0JATWAL"
+   },
+   {
+       "S.No.": "859",
+       "Sol Id": "0921",
+       "Branch Name": "Zirakpur",
+       "Alpha Code ": "ZEERAK",
+       "IFSC Code ": "JAKA0ZEERAK"
+   },
+   {
+       "S.No.": "860",
+       "Sol Id": "0923",
+       "Branch Name": "Killam",
+       "Alpha Code ": "KEELAM",
+       "IFSC Code ": "JAKA0KEELAM"
+   },
+   {
+       "S.No.": "861",
+       "Sol Id": "0952",
+       "Branch Name": "Gajoth",
+       "Alpha Code ": "GAJOTH",
+       "IFSC Code ": "JAKA0GAJOTH"
+   },
+   {
+       "S.No.": "862",
+       "Sol Id": "0953",
+       "Branch Name": "Gai Dessa",
+       "Alpha Code ": "GAIDES",
+       "IFSC Code ": "JAKA0GAIDES"
+   },
+   {
+       "S.No.": "863",
+       "Sol Id": "0943",
+       "Branch Name": "Durga Nagar",
+       "Alpha Code ": "DURGAN",
+       "IFSC Code ": "JAKA0DURGAN"
+   },
+   {
+       "S.No.": "864",
+       "Sol Id": "0944",
+       "Branch Name": "Chakroi",
+       "Alpha Code ": "CHAKRO",
+       "IFSC Code ": "JAKA0CHAKRO"
+   },
+   {
+       "S.No.": "865",
+       "Sol Id": "0945",
+       "Branch Name": "Chowki Chaura",
+       "Alpha Code ": "CHOWKI",
+       "IFSC Code ": "JAKA0CHOWKI"
+   },
+   {
+       "S.No.": "866",
+       "Sol Id": "0934",
+       "Branch Name": "Muradpur Rajouri",
+       "Alpha Code ": "MURDPR",
+       "IFSC Code ": "JAKA0MURDPR"
+   },
+   {
+       "S.No.": "867",
+       "Sol Id": "0935",
+       "Branch Name": "Bus Stand Poonch",
+       "Alpha Code ": "BPONCH",
+       "IFSC Code ": "JAKA0BPONCH"
+   },
+   {
+       "S.No.": "868",
+       "Sol Id": "0937",
+       "Branch Name": "Washbug, Pulwama",
+       "Alpha Code ": "WASHBG",
+       "IFSC Code ": "JAKA0WASHBG"
+   },
+   {
+       "S.No.": "869",
+       "Sol Id": "0938",
+       "Branch Name": "Main Market Awantipora",
+       "Alpha Code ": "MAINMK",
+       "IFSC Code ": "JAKA0MAINMK"
+   },
+   {
+       "S.No.": "870",
+       "Sol Id": "0939",
+       "Branch Name": "DK Pora Shopian",
+       "Alpha Code ": "DKPORA",
+       "IFSC Code ": "JAKA0DKPORA"
+   },
+   {
+       "S.No.": "871",
+       "Sol Id": "0940",
+       "Branch Name": "Panzgam Pulwama",
+       "Alpha Code ": "PANZGM",
+       "IFSC Code ": "JAKA0PANZGM"
+   },
+   {
+       "S.No.": "872",
+       "Sol Id": "0941",
+       "Branch Name": "Murran Pulwama",
+       "Alpha Code ": "MURNPL",
+       "IFSC Code ": "JAKA0MURNPL"
+   },
+   {
+       "S.No.": "873",
+       "Sol Id": "0942",
+       "Branch Name": "Migrant Colony Haal",
+       "Alpha Code ": "MIGRNT",
+       "IFSC Code ": "JAKA0MIGRNT"
+   },
+   {
+       "S.No.": "874",
+       "Sol Id": "0946",
+       "Branch Name": "Puskyum",
+       "Alpha Code ": "PUSKUM",
+       "IFSC Code ": "JAKA0PUSKUM"
+   },
+   {
+       "S.No.": "875",
+       "Sol Id": "0932",
+       "Branch Name": "Moti Market Leh",
+       "Alpha Code ": "MOTTII",
+       "IFSC Code ": "JAKA0MOTTII"
+   },
+   {
+       "S.No.": "876",
+       "Sol Id": "0924",
+       "Branch Name": "Dudu",
+       "Alpha Code ": "DUDDUU",
+       "IFSC Code ": "JAKA0DUDDUU"
+   },
+   {
+       "S.No.": "877",
+       "Sol Id": "0925",
+       "Branch Name": "Kulwanta",
+       "Alpha Code ": "KULWNT",
+       "IFSC Code ": "JAKA0KULWNT"
+   },
+   {
+       "S.No.": "878",
+       "Sol Id": "0926",
+       "Branch Name": "Johnu",
+       "Alpha Code ": "JOHNUU",
+       "IFSC Code ": "JAKA0JOHNUU"
+   },
+   {
+       "S.No.": "879",
+       "Sol Id": "0927",
+       "Branch Name": "Wadura",
+       "Alpha Code ": "WADURA",
+       "IFSC Code ": "JAKA0WADURA"
+   },
+   {
+       "S.No.": "880",
+       "Sol Id": "0928",
+       "Branch Name": "Negrimalpora Kupawra ",
+       "Alpha Code ": "NEGRIM",
+       "IFSC Code ": "JAKA0NEGRIM"
+   },
+   {
+       "S.No.": "881",
+       "Sol Id": "0929",
+       "Branch Name": "Nadihal Bandipora",
+       "Alpha Code ": "NADHAL",
+       "IFSC Code ": "JAKA0NADHAL"
+   },
+   {
+       "S.No.": "882",
+       "Sol Id": "0930",
+       "Branch Name": "Ashipora",
+       "Alpha Code ": "ASHPOR",
+       "IFSC Code ": "JAKA0ASHPOR"
+   },
+   {
+       "S.No.": "883",
+       "Sol Id": "0918",
+       "Branch Name": "Peer Takiya Anantnag",
+       "Alpha Code ": "PERTAK",
+       "IFSC Code ": "JAKA0PERTAK"
+   },
+   {
+       "S.No.": "884",
+       "Sol Id": "0947",
+       "Branch Name": "Hillar Arhama",
+       "Alpha Code ": "HILLAR",
+       "IFSC Code ": "JAKA0HILLAR"
+   },
+   {
+       "S.No.": "885",
+       "Sol Id": "0948",
+       "Branch Name": "Khanabal Anantnag",
+       "Alpha Code ": "KHANBL",
+       "IFSC Code ": "JAKA0KHANBL"
+   },
+   {
+       "S.No.": "886",
+       "Sol Id": "0936",
+       "Branch Name": "Marta Nagrota",
+       "Alpha Code ": "MARTAA",
+       "IFSC Code ": "JAKA0MARTAA"
+   },
+   {
+       "S.No.": "887",
+       "Sol Id": "0911",
+       "Branch Name": "Kammanhalli",
+       "Alpha Code ": "KAMMAN",
+       "IFSC Code ": "JAKA0KAMMAN"
+   },
+   {
+       "S.No.": "888",
+       "Sol Id": "0912",
+       "Branch Name": "RT Nagar",
+       "Alpha Code ": "RTNAGR",
+       "IFSC Code ": "JAKA0RTNAGR"
+   },
+   {
+       "S.No.": "889",
+       "Sol Id": "0949",
+       "Branch Name": "SOLAN",
+       "Alpha Code ": "SOLAAN",
+       "IFSC Code ": "JAKA0SOLAAN"
+   },
+   {
+       "S.No.": "890",
+       "Sol Id": "0950",
+       "Branch Name": "Patiala",
+       "Alpha Code ": "PATIAL",
+       "IFSC Code ": "JAKA0PATIAL"
+   },
+   {
+       "S.No.": "891",
+       "Sol Id": "0920",
+       "Branch Name": "ROORKEE",
+       "Alpha Code ": "ROORKE",
+       "IFSC Code ": "JAKA0ROORKE"
+   },
+   {
+       "S.No.": "892",
+       "Sol Id": "0931",
+       "Branch Name": "Shalimar Garden Ghaziabad",
+       "Alpha Code ": "SALIMR",
+       "IFSC Code ": "JAKA0SALIMR"
+   },
+   {
+       "S.No.": "893",
+       "Sol Id": "0956",
+       "Branch Name": "JKEDI pampore",
+       "Alpha Code ": "JKEDIP",
+       "IFSC Code ": "JAKA0JKEDIP"
+   },
+   {
+       "S.No.": "894",
+       "Sol Id": "0959",
+       "Branch Name": "Majua Uttami.",
+       "Alpha Code ": "MAJUAU",
+       "IFSC Code ": "JAKA0MAJUAU"
+   },
+   {
+       "S.No.": "895",
+       "Sol Id": "0957",
+       "Branch Name": "SANJAY PALACE",
+       "Alpha Code ": "SANJAY",
+       "IFSC Code ": "JAKA0SANJAY"
+   },
+   {
+       "S.No.": "896",
+       "Sol Id": "0958",
+       "Branch Name": "Chamalwas, Ramban",
+       "Alpha Code ": "CHAMAL",
+       "IFSC Code ": "JAKA0CHAMAL"
+   },
+   {
+       "S.No.": "897",
+       "Sol Id": "0960",
+       "Branch Name": "DEETHU",
+       "Alpha Code ": "DEETHU",
+       "IFSC Code ": "JAKA0DEETHU"
+   },
+   {
+       "S.No.": "898",
+       "Sol Id": "0965",
+       "Branch Name": "SAMBORA",
+       "Alpha Code ": "SAMBOR",
+       "IFSC Code ": "JAKA0SAMBOR"
+   },
+   {
+       "S.No.": "899",
+       "Sol Id": "0966",
+       "Branch Name": "WAHIBUG",
+       "Alpha Code ": "WAHBUG",
+       "IFSC Code ": "JAKA0WAHBUG"
+   },
+   {
+       "S.No.": "900",
+       "Sol Id": "0961",
+       "Branch Name": "DRUROO",
+       "Alpha Code ": "DRUROO",
+       "IFSC Code ": "JAKA0DRUROO"
+   },
+   {
+       "S.No.": "901",
+       "Sol Id": "0962",
+       "Branch Name": "NOWSHEHRA URI",
+       "Alpha Code ": "NOWSHE",
+       "IFSC Code ": "JAKA0NOWSHE"
+   },
+   {
+       "S.No.": "902",
+       "Sol Id": "0963",
+       "Branch Name": "SHAHGUND",
+       "Alpha Code ": "SHGUND",
+       "IFSC Code ": "JAKA0SHGUND"
+   },
+   {
+       "S.No.": "903",
+       "Sol Id": "0967",
+       "Branch Name": "UPSHI LEH",
+       "Alpha Code ": "UPSHEE",
+       "IFSC Code ": "JAKA0UPSHEE"
+   },
+   {
+       "S.No.": "904",
+       "Sol Id": "0443",
+       "Branch Name": "DPL Khanabal",
+       "Alpha Code ": "ECDPAN",
+       "IFSC Code ": "JAKA0ECDPAN"
+   },
+   {
+       "S.No.": "905",
+       "Sol Id": "0964",
+       "Branch Name": "Premium Branch, Jawahar Nagar, Srinagar",
+       "Alpha Code ": "LBJNGR",
+       "IFSC Code ": "JAKA0LBJNGR"
+   },
+   {
+       "S.No.": "906",
+       "Sol Id": "0969",
+       "Branch Name": "Panamik",
+       "Alpha Code ": "PANMIK",
+       "IFSC Code ": "JAKA0PANMIK"
+   },
+   {
+       "S.No.": "907",
+       "Sol Id": "0971",
+       "Branch Name": "Shahdra Sharief",
+       "Alpha Code ": "SHADSH",
+       "IFSC Code ": "JAKA0SHADSH"
+   },
+   {
+       "S.No.": "908",
+       "Sol Id": "0972",
+       "Branch Name": "Loharakote, Sunderbani",
+       "Alpha Code ": "LOHARA",
+       "IFSC Code ": "JAKA0LOHARA"
+   },
+   {
+       "S.No.": "909",
+       "Sol Id": "0973",
+       "Branch Name": "Bus Stand Mendher",
+       "Alpha Code ": "BSMEND",
+       "IFSC Code ": "JAKA0BSMEND"
+   },
+   {
+       "S.No.": "910",
+       "Sol Id": "0968",
+       "Branch Name": "G.G.M.Science College (Cluster University) Jammu ",
+       "Alpha Code ": "GGMCOL",
+       "IFSC Code ": "JAKA0GGMCOL"
+   },
+   {
+       "S.No.": "911",
+       "Sol Id": "0970",
+       "Branch Name": "Industrial Estate Sicop Complex Udhampur",
+       "Alpha Code ": "INDUDH",
+       "IFSC Code ": "JAKA0INDUDH"
+   },
+   {
+       "S.No.": "912",
+       "Sol Id": "0975",
+       "Branch Name": "Fruit Mandi Batengoo",
+       "Alpha Code ": "FRBTNG",
+       "IFSC Code ": "JAKA0FRBTNG"
+   },
+   {
+       "S.No.": "913",
+       "Sol Id": "0976",
+       "Branch Name": "Garoora, Bandipora",
+       "Alpha Code ": "GAROOR",
+       "IFSC Code ": "JAKA0GAROOR"
+   },
+   {
+       "S.No.": "914",
+       "Sol Id": "0977",
+       "Branch Name": "Amargarh, Sopore",
+       "Alpha Code ": "AMARGH",
+       "IFSC Code ": "JAKA0AMARGH"
+   },
+   {
+       "S.No.": "915",
+       "Sol Id": "0978",
+       "Branch Name": "Mini Sectt.Kishtwar",
+       "Alpha Code ": "MINKIS",
+       "IFSC Code ": "JAKA0MINKIS"
+   },
+   {
+       "S.No.": "916",
+       "Sol Id": "0982",
+       "Branch Name": "Chinigund, Dooru",
+       "Alpha Code ": "CHINGD",
+       "IFSC Code ": "JAKA0CHINGD"
+   },
+   {
+       "S.No.": "917",
+       "Sol Id": "0991",
+       "Branch Name": "Magarmal Bagh Srinagar",
+       "Alpha Code ": "MAGRML",
+       "IFSC Code ": "JAKA0MAGRML"
+   },
+   {
+       "S.No.": "918",
+       "Sol Id": "0992",
+       "Branch Name": "Dinga Amb, Kathua",
+       "Alpha Code ": "DINAMB ",
+       "IFSC Code ": "JAKA0DINAMB "
+   },
+   {
+       "S.No.": "919",
+       "Sol Id": "0994",
+       "Branch Name": "Dandal, Doda",
+       "Alpha Code ": "DANDAL",
+       "IFSC Code ": "JAKA0DANDAL"
+   },
+   {
+       "S.No.": "920",
+       "Sol Id": "0995",
+       "Branch Name": "Gundana, Doda",
+       "Alpha Code ": "GUNDNA",
+       "IFSC Code ": "JAKA0GUNDNA"
+   },
+   {
+       "S.No.": "921",
+       "Sol Id": "0997",
+       "Branch Name": "Tiyari Kishtwar",
+       "Alpha Code ": "TIYARI",
+       "IFSC Code ": "JAKA0TIYARI"
+   },
+   {
+       "S.No.": "922",
+       "Sol Id": "1000",
+       "Branch Name": "Barsoo Awantipora",
+       "Alpha Code ": "BARSOO ",
+       "IFSC Code ": "JAKA0BARSOO "
+   },
+   {
+       "S.No.": "923",
+       "Sol Id": "1001",
+       "Branch Name": "Tumlahal, Pulwama",
+       "Alpha Code ": "TUMHAL ",
+       "IFSC Code ": "JAKA0TUMHAL "
+   },
+   {
+       "S.No.": "924",
+       "Sol Id": "1002",
+       "Branch Name": "Tiken, Batpora",
+       "Alpha Code ": "TIKENB",
+       "IFSC Code ": "JAKA0TIKENB"
+   },
+   {
+       "S.No.": "925",
+       "Sol Id": "1003",
+       "Branch Name": "Gulzarpora Tokuna, Pulwama",
+       "Alpha Code ": "TOKUNA ",
+       "IFSC Code ": "JAKA0TOKUNA "
+   },
+   {
+       "S.No.": "926",
+       "Sol Id": "1004",
+       "Branch Name": "Heff, Shopian",
+       "Alpha Code ": "HEFFSH",
+       "IFSC Code ": "JAKA0HEFFSH"
+   },
+   {
+       "S.No.": "927",
+       "Sol Id": "1005",
+       "Branch Name": "Bufliaz, Poonch",
+       "Alpha Code ": "BUFLAZ",
+       "IFSC Code ": "JAKA0BUFLAZ"
+   },
+   {
+       "S.No.": "928",
+       "Sol Id": "1006",
+       "Branch Name": "Khanetar Kanuyian, Poonch",
+       "Alpha Code ": "KHANTR",
+       "IFSC Code ": "JAKA0KHANTR"
+   },
+   {
+       "S.No.": "929",
+       "Sol Id": "1007",
+       "Branch Name": "Gopalpora Kulgam",
+       "Alpha Code ": "GOPALK",
+       "IFSC Code ": "JAKA0GOPALK"
+   },
+   {
+       "S.No.": "930",
+       "Sol Id": "1008",
+       "Branch Name": "Kharak New Delhi",
+       "Alpha Code ": "KHARAK",
+       "IFSC Code ": "JAKA0KHARAK"
+   },
+   {
+       "S.No.": "931",
+       "Sol Id": "1009",
+       "Branch Name": "Ajmer Rajasthan",
+       "Alpha Code ": "AJMERR",
+       "IFSC Code ": "JAKA0AJMERR"
+   },
+   {
+       "S.No.": "932",
+       "Sol Id": "1010",
+       "Branch Name": "Shiv Nagar, Dharbadan",
+       "Alpha Code ": "SHIVNG",
+       "IFSC Code ": "JAKA0SHIVNG"
+   },
+   {
+       "S.No.": "933",
+       "Sol Id": "1011",
+       "Branch Name": "Shirdi, Maharashtra",
+       "Alpha Code ": "SAIRAM",
+       "IFSC Code ": "JAKA0SAIRAM"
+   },
+   {
+       "S.No.": "934",
+       "Sol Id": "1012",
+       "Branch Name": "Channi Rama",
+       "Alpha Code ": "CHARAM",
+       "IFSC Code ": "JAKA0CHARAM"
+   },
+   {
+       "S.No.": "935",
+       "Sol Id": "1013",
+       "Branch Name": "Sigdi, Kishtwar",
+       "Alpha Code ": "SIGDEE",
+       "IFSC Code ": "JAKA0SIGDEE"
+   },
+   {
+       "S.No.": "936",
+       "Sol Id": "1016",
+       "Branch Name": "MIL, Badami Bagh Cantonment",
+       "Alpha Code ": "MILCAN",
+       "IFSC Code ": "JAKA0MILCAN"
+   },
+   {
+       "S.No.": "937",
+       "Sol Id": "1017",
+       "Branch Name": "Talli Morh, Jammu",
+       "Alpha Code ": "TALMOR",
+       "IFSC Code ": "JAKA0TALMOR"
+   },
+   {
+       "S.No.": "938",
+       "Sol Id": "1018",
+       "Branch Name": "Pouni Chak Jammu",
+       "Alpha Code ": "POCHAK",
+       "IFSC Code ": "JAKA0POCHAK"
+   },
+   {
+       "S.No.": "939",
+       "Sol Id": "1019",
+       "Branch Name": "Maira Mandrian, Jammu",
+       "Alpha Code ": "MARMAN",
+       "IFSC Code ": "JAKA0MARMAN"
+   },
+   {
+       "S.No.": "940",
+       "Sol Id": "1020",
+       "Branch Name": "Nud, Samba",
+       "Alpha Code ": "NUDSAM",
+       "IFSC Code ": "JAKA0NUDSAM"
+   },
+   {
+       "S.No.": "941",
+       "Sol Id": "1021",
+       "Branch Name": "Sanjak, Kargil",
+       "Alpha Code ": "SANJAK",
+       "IFSC Code ": "JAKA0SANJAK"
+   },
+   {
+       "S.No.": "942",
+       "Sol Id": "1022",
+       "Branch Name": "Baggan, Kathua",
+       "Alpha Code ": "BAGGAN",
+       "IFSC Code ": "JAKA0BAGGAN"
+   },
+   {
+       "S.No.": "943",
+       "Sol Id": "1023",
+       "Branch Name": "Kohag, Kathua",
+       "Alpha Code ": "KOHAGG",
+       "IFSC Code ": "JAKA0KOHAGG"
+   },
+   {
+       "S.No.": "944",
+       "Sol Id": "1024",
+       "Branch Name": "City Chowk, Rajouri",
+       "Alpha Code ": "CITYCH",
+       "IFSC Code ": "JAKA0CITYCH"
+   },
+   {
+       "S.No.": "945",
+       "Sol Id": "1025",
+       "Branch Name": "Kadlabal, Pampore",
+       "Alpha Code ": "KADBAL",
+       "IFSC Code ": "JAKA0KADBAL"
+   },
+   {
+       "S.No.": "946",
+       "Sol Id": "0915",
+       "Branch Name": "Jamia Hamdard University",
+       "Alpha Code ": "JAMIAH",
+       "IFSC Code ": "JAKA0JAMIAH"
+   },
+   {
+       "S.No.": "947",
+       "Sol Id": "1026",
+       "Branch Name": "SMVD,NARAYANA HOSPITAL,KAKRYAL",
+       "Alpha Code ": "SMVDNH",
+       "IFSC Code ": "JAKA0SMVDNH"
+   },
+   {
+       "S.No.": "948",
+       "Sol Id": "1027",
+       "Branch Name": "Kaloosa Bandipora",
+       "Alpha Code ": "KALOSA",
+       "IFSC Code ": "JAKA0KALOSA"
+   },
+   {
+       "S.No.": "949",
+       "Sol Id": "1028",
+       "Branch Name": "General Bus Stand Laroo, Kulgam",
+       "Alpha Code ": "GBLARO",
+       "IFSC Code ": "JAKA0GBLARO"
+   },
+   {
+       "S.No.": "950",
+       "Sol Id": "1029",
+       "Branch Name": "Sawjian, Poonch",
+       "Alpha Code ": "SAWJAN",
+       "IFSC Code ": "JAKA0SAWJAN"
+   },
+   {
+       "S.No.": "951",
+       "Sol Id": "1031",
+       "Branch Name": "Samote, Budhal - Rajouri",
+       "Alpha Code ": "SAMRAJ",
+       "IFSC Code ": "JAKA0SAMRAJ"
+   },
+   {
+       "S.No.": "952",
+       "Sol Id": "1032",
+       "Branch Name": "Memender",
+       "Alpha Code ": "MEMEND",
+       "IFSC Code ": "JAKA0MEMEND"
+   },
+   {
+       "S.No.": "953",
+       "Sol Id": "1033",
+       "Branch Name": "Dhobiwan",
+       "Alpha Code ": "DHOBWN",
+       "IFSC Code ": "JAKA0DHOBWN"
+   },
+   {
+       "S.No.": "954",
+       "Sol Id": "1035",
+       "Branch Name": "Warpora",
+       "Alpha Code ": "WARPOR",
+       "IFSC Code ": "JAKA0WARPOR"
+   },
+   {
+       "S.No.": "955",
+       "Sol Id": "1034",
+       "Branch Name": "Batgund",
+       "Alpha Code ": "BTGUND",
+       "IFSC Code ": "JAKA0BTGUND"
+   },
+   {
+       "S.No.": "956",
+       "Sol Id": "1036",
+       "Branch Name": "Hardushoora",
+       "Alpha Code ": "HARDUS",
+       "IFSC Code ": "JAKA0HARDUS"
+   },
+   {
+       "S.No.": "957",
+       "Sol Id": "1037",
+       "Branch Name": "New Bus Stand, Budgam",
+       "Alpha Code ": "BUSBUD",
+       "IFSC Code ": "JAKA0BUSBUD"
+   },
+   {
+       "S.No.": "958",
+       "Sol Id": "1038",
+       "Branch Name": "Wussan",
+       "Alpha Code ": "WUSSAN",
+       "IFSC Code ": "JAKA0WUSSAN"
+   },
+   {
+       "S.No.": "959",
+       "Sol Id": "1039",
+       "Branch Name": "Kanthi",
+       "Alpha Code ": "KANTHI",
+       "IFSC Code ": "JAKA0KANTHI"
+   },
+   {
+       "S.No.": "960",
+       "Sol Id": "1040",
+       "Branch Name": "Gandhri",
+       "Alpha Code ": "GANDRI",
+       "IFSC Code ": "JAKA0GANDRI"
+   },
+   {
+       "S.No.": "961",
+       "Sol Id": "1041",
+       "Branch Name": "Halla",
+       "Alpha Code ": "HALLAA",
+       "IFSC Code ": "JAKA0HALLAA"
+   },
+   {
+       "S.No.": "962",
+       "Sol Id": "1043",
+       "Branch Name": "Agore",
+       "Alpha Code ": "AGHORE",
+       "IFSC Code ": "JAKA0AGHORE"
+   },
+   {
+       "S.No.": "963",
+       "Sol Id": "1042",
+       "Branch Name": "Chuchot Shamma",
+       "Alpha Code ": "CHUSHA",
+       "IFSC Code ": "JAKA0CHUSHA"
+   },
+   {
+       "S.No.": "964",
+       "Sol Id": "1044",
+       "Branch Name": "Arai, Poonch",
+       "Alpha Code ": "ARAYEE",
+       "IFSC Code ": "JAKA0ARAYEE"
+   },
+   {
+       "S.No.": "965",
+       "Sol Id": "1046",
+       "Branch Name": "Bhagha, Reasi",
+       "Alpha Code ": "BHAGHA",
+       "IFSC Code ": "JAKA0BHAGHA"
+   },
+   {
+       "S.No.": "966",
+       "Sol Id": "1047",
+       "Branch Name": "Salal",
+       "Alpha Code ": "SALLAL",
+       "IFSC Code ": "JAKA0SALLAL"
+   },
+   {
+       "S.No.": "967",
+       "Sol Id": "1045",
+       "Branch Name": "Kullan",
+       "Alpha Code ": "KULANG",
+       "IFSC Code ": "JAKA0KULANG"
+   },
+   {
+       "S.No.": "968",
+       "Sol Id": "1048",
+       "Branch Name": "Budhan",
+       "Alpha Code ": "BUDHAN",
+       "IFSC Code ": "JAKA0BUDHAN"
+   },
+   {
+       "S.No.": "969",
+       "Sol Id": "1049",
+       "Branch Name": "Ati, Rajouri",
+       "Alpha Code ": "ATIRAJ",
+       "IFSC Code ": "JAKA0ATIRAJ"
+   },
+   {
+       "S.No.": "970",
+       "Sol Id": "1050",
+       "Branch Name": "Rajal Road Nowshera, Rajouri",
+       "Alpha Code ": "RAJALL",
+       "IFSC Code ": "JAKA0RAJALL"
+   },
+   {
+       "S.No.": "971",
+       "Sol Id": "1051",
+       "Branch Name": "Model Town Sopore",
+       "Alpha Code ": "MODSOP",
+       "IFSC Code ": "JAKA0MODSOP"
+   },
+   {
+       "S.No.": "972",
+       "Sol Id": "1052",
+       "Branch Name": "Pattan Village",
+       "Alpha Code ": "PATVIL",
+       "IFSC Code ": "JAKA0PATVIL"
+   },
+   {
+       "S.No.": "973",
+       "Sol Id": "1053",
+       "Branch Name": "Bakura Ganderbal",
+       "Alpha Code ": "BAKURA",
+       "IFSC Code ": "JAKA0BAKURA"
+   },
+   {
+       "S.No.": "974",
+       "Sol Id": "1054",
+       "Branch Name": "Narkara Budgam",
+       "Alpha Code ": "NARKAR",
+       "IFSC Code ": "JAKA0NARKAR"
+   },
+   {
+       "S.No.": "975",
+       "Sol Id": "1055",
+       "Branch Name": "Drusoo Pulwama",
+       "Alpha Code ": "DRUSOO",
+       "IFSC Code ": "JAKA0DRUSOO"
+   },
+   {
+       "S.No.": "976",
+       "Sol Id": "1059",
+       "Branch Name": "Jawalapora",
+       "Alpha Code ": "JAWALP",
+       "IFSC Code ": "JAKA0JAWALP"
+   },
+   {
+       "S.No.": "977",
+       "Sol Id": "1058",
+       "Branch Name": "Swankha Morh",
+       "Alpha Code ": "SWANKH",
+       "IFSC Code ": "JAKA0SWANKH"
+   },
+   {
+       "S.No.": "978",
+       "Sol Id": "1056",
+       "Branch Name": "Digital Banking Unit Srinagar",
+       "Alpha Code ": "DBUSGR",
+       "IFSC Code ": "JAKA0DBUSGR"
+   },
+   {
+       "S.No.": "979",
+       "Sol Id": "1057",
+       "Branch Name": "Digital Banking Unit Jammu",
+       "Alpha Code ": "DBUJMU",
+       "IFSC Code ": "JAKA0DBUJMU"
+   },
+   {
+       "S.No.": "980",
+       "Sol Id": "1079",
+       "Branch Name": "Kaghote",
+       "Alpha Code ": "KAGHOT",
+       "IFSC Code ": "JAKA0KAGHOT"
+   },
+   {
+       "S.No.": "981",
+       "Sol Id": "1080",
+       "Branch Name": "Ghoom Ahmadpora",
+       "Alpha Code ": "GAPORA",
+       "IFSC Code ": "JAKA0GAPORA"
+   },
+   {
+       "S.No.": "982",
+       "Sol Id": "1081",
+       "Branch Name": "Saliskote Kargil",
+       "Alpha Code ": "SALISK",
+       "IFSC Code ": "JAKA0SALISK"
+   },
+   {
+       "S.No.": "983",
+       "Sol Id": "1082",
+       "Branch Name": "Wasoora Pulwama",
+       "Alpha Code ": "WASORA",
+       "IFSC Code ": "JAKA0WASORA"
+   },
+   {
+       "S.No.": "984",
+       "Sol Id": "1083",
+       "Branch Name": "Khimber",
+       "Alpha Code ": "KHIMBR",
+       "IFSC Code ": "JAKA0KHIMBR"
+   },
+   {
+       "S.No.": "985",
+       "Sol Id": "1085",
+       "Branch Name": "Dharat",
+       "Alpha Code ": "DHARAT",
+       "IFSC Code ": "JAKA0DHARAT"
+   },
+   {
+       "S.No.": "986",
+       "Sol Id": "1084",
+       "Branch Name": "Tengpora Srinagar",
+       "Alpha Code ": "TENGPO",
+       "IFSC Code ": "JAKA0TENGPO"
+   },
+   {
+       "S.No.": "987",
+       "Sol Id": "1060",
+       "Branch Name": "LCU Poloview",
+       "Alpha Code ": "LCUPVW",
+       "IFSC Code ": "JAKA0LCUPVW"
+   },
+   {
+       "S.No.": "988",
+       "Sol Id": "1061",
+       "Branch Name": "LCU Nirmaan Complex Barzulla",
+       "Alpha Code ": "LCUBAR",
+       "IFSC Code ": "JAKA0LCUBAR"
+   },
+   {
+       "S.No.": "989",
+       "Sol Id": "1063",
+       "Branch Name": "LCU Lassipora",
+       "Alpha Code ": "LCUPUL",
+       "IFSC Code ": "JAKA0LCUPUL"
+   },
+   {
+       "S.No.": "990",
+       "Sol Id": "1067",
+       "Branch Name": "LCU Rail Head Complex",
+       "Alpha Code ": "LCUJMU",
+       "IFSC Code ": "JAKA0LCUJMU"
+   },
+   {
+       "S.No.": "991",
+       "Sol Id": "1068",
+       "Branch Name": "LCU I/C Bari Brahamna",
+       "Alpha Code ": "LCUBBA",
+       "IFSC Code ": "JAKA0LCUBBA"
+   },
+   {
+       "S.No.": "992",
+       "Sol Id": "1070",
+       "Branch Name": "LCU Govindsar",
+       "Alpha Code ": "LCUGVD",
+       "IFSC Code ": "JAKA0LCUGVD"
+   },
+   {
+       "S.No.": "993",
+       "Sol Id": "1074",
+       "Branch Name": "LCU Rajindra Place Delhi",
+       "Alpha Code ": "LCURAJ",
+       "IFSC Code ": "JAKA0LCURAJ"
+   },
+   {
+       "S.No.": "994",
+       "Sol Id": "1075",
+       "Branch Name": "LCU Ansal Plaza",
+       "Alpha Code ": "LCUDEL",
+       "IFSC Code ": "JAKA0LCUDEL"
+   },
+   {
+       "S.No.": "995",
+       "Sol Id": "1076",
+       "Branch Name": "LCU Infantry Road Bengaluru",
+       "Alpha Code ": "LCUBEN",
+       "IFSC Code ": "JAKA0LCUBEN"
+   },
+   {
+       "S.No.": "996",
+       "Sol Id": "1077",
+       "Branch Name": "LCU Fort Mumbai",
+       "Alpha Code ": "LCUMUM",
+       "IFSC Code ": "JAKA0LCUMUM"
+   },
+   {
+       "S.No.": "997",
+       "Sol Id": "1148",
+       "Branch Name": "Aripanthan",
+       "Alpha Code ": "EBARIP",
+       "IFSC Code ": "JAKA0EBARIP"
+   },
+   {
+       "S.No.": "998",
+       "Sol Id": "1183",
+       "Branch Name": "Saket",
+       "Alpha Code ": "SAKETD",
+       "IFSC Code ": "JAKA0SAKETD"
+   },
+   {
+       "S.No.": "999",
+       "Sol Id": "1184",
+       "Branch Name": "Whitefield Bengaluru",
+       "Alpha Code ": "WHITEF",
+       "IFSC Code ": "JAKA0WHITEF"
+   },
+   {
+       "S.No.": "1000",
+       "Sol Id": "1187",
+       "Branch Name": "Jayanagar",
+       "Alpha Code ": "JAYANA",
+       "IFSC Code ": "JAKA0JAYANA"
+   },
+   {
+       "S.No.": "1001",
+       "Sol Id": "1188",
+       "Branch Name": "Malad",
+       "Alpha Code ": "MALAAD",
+       "IFSC Code ": "JAKA0MALAAD"
+   },
+   {
+       "S.No.": "1002",
+       "Sol Id": "1190",
+       "Branch Name": "Gomti Nagar",
+       "Alpha Code ": "GOMTIN",
+       "IFSC Code ": "JAKA0GOMTIN"
+   },
+   {
+       "S.No.": "1003",
+       "Sol Id": "1189",
+       "Branch Name": "Bhoond",
+       "Alpha Code ": "BHOOND",
+       "IFSC Code ": "JAKA0BHOOND"
+   },
+   {
+       "S.No.": "1004",
+       "Sol Id": "1192",
+       "Branch Name": "Kurla",
+       "Alpha Code ": "KURLAA",
+       "IFSC Code ": "JAKA0KURLAA"
+   },
+   {
+       "S.No.": "1005",
+       "Sol Id": "1193",
+       "Branch Name": "Gurdaspur",
+       "Alpha Code ": "GURDAS",
+       "IFSC Code ": "JAKA0GURDAS"
+   },
+   {
+       "S.No.": "1006",
+       "Sol Id": "1194",
+       "Branch Name": "Bhayander",
+       "Alpha Code ": "BHAYAN",
+       "IFSC Code ": "JAKA0BHAYAN"
+   },
+   {
+       "S.No.": "1007",
+       "Sol Id": "1195",
+       "Branch Name": "Koramangala",
+       "Alpha Code ": "KORMNG",
+       "IFSC Code ": "JAKA0KORMNG"
+   },
+   {
+       "S.No.": "1008",
+       "Sol Id": "1196",
+       "Branch Name": "90-Feet Road Soura- Buchpora",
+       "Alpha Code ": "NFSOUR",
+       "IFSC Code ": "JAKA0NFSOUR"
+   },
+   {
+       "S.No.": "1009",
+       "Sol Id": "1197",
+       "Branch Name": "Wakad, Pune",
+       "Alpha Code ": "WAKKAD",
+       "IFSC Code ": "JAKA0WAKKAD"
+   },
+   {
+       "S.No.": "1010",
+       "Sol Id": "1198",
+       "Branch Name": "Rahain",
+       "Alpha Code ": "RAHAIN",
+       "IFSC Code ": "JAKA0RAHAIN"
+   },
+   {
+       "S.No.": "1011",
+       "Sol Id": "1199",
+       "Branch Name": "Raika Morh",
+       "Alpha Code ": "RAIKAA",
+       "IFSC Code ": "JAKA0RAIKAA"
+   },
+   {
+       "S.No.": "1012",
+       "Sol Id": "1200",
+       "Branch Name": "Ramnagri Shopian",
+       "Alpha Code ": "RNAGRI",
+       "IFSC Code ": "JAKA0RNAGRI"
+   },
+   {
+       "S.No.": "1013",
+       "Sol Id": "1202",
+       "Branch Name": "Industrial Estate Ghatti",
+       "Alpha Code ": "IEGHAT",
+       "IFSC Code ": "JAKA0IEGHAT"
+   },
+   {
+       "S.No.": "1014",
+       "Sol Id": "1207",
+       "Branch Name": "Umerabad Shalteng",
+       "Alpha Code ": "UMERAB",
+       "IFSC Code ": "JAKA0UMERAB"
+   }
+]

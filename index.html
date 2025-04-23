@@ -11,12 +11,18 @@
 <body>
   <div class="container">
     <div class="card">
-      <h1>Search IFSC</h1>
+      <h1>Search- IFSC</h1>
       <p>Bank: Jammu and Kashmir Bank</p>
       <form id="ifscForm">
         <div class="form-group">
-          <label for="branch">Branch Name</label>
-          <select id="branch" required>
+          <label for="branchInput">Branch Name (Type)</label>
+          <input type="text" id="branchInput" placeholder="Enter branch name (e.g., Residency Road)">
+          <div id="suggestions" class="suggestions"></div>
+        </div>
+        <label>OR</label>
+        <div class="form-group">
+          <label for="branch">Branch Name (Select)</label>
+          <select id="branch">
             <option value="" disabled selected>Select Branch</option>
           </select>
         </div>

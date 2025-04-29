@@ -15,6 +15,7 @@ body {
   background: rgba(249, 249, 249, 0.95);
   border-radius: 15px;
   box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+  overflow-x: hidden;
 }
 
 input, select, button {
@@ -98,7 +99,7 @@ th, td {
   white-space: nowrap;
 }
 
-/* Column widths for HDFC table */
+/* Column widths for HDFC table (Desktop) */
 table.hdfc-table th:nth-child(1), table.hdfc-table td:nth-child(1) { /* IFSC */
   width: 15%;
 }
@@ -121,7 +122,7 @@ table.hdfc-table th:nth-child(7), table.hdfc-table td:nth-child(7) { /* Actions 
   width: 14%;
 }
 
-/* Column widths for J&K table */
+/* Column widths for J&K table (Desktop) */
 table.jk-table th:nth-child(1), table.jk-table td:nth-child(1) { /* S.No. */
   width: 10%;
 }
@@ -151,10 +152,103 @@ td .flex.space-x-2 {
 td .flex.space-x-2 button {
   padding: 4px 8px;
   font-size: 0.85rem;
+  min-width: 60px;
 }
 
-/* Responsive Design */
-@media (max-width: 768px) {
+/* Mobile Responsive Table (480px and below) */
+@media (max-width: 480px) {
+  body {
+    padding: 10px;
+  }
+  .card {
+    padding: 15px;
+    overflow-x: hidden;
+  }
+  input, select {
+    padding: 8px;
+    font-size: 0.85rem;
+  }
+  button {
+    padding: 12px;
+    font-size: 0.85rem;
+    width: 100%;
+  }
+  .flex.gap-4 {
+    flex-direction: column;
+  }
+
+  /* Hide table headers and use card-like layout */
+  table.hdfc-table, table.jk-table {
+    display: block;
+    border: none;
+  }
+  table.hdfc-table thead, table.jk-table thead {
+    display: none;
+  }
+  table.hdfc-table tbody, table.jk-table tbody {
+    display: block;
+  }
+  table.hdfc-table tr, table.jk-table tr {
+    display: block;
+    margin-bottom: 16px;
+    background: #FFFFFF;
+    border: 1px solid #DDDDDD;
+    border-radius: 8px;
+    padding: 12px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  table.hdfc-table td, table.jk-table td {
+    display: block;
+    text-align: left;
+    padding: 6px 0;
+    border: none;
+    white-space: normal;
+    overflow: visible;
+    text-overflow: clip;
+  }
+  /* Add labels for each field */
+  table.hdfc-table td:before, table.jk-table td:before {
+    content: attr(data-label);
+    font-weight: 600;
+    color: #333333;
+    display: inline-block;
+    width: 40%;
+    padding-right: 8px;
+  }
+  /* Specific labels for HDFC */
+  table.hdfc-table td:nth-child(1):before { content: "IFSC"; }
+  table.hdfc-table td:nth-child(2):before { content: "Branch"; }
+  table.hdfc-table td:nth-child(3):before { content: "MICR"; }
+  table.hdfc-table td:nth-child(4):before { content: "Address"; }
+  table.hdfc-table td:nth-child(5):before { content: "State"; }
+  table.hdfc-table td:nth-child(6):before { content: "Contact"; }
+  table.hdfc-table td:nth-child(7):before { content: "Actions"; }
+  /* Specific labels for J&K */
+  table.jk-table td:nth-child(1):before { content: "S.No."; }
+  table.jk-table td:nth-child(2):before { content: "Sol Id"; }
+  table.jk-table td:nth-child(3):before { content: "Branch Name"; }
+  table.jk-table td:nth-child(4):before { content: "Alpha Code"; }
+  table.jk-table td:nth-child(5):before { content: "IFSC Code"; }
+  table.jk-table td:nth-child(6):before { content: "Actions"; }
+  /* Actions buttons */
+  td .flex.space-x-2 {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    justify-content: flex-start;
+    align-items: stretch;
+  }
+  td .flex.space-x-2 button {
+    padding: 8px;
+    font-size: 0.9rem;
+    min-width: 100%;
+    min-height: 44px;
+    text-align: center;
+  }
+}
+
+/* Tablet Responsive (768px) */
+@media (max-width: 768px) and (min-width: 481px) {
   body {
     padding: 15px;
   }
@@ -169,43 +263,15 @@ td .flex.space-x-2 button {
     padding: 10px 25px;
     font-size: 0.9rem;
   }
-  /* Reduce column widths for smaller screens */
+  /* Adjust column widths */
   table.hdfc-table th:nth-child(4), table.hdfc-table td:nth-child(4) { /* ADDRESS */
     width: 20%;
   }
   table.jk-table th:nth-child(3), table.jk-table td:nth-child(3) { /* Branch Name */
     width: 25%;
   }
-}
-
-@media (max-width: 480px) {
-  body {
-    padding: 10px;
-  }
-  .card {
-    padding: 15px;
-  }
-  input, select {
-    padding: 8px;
-    font-size: 0.85rem;
-  }
-  button {
-    padding: 12px;
-    font-size: 0.85rem;
-    width: 100%;
-  }
-  .flex.gap-4 {
-    flex-direction: column;
-  }
-  /* Further reduce column widths */
-  table.hdfc-table th:nth-child(4), table.hdfc-table td:nth-child(4) { /* ADDRESS */
-    width: 15%;
-  }
-  table.jk-table th:nth-child(3), table.jk-table td:nth-child(3) { /* Branch Name */
-    width: 20%;
-  }
   td .flex.space-x-2 button {
-    padding: 4px 6px;
-    font-size: 0.75rem;
+    padding: 4px 8px;
+    font-size: 0.85rem;
   }
 }

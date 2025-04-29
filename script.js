@@ -121,7 +121,7 @@ document.addEventListener('DOMContentLoaded', () => {
     }
     currentData.sort((a, b) => {
       const branchA = selectedBank === "hdfc" ? a.BRANCH : a["Branch Name"];
-      const branchB = selectedBank === "hdfc" ? b.BRANCH : b["Branch Name"];
+      const branchB = selectedBank === "hdfc" ? b.BRANCH : a["Branch Name"];
       return (branchA || "").localeCompare(branchB || "");
     });
     currentData.forEach(item => {
@@ -370,6 +370,13 @@ document.addEventListener('DOMContentLoaded', () => {
     const fields = selectedBank === "hdfc" ? 
       ["IFSC", "BRANCH", "MICR", "ADDRESS", "STATE", "CONTACT"] :
       ["S.No.", "Sol Id", "Branch Name", "Alpha Code ", "IFSC Code "];
+    const labels = selectedBank === "hdfc" ? 
+      ["IFSC", "Branch", "MICR", "Address", "State", "Contact"] :
+      ["S.No.", "Sol Id", "Branch Name", "Alpha Code", "IFSC Code"];
+
+    const table = document.querySelector("table");
+    table.classList.remove("hdfc-table", "jk-table");
+    table.classList.add(selectedBank === "hdfc" ? "hdfc-table" : "jk-table");
 
     const trHead = document.createElement("tr");
     fields.forEach(field => {
@@ -386,14 +393,16 @@ document.addEventListener('DOMContentLoaded', () => {
 
     currentData.forEach((item, index) => {
       const tr = document.createElement("tr");
-      fields.forEach(field => {
+      fields.forEach((field, i) => {
         const td = document.createElement("td");
         td.className = "border p-2 text-[#333333]";
+        td.setAttribute("data-label", labels[i]);
         td.textContent = item[field] || "";
         tr.appendChild(td);
       });
       const tdAction = document.createElement("td");
       tdAction.className = "border p-2 flex space-x-2";
+      tdAction.setAttribute("data-label", "Actions");
       tdAction.innerHTML = `
         <button class="bg-yellow-500 text-white px-2 py-1 rounded hover:bg-yellow-600" onclick="editRecord(${index})">Edit</button>
         <button class="bg-red-500 text-white px-2 py-1 rounded hover:bg-red-600" onclick="deleteRecord(${index})">Delete</button>

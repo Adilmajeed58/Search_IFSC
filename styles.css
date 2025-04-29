@@ -8,83 +8,28 @@ body {
   font-family: 'Poppins', sans-serif;
   background: linear-gradient(135deg, #2C3E50, #1ABC9C);
   min-height: 100vh;
-  display: flex;
-  justify-content: center;
-  align-items: center;
   padding: 20px;
-}
-
-.container {
-  width: 100%;
-  max-width: 600px;
-  padding: 15px;
 }
 
 .card {
   background: rgba(249, 249, 249, 0.95);
   border-radius: 15px;
-  padding: 30px;
   box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
-  text-align: center;
-  position: relative; /* Ensure suggestions stay within card */
 }
 
-h1 {
-  font-size: 2rem;
-  font-weight: 600;
-  color: #333333;
-  margin-bottom: 10px;
-}
-
-p {
-  font-size: 1.1rem;
-  font-weight: 400;
-  color: #333333;
-  margin-bottom: 20px;
-}
-
-.form-group {
-  margin-bottom: 20px;
-  text-align: left;
-  position: relative; /* For positioning suggestions */
-}
-
-label {
-  font-size: 1rem;
-  font-weight: 500;
-  color: #030000;
-  display: block;
-  margin-bottom: 8px;
-  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.2);
-}
-
-input[type="text"],
-select {
-  width: 100%;
-  padding: 12px;
-  border: 2px solid #DDDDDD;
+input, select, button {
   border-radius: 8px;
-  background: #FFFFFF;
-  color: #333333;
-  font-size: 1rem;
-  font-family: 'Poppins', sans-serif;
   transition: border-color 0.3s ease, box-shadow 0.3s ease;
 }
 
-input[type="text"]::placeholder {
-  color: #999999;
-}
-
-input[type="text"]:focus,
-select:focus {
+input:focus, select:focus {
   outline: none;
   border-color: #1ABC9C;
   box-shadow: 0 0 8px rgba(26, 188, 156, 0.3);
 }
 
-select option {
-  background: #FFFFFF;
-  color: #333333;
+.form-group {
+  position: relative;
 }
 
 .suggestions {
@@ -97,15 +42,14 @@ select option {
   border-radius: 8px;
   max-height: 200px;
   overflow-y: auto;
-  z-index: 100; /* Ensure above other elements */
+  z-index: 1000;
   display: none;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-  touch-action: auto; /* Improve touch scrolling */
-  overscroll-behavior: contain; /* Prevent overscrolling */
+  margin-top: 4px;
 }
 
 .suggestions.show {
-  display: block;
+  display: block !important;
 }
 
 .suggestion-item {
@@ -113,58 +57,12 @@ select option {
   font-size: 0.95rem;
   color: #333333;
   cursor: pointer;
-  transition: background 0.2s ease;
-  user-select: none; /* Prevent text selection */
+  transition: background 0.2s ease, color 0.2s ease;
 }
-.suggestion-item:hover,
-.suggestion-item:active {
+
+.suggestion-item:hover, .suggestion-item:focus {
   background: #E8F8F5;
   color: #1ABC9C;
-}
-
-.suggestion-item:hover {
-  background: #E8F8F5;
-  color: #1ABC9C;
-}
-
-.button-group {
-  display: flex;
-  gap: 15px;
-  justify-content: center;
-  flex-wrap: wrap;
-}
-
-button {
-  padding: 12px 30px;
-  border: none;
-  border-radius: 8px;
-  font-size: 1rem;
-  font-family: 'Poppins', sans-serif;
-  cursor: pointer;
-  display: flex;
-  align-items: center;
-  gap: 8px;
-  transition: background 0.3s ease, transform 0.2s ease;
-}
-
-button[type="submit"] {
-  background: #1ABC9C;
-  color: #FFFFFF;
-}
-
-button[type="submit"]:hover {
-  background: #16A085;
-  transform: translateY(-2px);
-}
-
-#resetBtn {
-  background: #E67E22;
-  color: #FFFFFF;
-}
-
-#resetBtn:hover {
-  background: #D35400;
-  transform: translateY(-2px);
 }
 
 .result {
@@ -183,98 +81,131 @@ button[type="submit"]:hover {
   display: block;
 }
 
+table {
+  border: 1px solid #DDDDDD;
+  width: 100%;
+  max-width: 100%;
+  table-layout: fixed;
+  border-collapse: collapse;
+}
+
+th, td {
+  padding: 8px;
+  text-align: left;
+  border: 1px solid #DDDDDD;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+/* Column widths for HDFC table */
+table.hdfc-table th:nth-child(1), table.hdfc-table td:nth-child(1) { /* IFSC */
+  width: 15%;
+}
+table.hdfc-table th:nth-child(2), table.hdfc-table td:nth-child(2) { /* BRANCH */
+  width: 20%;
+}
+table.hdfc-table th:nth-child(3), table.hdfc-table td:nth-child(3) { /* MICR */
+  width: 12%;
+}
+table.hdfc-table th:nth-child(4), table.hdfc-table td:nth-child(4) { /* ADDRESS */
+  width: 25%;
+}
+table.hdfc-table th:nth-child(5), table.hdfc-table td:nth-child(5) { /* STATE */
+  width: 12%;
+}
+table.hdfc-table th:nth-child(6), table.hdfc-table td:nth-child(6) { /* CONTACT */
+  width: 12%;
+}
+table.hdfc-table th:nth-child(7), table.hdfc-table td:nth-child(7) { /* Actions */
+  width: 14%;
+}
+
+/* Column widths for J&K table */
+table.jk-table th:nth-child(1), table.jk-table td:nth-child(1) { /* S.No. */
+  width: 10%;
+}
+table.jk-table th:nth-child(2), table.jk-table td:nth-child(2) { /* Sol Id */
+  width: 12%;
+}
+table.jk-table th:nth-child(3), table.jk-table td:nth-child(3) { /* Branch Name */
+  width: 28%;
+}
+table.jk-table th:nth-child(4), table.jk-table td:nth-child(4) { /* Alpha Code */
+  width: 15%;
+}
+table.jk-table th:nth-child(5), table.jk-table td:nth-child(5) { /* IFSC Code */
+  width: 15%;
+}
+table.jk-table th:nth-child(6), table.jk-table td:nth-child(6) { /* Actions */
+  width: 20%;
+}
+
+/* Ensure Actions buttons fit */
+td .flex.space-x-2 {
+  display: flex;
+  gap: 8px;
+  justify-content: center;
+}
+
+td .flex.space-x-2 button {
+  padding: 4px 8px;
+  font-size: 0.85rem;
+}
+
 /* Responsive Design */
 @media (max-width: 768px) {
+  body {
+    padding: 15px;
+  }
   .card {
     padding: 20px;
   }
-
-  h1 {
-    font-size: 1.8rem;
-  }
-
-  p {
-    font-size: 1rem;
-  }
-
-  label {
-    font-size: 0.9rem;
-  }
-
-  input[type="text"],
-  select {
+  input, select {
     padding: 10px;
     font-size: 0.9rem;
   }
-
-  .suggestion-item {
-    font-size: 0.9rem;
-    padding: 8px;
-  }
-
   button {
     padding: 10px 25px;
     font-size: 0.9rem;
   }
-
-  .result {
-    font-size: 1rem;
+  /* Reduce column widths for smaller screens */
+  table.hdfc-table th:nth-child(4), table.hdfc-table td:nth-child(4) { /* ADDRESS */
+    width: 20%;
+  }
+  table.jk-table th:nth-child(3), table.jk-table td:nth-child(3) { /* Branch Name */
+    width: 25%;
   }
 }
 
 @media (max-width: 480px) {
-  .container {
+  body {
     padding: 10px;
   }
-
   .card {
     padding: 15px;
   }
-
-  h1 {
-    font-size: 1.5rem;
-  }
-
-  p {
-    font-size: 0.9rem;
-  }
-
-  .form-group {
-    margin-bottom: 15px;
-  }
-
-  label {
-    font-size: 0.85rem;
-  }
-
-  input[type="text"],
-  select {
+  input, select {
     padding: 8px;
     font-size: 0.85rem;
   }
-
-  .suggestions {
-    max-height: 180px;
-  }
-
-  .suggestion-item {
-    font-size: 0.85rem;
-    padding: 6px;
-  }
-
-  .button-group {
-    flex-direction: column;
-    gap: 10px;
-  }
-
   button {
-    width: 100%;
     padding: 12px;
     font-size: 0.85rem;
+    width: 100%;
   }
-
-  .result {
-    font-size: 0.9rem;
-    padding: 10px;
+  .flex.gap-4 {
+    flex-direction: column;
+  }
+  /* Further reduce column widths */
+  table.hdfc-table th:nth-child(4), table.hdfc-table td:nth-child(4) { /* ADDRESS */
+    width: 15%;
+  }
+  table.jk-table th:nth-child(3), table.jk-table td:nth-child(3) { /* Branch Name */
+    width: 20%;
+  }
+  td .flex.space-x-2 button {
+    padding: 4px 6px;
+    font-size: 0.75rem;
   }
 }

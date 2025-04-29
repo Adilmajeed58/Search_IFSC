@@ -9,6 +9,12 @@ body {
   background: linear-gradient(135deg, #2C3E50, #1ABC9C);
   min-height: 100vh;
   padding: 20px;
+  overflow-x: hidden;
+}
+
+nav {
+  overflow-x: hidden;
+  max-width: 100%;
 }
 
 .card {
@@ -155,10 +161,37 @@ td .flex.space-x-2 button {
   min-width: 60px;
 }
 
-/* Mobile Responsive Table (480px and below) */
+/* Navbar Login Form (Desktop) */
+#loginForm {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+#loginForm input {
+  padding: 4px 8px;
+  font-size: 0.85rem;
+  width: 120px;
+}
+
+#loginForm button {
+  padding: 4px 12px;
+  font-size: 0.85rem;
+  min-height: 32px;
+}
+
+/* Mobile Responsive (480px and below) */
 @media (max-width: 480px) {
   body {
     padding: 10px;
+    overflow-x: hidden;
+  }
+  nav {
+    padding: 12px;
+  }
+  .container {
+    padding-left: 8px;
+    padding-right: 8px;
   }
   .card {
     padding: 15px;
@@ -167,17 +200,61 @@ td .flex.space-x-2 button {
   input, select {
     padding: 8px;
     font-size: 0.85rem;
+    width: 100%;
+    max-width: 100%;
   }
   button {
     padding: 12px;
     font-size: 0.85rem;
     width: 100%;
+    max-width: 100%;
+    min-height: 44px;
   }
   .flex.gap-4 {
     flex-direction: column;
   }
 
-  /* Hide table headers and use card-like layout */
+  /* Navbar Login Form (Mobile) */
+  nav .flex.justify-between {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 12px;
+  }
+  #loginForm {
+    flex-direction: column;
+    align-items: stretch;
+    gap: 8px;
+    width: 100%;
+    max-width: 100%;
+  }
+  #loginForm input {
+    width: 100%;
+    max-width: 100%;
+    padding: 8px;
+    font-size: 0.9rem;
+    min-height: 44px;
+  }
+  #loginForm button {
+    width: 100%;
+    max-width: 100%;
+    padding: 8px;
+    font-size: 0.9rem;
+    min-height: 44px;
+  }
+  #logoutBtn {
+    width: 100%;
+    max-width: 100%;
+    padding: 8px;
+    font-size: 0.9rem;
+    min-height: 44px;
+  }
+
+  /* Hide logout button when login form is visible */
+  #loginForm:not(.hidden) + #logoutBtn {
+    display: none;
+  }
+
+  /* Table Card Layout */
   table.hdfc-table, table.jk-table {
     display: block;
     border: none;
@@ -206,7 +283,6 @@ td .flex.space-x-2 button {
     overflow: visible;
     text-overflow: clip;
   }
-  /* Add labels for each field */
   table.hdfc-table td:before, table.jk-table td:before {
     content: attr(data-label);
     font-weight: 600;
@@ -215,7 +291,6 @@ td .flex.space-x-2 button {
     width: 40%;
     padding-right: 8px;
   }
-  /* Specific labels for HDFC */
   table.hdfc-table td:nth-child(1):before { content: "IFSC"; }
   table.hdfc-table td:nth-child(2):before { content: "Branch"; }
   table.hdfc-table td:nth-child(3):before { content: "MICR"; }
@@ -223,14 +298,12 @@ td .flex.space-x-2 button {
   table.hdfc-table td:nth-child(5):before { content: "State"; }
   table.hdfc-table td:nth-child(6):before { content: "Contact"; }
   table.hdfc-table td:nth-child(7):before { content: "Actions"; }
-  /* Specific labels for J&K */
   table.jk-table td:nth-child(1):before { content: "S.No."; }
   table.jk-table td:nth-child(2):before { content: "Sol Id"; }
   table.jk-table td:nth-child(3):before { content: "Branch Name"; }
   table.jk-table td:nth-child(4):before { content: "Alpha Code"; }
   table.jk-table td:nth-child(5):before { content: "IFSC Code"; }
   table.jk-table td:nth-child(6):before { content: "Actions"; }
-  /* Actions buttons */
   td .flex.space-x-2 {
     display: flex;
     flex-direction: column;
@@ -263,7 +336,6 @@ td .flex.space-x-2 button {
     padding: 10px 25px;
     font-size: 0.9rem;
   }
-  /* Adjust column widths */
   table.hdfc-table th:nth-child(4), table.hdfc-table td:nth-child(4) { /* ADDRESS */
     width: 20%;
   }

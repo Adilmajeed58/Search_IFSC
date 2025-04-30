@@ -32,9 +32,12 @@ document.addEventListener('DOMContentLoaded', () => {
   const ifscForm = document.getElementById("ifscForm");
   const resetBtn = document.getElementById("resetBtn");
   const resultDiv = document.getElementById("result");
+  const loginAdminBtn = document.getElementById("loginAdminBtn");
+  const loginModal = document.getElementById("loginModal");
   const loginBtn = document.getElementById("loginBtn");
   const usernameInput = document.getElementById("username");
   const passwordInput = document.getElementById("password");
+  const closeModalBtn = document.getElementById("closeModalBtn");
   const home = document.getElementById("home");
   const dashboard = document.getElementById("dashboard");
   const logoutBtn = document.getElementById("logoutBtn");
@@ -42,7 +45,6 @@ document.addEventListener('DOMContentLoaded', () => {
   const saveBtn = document.getElementById("saveBtn");
   const tableHead = document.getElementById("tableHead");
   const tableBody = document.getElementById("tableBody");
-  const loginForm = document.getElementById("loginForm");
 
   // Fetch JSON Data
   async function loadJSON() {
@@ -59,7 +61,7 @@ document.addEventListener('DOMContentLoaded', () => {
       console.log('Fetching ifsc.json...');
       const jkResponse = await fetch('ifsc.json');
       if (!jkResponse.ok) {
-        throw new Error(`Failed to fetch ifsc.json: ${jkResponse.status} ${jkResponse.statusText}`);
+        throw new Error(`Failed to fetch ifsc.json: ${hdfcResponse.status} ${hdfcResponse.statusText}`);
       }
       jkData = await jkResponse.json();
       console.log('Raw J&K Data Length:', jkData.length);
@@ -286,6 +288,36 @@ document.addEventListener('DOMContentLoaded', () => {
     console.log('Form Reset');
   });
 
+  // Show Login Modal
+  loginAdminBtn.addEventListener("click", () => {
+    if (!selectedBank) {
+      alert("Please select a bank first.");
+      console.warn('Login attempt failed: No bank selected');
+      return;
+    }
+    loginModal.classList.remove("hidden");
+    usernameInput.focus();
+    console.log('Login Modal Shown');
+  });
+
+  // Close Login Modal
+  closeModalBtn.addEventListener("click", () => {
+    loginModal.classList.add("hidden");
+    usernameInput.value = "";
+    passwordInput.value = "";
+    console.log('Login Modal Closed');
+  });
+
+  // Close Modal on Outside Click
+  loginModal.addEventListener("click", (e) => {
+    if (e.target === loginModal) {
+      loginModal.classList.add("hidden");
+      usernameInput.value = "";
+      passwordInput.value = "";
+      console.log('Login Modal Closed (Outside Click)');
+    }
+  });
+
   // Login
   loginBtn.addEventListener("click", () => {
     const username = usernameInput.value;
@@ -309,8 +341,9 @@ document.addEventListener('DOMContentLoaded', () => {
       isLoggedIn = true;
       home.classList.add("hidden");
       dashboard.classList.remove("hidden");
-      loginForm.classList.add("hidden");
-      logoutBtn.classList.remove("hidden");
+      loginModal.classList.add("hidden");
+      usernameInput.value = "";
+      passwordInput.value = "";
       renderDashboard();
       console.log('Login Successful');
     } else {
@@ -332,8 +365,6 @@ document.addEventListener('DOMContentLoaded', () => {
     branchInput.value = '';
     suggestions.innerHTML = '';
     resultDiv.textContent = '';
-    loginForm.classList.remove("hidden");
-    logoutBtn.classList.add("hidden");
     selectedBank = "";
     console.log('Logged Out');
   });

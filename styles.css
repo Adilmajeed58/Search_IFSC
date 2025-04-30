@@ -161,23 +161,26 @@ td .flex.space-x-2 button {
   min-width: 60px;
 }
 
-/* Navbar Login Form (Desktop) */
-#loginForm {
-  display: flex;
-  align-items: center;
-  gap: 8px;
+/* Login Modal */
+#loginModal {
+  transition: opacity 0.3s ease;
 }
 
-#loginForm input {
-  padding: 4px 8px;
-  font-size: 0.85rem;
-  width: 120px;
+#loginModal .bg-white {
+  max-width: 90vw;
+  width: 300px;
 }
 
-#loginForm button {
-  padding: 4px 12px;
-  font-size: 0.85rem;
-  min-height: 32px;
+#loginForm input, #loginForm button {
+  width: 100%;
+  max-width: 100%;
+  padding: 8px;
+  font-size: 0.9rem;
+  min-height: 44px;
+}
+
+#closeModalBtn {
+  font-size: 1.2rem;
 }
 
 /* Mobile Responsive (480px and below) */
@@ -214,44 +217,10 @@ td .flex.space-x-2 button {
     flex-direction: column;
   }
 
-  /* Navbar Login Form (Mobile) */
-  nav .flex.justify-between {
-    flex-direction: column;
-    align-items: flex-start;
-    gap: 12px;
-  }
-  #loginForm {
-    flex-direction: column;
-    align-items: stretch;
-    gap: 8px;
-    width: 100%;
-    max-width: 100%;
-  }
-  #loginForm input {
-    width: 100%;
-    max-width: 100%;
-    padding: 8px;
-    font-size: 0.9rem;
-    min-height: 44px;
-  }
-  #loginForm button {
-    width: 100%;
-    max-width: 100%;
-    padding: 8px;
-    font-size: 0.9rem;
-    min-height: 44px;
-  }
-  #logoutBtn {
-    width: 100%;
-    max-width: 100%;
-    padding: 8px;
-    font-size: 0.9rem;
-    min-height: 44px;
-  }
-
-  /* Hide logout button when login form is visible */
-  #loginForm:not(.hidden) + #logoutBtn {
-    display: none;
+  /* Navbar */
+  nav h1 {
+    font-size: 1.2rem;
+    white-space: normal;
   }
 
   /* Table Card Layout */
